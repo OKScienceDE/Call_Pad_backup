@@ -6,7 +6,9 @@ main(){
     mkdir -p ${BACKUP_FOLDER}
     backup_master_pad
     backup_calls_notes_okfn_de
-    backup_calls_notes_okfn_org
+
+    # To check:
+    # backup_calls_notes_okfn_org
 }
 
 backup_master_pad(){
