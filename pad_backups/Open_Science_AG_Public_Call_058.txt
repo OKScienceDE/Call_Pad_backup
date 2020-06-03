@@ -1,0 +1,131 @@
+Call der Deutschsprachigen Open Science AG und de-RSE 58
+
+	* Datum: 2020-04-01 von 11:00 bis 12:00
+	* Konferenzsystem/URL/Nummer:
+	    1. Mit Ihrem Browser unter Windows, MacOS, GNU/Linux:
+	
+	
+	NICHT: ( https://conf.dfn.de/webatpp/conference/97985301 )
+	
+	... Wir zeihen gleich noch weiter => ZOOM - Link kommt gleich hier:
+	
+	*trommelwirbel* ....  
+	
+	
+	Heidi Seibold is inviting you to a scheduled Zoom meeting.
+	
+	Topic: My Meeting
+	Time: This is a recurring meeting Meet anytime
+	
+	Join Zoom Meeting
+	https://zoom.us/j/187938090?pwd=WG83SjFZYzJBamJISzk1NDVkS2F1dz09
+	
+	Meeting ID: 187 938 090
+	Password: 771242
+	
+	One tap mobile
+	+12532158782,,187938090# US
+	+13017158592,,187938090# US
+	
+	Dial by your location
+	        +1 253 215 8782 US
+	        +1 301 715 8592 US
+	        +1 312 626 6799 US (Chicago)
+	        +1 346 248 7799 US (Houston)
+	        +1 669 900 6833 US (San Jose)
+	        +1 929 205 6099 US (New York)
+	Meeting ID: 187 938 090
+	Find your local number: https://zoom.us/u/abdnIk2YYv <- Hier gibt es Einwahlnummern für DE
+	
+	
+	
+	    2. Mit einem SIP/H.323-Raumsystem oder SIP/H.323-Client:
+		    - H.323: 004910097985301
+		   - SIP:   97985301@conf.dfn.de
+	   3. Mit einem Telefon (nur Audio): 0049 30 200 97985301
+	   4. Über Skype for Business: 97985301@vc.dfn.de
+	   5. Mobil mit Smartphone: Voraussetzung ist die vorinstallierte Pexip App unter
+		   - Android: https://play.google.com/store/apps/details?id=com.pexip.infinityconnect
+		   - iOS:     https://itunes.apple.com/us/app/pexip-infinity-connect/id1195088102 
+		   Gibt dort ein: 
+		@conf.dfn.de
+		* Backup-Kanal bei technischen Problemen ist das Chat in diesem Pad!!!
+	* Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsprachigen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsame Projekt zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG -https://mlists.okfn.de/cgi-bin/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( http://dx.doi.org/10.5281/zenodo.12326 / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+	* Hintergrund: Forschungsergebnisse sollten für alle im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagert sich immer weiter ins Netz - und auch in diesen frühen Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um, gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+	* Wer darf mitmachen? Alle, die Interesse an Open Science haben! Du brauchst kein tiefes Hintergrundwissen und kannst gerne Fragen stellen. Gerade Menschen ohne fundierten Hintergrund in Open Science, die sich in die Community einklinken möchten, sind herzlich willkommen.
+	* Zurück zum Masterpad: https://pad.okfn.de/p/openscience-ag-master-pad
+
+
+
+TeilnehmerInnen: - wir sind jetzt hier: 
+	Zoom (siehe oben)
+	* Konrad Förstner (ZB MED / TH Köln)
+	* Heidi Seibold (LMU München / Helmholtz Zentrum München)
+	* Stephan Janosch (MPI-CBG, de-RSE e.V.)
+	* Frank Tristram (KIT / 3DMM2O)
+	* Christian Busse (DKFZ Heidelberg)
+	* Florian Goth(SFB 1170 Uni Würzburg)
+	* Tamara Heck (DIPF Frankfurt)
+	* Guido Scherp (ZBW / Leibniz-Forschungsverbund Open Science)
+	* Lambert Heller (TIB)
+	* Frank Löffler (Uni Jena)
+
+Agenda und Protokoll
+
+Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deine Namen hinzu, so dass wir wissen wer verantwortlich ist.
+
+	* Organisatorisches (Moderator)
+		* Dauer des Gespräches
+		* Bitte Protokoll mitschreiben - einfach die Agenda ergänzen
+	* Vorstellungsrunde
+	* Themenblock AG Open Science
+		* Open Science MOOC drama (Heidi)
+			* https://opensciencemooc.eu/community_update/2020/03/31/comm-update/
+			* Steering committee stellt sich neu auf (jemand Lust?)
+			* Platformwechsel zu Moodle / H5P bei OnCampus, TH Lübeck
+			* Ansprechpartner: siehe Link mit Formular
+		* Open Education (Heidi)
+			* Heidi hat unter einer CC-BY-NC-SA ML inhalte generiert "intro2ML"
+				* Sollten wir die Lizenz ändern? Kein NC. Kein SA.
+				* https://compstat-lmu.github.io/lecture_i2ml/
+			* ZOERR - https://www.oerbw.de/ => für Baden-Würtemberg aber mittlereweil auch darüber hinaus
+			* OER = Open Educational Ressources
+			* Tamara versucht Suchmaschien über verschiede OER-Repos zu bauen: Projekt EduArc, noch nichts online: https://www.dipf.de/de/forschung/aktuelle-projekte/digitale-bildungsarchitekturen-offene-lernressourcen-in-verteilten-lerninfrastrukturen // wir suchen aktuell Best Practices von Hochschuldozierenden, also gerne melden :-)
+			* 
+		* EOSC (European Open Science Cloud) (Christian)
+			* Rules of Participation: https://repository.eoscsecretariat.eu/index.php/s/QWd7tZ7xSWJsesn
+			* FAIR Metrics: https://repository.eoscsecretariat.eu/index.php/s/C3a5WkpsFHL6GD3
+				* Diskutiert auch FAIR Software (S. 11)
+			* Fast-track co-creation funding for COVID-19 related activities (https://www.eoscsecretariat.eu/news-opinion/funding-covid-19-activities) 
+		* Bio-Hackathon (Konrad)
+			* https://groups.google.com/forum/#!forum/virtual-biohackathon
+		* Verfügbarkeit von offenen genomisch Daten (Konrad)
+			* EDPS (European Data Protection Supervisor) Kommentar zu Datenschutz in Zeiten von SARS-CoV-2 (Christian):
+				* https://edps.europa.eu/sites/edp/files/publication/20-03-25_edps_comments_concerning_covid-19_monitoring_of_spread_en.pdf
+		* Open Science Radio - BarCamp Open Science Episoden sind in Arbeit
+			* Sagt Bescheid, wenn ihr Hilfe braucht! (Heidi)
+			* Sendet positive "Energie" an Matthias: https://twitter.com/konradfoerstner/status/1244743409153323009
+		* Neues Format der Wissenschaftskommunikation: Video-Livestreaming auf Twitch, u.a. ForschungsStrom (twitch.tv/forschungsstrom, initiiert von Claudia Frick, FZ Jülich) am Donnerstag um 21 Uhr, sowie Biblionik Talk (nur Lambert), Donnerstag 17 Uhr. https://twitter.com/Lambo/status/1245288540122099712
+			* https://twitter.com/forschungsstrom 
+			* https://www.twitch.tv/biblionik/videos
+		* InnoSci | Forum offene Innovationskultur (https://www.stifterverband.org/innosci )  -> Open Data Impact Award,  Ausschreibung Anfang April, Deadline ist der 30. Juni (Guido)
+			* "Der Preis richtet sich an Wissenschaftler*innen, die ihre Datensätze zur Nachnutzung offen gestellt haben und daraus eine Innovation für die Allgemeinheit entwickelt haben (oder darstellen, wo sie das Potenzial für eine innovative Nachnutzung sehen)."
+		* Societal Impact of Open Science: suche Partner für Forschungsantrag (Tamara), gerne melden
+			* Vielleicht wäre das interessant für Knowledge Exchange? https://www.knowledge-exchange.info
+		* Open Science Policies: Habt ihr welche? Wenn sie online sind, bitte Link senden -> Wir haben eine kleine Untersuchung zum Inhalt und Verständnis von Policies
+			* An wen sollen wir das schicken? -> heck@dipf.de
+	* Themenblock de-RSE
+		* https://github.com/forschungsdaten/Short_Manuals/blob/master/Software_Development.md (Frank.Tristram@kit.edu)
+			* Short Manual für Software Entwicklung - kurz und gut :)
+		* RDA Software Source Code Interest Group: Session on FAIR for Research Software (Christian)
+			* Slides: https://www.rd-alliance.org/fair-research-software-slides-virtual-plenary-15
+			* Notepad: https://docs.google.com/document/d/19-VzECamBP7V1Aa-6zug0SbAGk8gndm2avjtrzcAloE
+		* neues zur deRSE20-Konferenz (Stephan)
+			* Absage: https://de-rse.org/deRSE20/news/corona/
+Jitsi: https://meet.rz.uni-wuerzburg.de/ (mindestens ein host von der Uni Würzburg wird benötigt.)
+	* nächster Termin: 2020-05-06 11:00
+	* Abschluss
+		* Wer schreibt eine Blog Post über das Gespräch?
+		* Wer organisiert das nächste Treffen?
+		* 
+		* 

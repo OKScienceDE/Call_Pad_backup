@@ -1,0 +1,87 @@
+Sammlung aller Pads und Aufzeichungen der deutschsprachigen OKF Open Science AG:
+
+Kommende Veranstaltungen
+	* Call Mai 2020-06-03 https://pad.okfn.de/p/Open_Science_AG_Public_Call_060
+
+Bisherige Veranstaltungen:
+	* Call Mai 2020-05-06 https://pad.okfn.de/p/Open_Science_AG_Public_Call_059
+	* Call April 2020-04-01 https://pad.okfn.de/p/Open_Science_AG_Public_Call_058
+	* Call März 2020-03-04 11:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_057
+	* Call Februar 2020-02-05 11:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_056
+	* Call Januar 2020-01-08 11:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_055
+	* Call Dezember 2019-12-04 16:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_054
+	* Call November 2019-11-06 11:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_053
+	* Call Oktober 2019-10-16 9:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_052
+	* Call Juli 2019-07-03 11:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_051
+	* Call Juni 2019-06-12  (! verschoben wegen deRSE-Konferenz) (16:00)  https://pad.okfn.de/p/Open_Science_AG_Public_Call_050
+	* Call Mai (2019-05-08 (! verschoben wegen Mai-Feiertag) (11:00) https://pad.okfn.de/p/Open_Science_AG_Public_Call_049
+	* Call April 2019-04-03 (16:00) https://pad.okfn.de/p/Open_Science_AG_Public_Call_048
+	* Call März 2019-03-06 (11:00) https://pad.okfn.de/p/Open_Science_AG_Public_Call_047
+	* Call Februar 2019-02-06 (16:00) https://pad.okfn.de/p/Open_Science_AG_Public_Call_046
+	* Call Januar 2019-01-09 (! verschoben auf den 9. Januar) (11:00) https://pad.okfn.de/p/Open_Science_AG_Public_Call_045
+	* Call Dezember 2018-12-05 https://pad.okfn.de/p/Open_Science_AG_Public_Call_044
+	* Call November 2018-11-07 https://pad.okfn.de/p/Open_Science_AG_Public_Call_043
+	* Call Oktober 2018-10-10 https://pad.okfn.de/p/Open_Science_AG_Public_Call_042
+	* Call September 2018-09-05 https://pad.okfn.de/p/Open_Science_AG_Public_Call_041
+	* Call August 2018-08-01 https://pad.okfn.de/p/Open_Science_AG_Public_Call_040
+	* Call Juli 2018-07-04 https://pad.okfn.de/p/Open_Science_AG_Public_Call_039
+	* Call Juni 2018-06-06 https://pad.okfn.de/p/Open_Science_AG_Public_Call_038
+	* Call Mai 2018-05-2 https://pad.okfn.de/p/Open_Science_AG_Public_Call_037
+	* Call April 2018-04-12 https://pad.okfn.de/p/Open_Science_AG_Public_Call_036
+	* Call März 2018-03-14 https://pad.okfn.de/p/Open_Science_AG_Public_Call_035
+	* Call Februar 2018-02-07 https://pad.okfn.de/p/Open_Science_AG_Public_Call_034
+	* Call Januar 2018-01-10 https://pad.okfn.de/p/Open_Science_AG_Public_Call_033
+	* Call Dezember 2017-12-06 https://pad.okfn.de/p/Open_Science_AG_Public_Call_032
+	* Call November 2017-11-02 https://pad.okfn.de/p/Open_Science_AG_Public_Call_031
+	* Call Oktober 2017-10-05 14:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_030
+	* Call September 2017-09-07 14:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_029
+	* Call August 2017-08-03 14:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_028
+	* Call Juli 2017-07-06 14:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_027
+	* Call Juni 2017-06-01 14:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_026
+	* Call May  2017-05-04 14:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_025
+	* Call April  2017-04-06 14:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_024
+	* Call März  2017-03-02 14:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_023
+	* Call Februar 2017-02-03 14:00 https://pad.okfn.org/p/Open_Science_AG_Public_Call_022
+	* Call Januar 2017-01-12 14:00 https://pad.okfn.org/p/Open_Science_AG_Public_Call_021
+	* Workshop auf dem 33C3: https://pad.okfn.org/p/OpenScienceWorkshop33C3
+	* Call Dezember 2016-12-01 14:00 https://pad.okfn.org/p/Open_Science_AG_Public_Call_020
+	* Call November 2016-11-03 14:00 https://pad.okfn.org/p/Open_Science_AG_Public_Call_019
+	* Call Oktober 2016-10-06 14:00 https://pad.okfn.org/p/Open_Science_AG_Public_Call_018
+	* Call September 2016-09-01 14:00 https://pad.okfn.org/p/Open_Science_AG_Public_Call_017
+	* Call August 2016-08-04 14:00 https://pad.okfn.org/p/Open_Science_AG_Public_Call_016
+	* Call Juli 2016-07-07 14:00 https://pad.okfn.org/p/Open_Science_AG_Public_Call_015
+	* Call Juni 2016-06-02 14:00 https://pad.okfn.org/p/Open_Science_AG_Public_Call_014
+	* Call Mai 2016-05-12 (Außerplanmäßig!) 14:00 https://pad.okfn.org/p/Open_Science_AG_Public_Call_013
+	* Call April 2016-04-07 14:00 https://pad.okfn.org/p/Open_Science_AG_Public_Call_012
+	* Call März 2016-03-03 14:00 https://pad.okfn.org/p/Open_Science_AG_Public_Call_011
+	* Call Februar 2016-02-04 14:00 https://pad.okfn.org/p/Open_Science_AG_Public_Call_010
+	* Call Januar 2016-01-07 14:00 https://pad.okfn.org/p/Open_Science_AG_Public_Call_009
+	* Workshop auf dem 32C3 (Chaos Communication Congress, Hamburg) 2015-12-27 - 2015-12-30
+		*  https://pad.okfn.org/p/32C3-OpenScience
+		* Orga Pad https://pad.okfn.org/p/32C3-OpenScience-Orga
+	* Call Dezember 2015-12-03 14:00 https://pad.okfn.org/p/Open_Science_AG_Public_Call_008
+	* Call Oktober 2015-10-01 14:00 https://pad.okfn.org/p/Open_Science_AG_Public_Call_006
+	* Call 2015-09-11 13:00 https://pad.okfn.org/p/Open_Science_AG_Public_Call_005
+	* 2015-08-13 - 2015-08-17: Meeting auf dem CCCamp https://pad.okfn.org/p/open_science_meeting_CCCamp_2015
+	* Call 2015-08-03 https://pad.okfn.org/p/Open_Science_AG_Public_Call_004
+	* Call Juli 2015 - https://pad.okfn.org/p/Open_Science_AG_Public_Call_003
+	* Call 2015-06-01 https://pad.okfn.org/p/Open_Science_AG_Public_Call_002
+	* Call 2015-04-28 17:00 - 18:00 https://etherpad.wikimedia.org/p/Open_Science_AG_Public_Call
+	* Call 2015-02-05 17:00 - 18:00: https://pad.okfn.org/p/openscience-call-2015-02-05
+	* Workshop auf dem 31C3 2014-12-27: https://pad.okfn.org/p/31c3opensciencemeeting
+	* Meeting #pdsc14 2014-11-14: https://pad.okfn.org/p/open-science-ag-1411
+	* Kick of meeting in Berlin 2014-07-16: http://pad.okfn.org/p/okfestkickoffsession
+	* Weitere Protokolle: https://docs.google.com/document/d/1U_5K9kRVMD-kR3RPW8eOsLnTSEQH7UeWh00xqvLt5Gw/
+
+Misc/Resourcen
+	* Call Template / Checklist https://pad.okfn.de/p/okfn_open_science_ag_call_template
+	* Die Open Science AG Twitter Redaktion: https://pad.okfn.org/p/open_science_twitter
+	* Einladung Open Science Call: https://pad.okfn.org/p/ankuendigung-openscience-call
+	* Begründung des geschlossenen Telefonsystems: https://pad.okfn.org/p/sorrywereclosed
+	* Github Account https://github.com/OKScienceDE
+	* Mission Statement der AG: https://zenodo.org/record/12326 / https://github.com/OKScienceDE/Mission_Statement
+	* Mailingliste: https://lists.okfn.org/mailman/listinfo/open-science-de
+	* Entwickler einer eigenen Website https://pad.okfn.org/p/website-open-science-ag
+
+
+

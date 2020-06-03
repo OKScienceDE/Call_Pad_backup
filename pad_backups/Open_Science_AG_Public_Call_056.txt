@@ -1,0 +1,91 @@
+Call der Deutschsprachigen Open Science AG und de-RSE 56
+
+	* Datum: 2020-02-05 von 11:00 bis 12:00
+	* Konferenzsystem/URL/Nummer:
+	    1. Mit Ihrem Browser unter Windows, MacOS, GNU/Linux: https://conf.dfn.de/webapp/conference/97985301
+	    2. Mit einem SIP/H.323-Raumsystem oder SIP/H.323-Client:
+		    - H.323: 004910097985301
+		   - SIP:   97985301@conf.dfn.de
+	   3. Mit einem Telefon (nur Audio): 0049 30 200 97985301
+	   4. Über Skype for Business: 97985301@vc.dfn.de
+	   5. Mobil mit Smartphone: Voraussetzung ist die vorinstallierte Pexip App unter
+		   - Android: https://play.google.com/store/apps/details?id=com.pexip.infinityconnect
+		   - iOS:     https://itunes.apple.com/us/app/pexip-infinity-connect/id1195088102 
+		   Gibt dort ein: 97985301@conf.dfn.de
+		* Backup-Kanal bei technischen Problemen ist das Chat in diesem Pad!!!
+	* Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsprachigen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsame Projekt zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG - https://lists.okfn.org/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( http://dx.doi.org/10.5281/zenodo.12326 / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+	* Hintergrund: Forschungsergebnisse sollten für alle im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagert sich immer weiter ins Netz - und auch in diesen frühen Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um, gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+	* Wer darf mitmachen? Alle, die Interesse an Open Science haben! Du brauchst kein tiefes Hintergrundwissen und kannst gerne Fragen stellen. Gerade Menschen ohne fundierten Hintergrund in Open Science, die sich in die Community einklinken möchten, sind herzlich willkommen.
+	* Zurück zum Masterpad: https://pad.okfn.de/p/openscience-ag-master-pad
+
+
+
+TeilnehmerInnen:
+	* Konrad Förstner (ZB MED/TH Köln)
+	* Stephan Janosch (MPI-CBG/de-RSE)
+	* Xenia Kobeleva (Uni Bonn/ DZNE Bonn)
+	* Guido Scherp (ZBW)
+	* Carina Haupt (DLR)
+	* Christian Busse (DKFZ)
+	* Florian Goth (Uni Würzburg)
+	* Frank Löffler (Uni Jena)
+
+Agenda und Protokoll
+
+Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deine Namen hinzu, so dass wir wissen wer verantwortlich ist.
+
+	* Organisatorisches (Moderator)
+		* Dauer des Gespräches
+		* Bitte Protokoll mitschreiben - einfach die Agenda ergänzen
+	* Vorstellungsrunde
+	* Themenblock AG Open Science
+		* A (non-viral) copyleft/sharealike license for open research data (Konrad)
+			* https://www.nicebread.de/a-non-viral-copyleft-sharealike-license-for-open-research-data/
+		* Open Science Days (Konrad
+			* https://osd.mpdl.mpg.de/
+		* WikiCite Satellite 
+			* https://www.wikidata.org/wiki/Wikidata:WikiCite_Satellite_Cologne_2020
+		* Barcamp Open Science (10. März Berlin) ausgebucht;) // Open Science Conference (11. -12  März Berlin Early Bird noch bis Freitag:) (Guido)
+			* https://www.open-science-conference.eu/ 
+		* NSF 19-501 AccelNet Proposal: Community of Open Scholarship Grassroots Networks (COSGN) (Guido)
+			* Brian Nosek, Katie Corker, Tina Krall, and Fielding Grasty 
+			* https://osf.io/preprints/metaarxiv/d7mwk/ 
+		* Community Backstage (Carina)
+			* 05.03.2020 https://www.community-backstage.de/
+		* FOSS Backstage (Carina)
+			* 06.03.2020 https://20.foss-backstage.de/, in Berlin
+			* Verschieden Aspekte der Zusammenarbeit von Open Source Software; Community building etc.
+		* Fosdem News (Stephan Janosch)
+			* https://www.heise.de/suche/?q=fosdem&rm=search&sort_by=date
+			* https://www.heise.de/newsticker/meldung/FOSDEM-Die-Cloud-als-Bedrohung-fuer-Freie-Software-4651564.html
+			* Session Open Research Software (Video Recordings)
+				* https://video.fosdem.org/2020/AW1.126/
+					* https://ftp.belnet.be/mirror/FOSDEM/2020/AW1.126/open_research_oss_tools_neuro.mp4
+
+	* Themenblock de-RSE
+		* deRSE20 (Stephan Janosch)
+			* call for contribution: https://de-rse.org/deRSE20/programme/call-for-contributions/
+			* topic bazar: https://bit.ly/deRSE20-bazaar
+			* Es werden noch einige Chairs gesucht
+			* Locales aus Jena gesucht
+			* https://de-rse.org/
+				* liste@de-rse.org (atkive Mailingliste mit 250+ Lesern)
+			* Open Science Radio Episoden zur Konferenz des letzten Jahres
+				* http://www.openscienceradio.org/2019/02/20/osr140-de-rse-association-and-conference-for-research-software-engineers-in-germany-en/
+				* http://www.openscienceradio.org/2019/06/12/osr171-voices-from-de-rse-conference-2019-en/
+				* http://www.openscienceradio.org/2017/10/20/osr091-forschungssoftware-in-deutschland-de/
+		* de-RSE jetzt auch auf Mastodon:  https://mastodon.social/@de_rse (Christian)
+		* RSEs in der MPG (Stephan Janosch)
+			* https://os.helmholtz.de/bewusstsein-schaerfen/newsletter/archiv/newsletter-77-vom-20112019/#c20236
+				* Umfrage: https://onlinesurvey.dkfz.de/index.php/652278?lang=en
+			* HIFIS - intern von Helmholz aber auch nach extern
+		* DEIN THEMA (DEIN NAME)
+	* Themenblock Meta
+		* Verschiebung auf 14:00 und 11:00 - erster Mittwoch im Monat
+		* Open Science DE Mailing Liste wird abgestellt, siehe folgendes Posting: https://lists.okfn.org/pipermail/open-science/2019-November/009602.html . Wie laufen die Einladungen für die Calls ab jetzt? Discourse? <- betrifft die Englische, nicht die Deutsche Ok, sorry für die Verwirrung!
+	* nächster Termin: 2020-03-04 14:00
+	* Abschluss
+		* Wer schreibt eine Blog Post über das Gespräch?
+		* Wer organisiert das nächste Treffen?
+		* 
+		* 

@@ -1,0 +1,76 @@
+*Call der Deutschsprachigen Open Science AG und de-RSE 032
+
+	* Datum: 2017-12-06 von 11:00 bis 12:00
+	* Konferenzsystem/URL/Nummer:
+		* +49 (0) 30 3080 6188 (Germany Toll)
+		* Meeting ID: 853 606 3002 
+		* Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/8536063002 
+		* International numbers available:  https://zoom.us/zoomconference?m=hyvG8NGnTzfhlo-aL2Na09c9oPfNqROK 
+		* Client installieren: http://zoom.us/download#client_4meeting
+		* Backup-Kanal bei technischen Problemen ist das Chat in diesem Pad!!!
+	* Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsprachigen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsame Projekt zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG - https://lists.okfn.org/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( http://dx.doi.org/10.5281/zenodo.12326 / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+	* Hintergrund: Forschungsergebnisse sollten für alle im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagert sich immer weiter ins Netz - und auch in diesen frühen Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen - wie z.B. "Facebook für Wissenschaftler"-Dienste - schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um, gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+	* Wer darf mitmachen? Alle, die Interesse an Open Science haben! Du brauchst kein tiefes Hintergrundwissen und kannst gerne Fragen stellen. Gerade Menschen ohne fundierten Hintergrund in Open Science, die sich in die Community einklinken möchten, sind herzlich willkommen.
+	* Zurück zum Masterpad: https://pad.okfn.de/p/openscience-ag-master-pad
+
+
+
+*TeilnehmerInnen:
+	* Konrad Förstner - Universität Würzburg
+	* Daniel Nüst, Uni Münster, http://o2r.info
+	* Andreas Walker - Bibliotheksreferendar (SUB Göttingen) <https://hu.berlin/walker>
+	* Simon Christ - PHD Student (MPI Kolloid- und Grenzflächenforschung Potsdam)
+	* Stephan Janosch - RSE, 
+	* Frank Löffler - de-RSE Mitgruender, seit Kurzem an der FSU Jena (Verteilte Systeme und Semantic Web)
+	* Tobias Schlauch - wissenschaftl. Mitarbeiter am DLR
+	* Lambert Heller (TIB)
+	* Tobias Schlauch (DLR)
+
+*Agenda und Protokoll
+
+Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deine Namen hinzu, so dass wir wissen wer verantwortlich ist.
+
+	* Organisatorisches (Moderator)
+		* Dauer des Gespräches
+		* Bitte Protokoll mitschreiben - einfach die Agenda ergänzen
+	* Vorstellungsrunde
+	* Update zum Allianz Initiative "Digitale Information" mit Schwerpunkt der AG "Digitale Werkzeuge – Software und Dienste" (Konrad) : http://www.allianzinitiative.de/
+		* Themen für die neue 5 Jahresperiode
+			* Wissenschaftliches Publikationssystem
+			* Digitale Werkzeuge und Dienste
+			* Digitales Lernen, Lehren und Vernetzen
+			* Digitale Daten- und Textkorpora
+			* Digital qualifiziertes Personal
+			* Föderierte IT-Basisinfrastruktur
+			* Recht für Wissenschaft und Lehre im digitalen Zeitalter
+			* Wissenschaftskultur, -politik und –förderung 
+	* Open Science Workshop auf dem C3 in Leipzig?
+		* Konrad kann dieses Jahr den Workshop nicht durchführen und sucht jemanden
+		* Frank Löffler eventuell interessiert (braeuchte aber Material) (keine Karte...)
+		* Lambert Heller (habe aber leider keine Karte...)
+		* https://github.com/konrad/Open_Science_Workshop_Toolbox
+	* de-RSE - Karte (Stephan)
+		* https://cloud.mpi-cbg.de/index.php/s/1vyxlbMcb2MIeaS
+		* Wird heute veröffentlicht, Einträge können aber jederzeit nachgereicht werden
+		* Ziel: lokale Vernetzung
+		* Zum Vergleich: OER World Map <https://oerworldmap.org/>
+	* Community Meetup - am BioIT am EMBL, 24.1. (Stephan)
+		* Ergebnis von RSE17
+		* Community-Building am EMBL, Austausch von Erfahrungen
+	* de-RSE-Vereinsgründung (Stephan)
+		* 13.12. 11 Uhr - Call Mittwoch: Telefonnummer: 030 20097917983
+	* Knowledge Exchange Open Scholarship Working Groups (Lambert)
+		* verschiedene Förderer aus europäischen Ländern
+	* Agiles Forschen und Entwickeln, Stifterverband (Lambert)
+		* Sebastian Horn
+		* Ähnlichkeiten "Open Science" und "Open Innovation" in Unternehmen
+	* Frage in Runde - Förderung von Wissenschaftskommunikation (Stephan)
+		* DAAD
+		* Guido Scherp - ZBW 
+	* DEIN THEMA (DEIN NAME)
+	* nächster Termin: Außerplanmäßig wegen Weihnachtsferien am 10. Januar - Wer kann übernehmen? -> Stephan Janosch
+	* Abschluss
+		* Wer schreibt eine Blog Post über das Gespräch?
+		* Wer organisiert das nächste Treffen?
+		* 
+

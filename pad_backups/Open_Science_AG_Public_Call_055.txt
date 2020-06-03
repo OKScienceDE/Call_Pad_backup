@@ -1,0 +1,98 @@
+Call der Deutschsprachigen Open Science AG und de-RSE 55
+
+	* Datum: 2020-01-08 von 11:00 bis 12:00
+	* Konferenzsystem/URL/Nummer:
+	    1. Mit Ihrem Browser unter Windows, MacOS, GNU/Linux: https://conf.dfn.de/webapp/conference/97985301
+	    2. Mit einem SIP/H.323-Raumsystem oder SIP/H.323-Client:
+		    - H.323: 004910097985301
+		   - SIP:   97985301@conf.dfn.de
+	   3. Mit einem Telefon (nur Audio): 0049 30 200 97985301
+	   4. Über Skype for Business: 97985301@vc.dfn.de
+	   5. Mobil mit Smartphone: Voraussetzung ist die vorinstallierte Pexip App unter
+		   - Android: https://play.google.com/store/apps/details?id=com.pexip.infinityconnect
+		   - iOS:     https://itunes.apple.com/us/app/pexip-infinity-connect/id1195088102 
+		   Gibt dort ein: 97985301@conf.dfn.de
+		* Backup-Kanal bei technischen Problemen ist das Chat in diesem Pad!!!
+	* Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsprachigen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsame Projekt zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG - https://lists.okfn.org/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( http://dx.doi.org/10.5281/zenodo.12326 / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+	* Hintergrund: Forschungsergebnisse sollten für alle im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagert sich immer weiter ins Netz - und auch in diesen frühen Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen - wie z.B. "Facebook für Wissenschaftler"-Dienste - schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um, gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+	* Wer darf mitmachen? Alle, die Interesse an Open Science haben! Du brauchst kein tiefes Hintergrundwissen und kannst gerne Fragen stellen. Gerade Menschen ohne fundierten Hintergrund in Open Science, die sich in die Community einklinken möchten, sind herzlich willkommen.
+	* Zurück zum Masterpad: https://pad.okfn.de/p/openscience-ag-master-pad
+
+
+
+TeilnehmerInnen:
+	* Frank Löffler (Uni Jena)
+	* Daniela Gawehns (Uni Leiden, NL)
+	* Stephan Janosch (MPI-CBG)
+	* Maximilian Dolling (GFZ, Potsdam) 
+	* Martin Hammitzsch (GFZ, Potsdam) 
+	* Stephan Druskat (DLR, FSU Jena, HU Berlin)
+	* Florian Thiery (Research Squirrel Engineers)
+	* Bernadette Fritzsch (AWI)
+	* Christian Busse (DKFZ)
+
+Agenda und Protokoll
+
+Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deine Namen hinzu, so dass wir wissen wer verantwortlich ist.
+
+	* Organisatorisches (Moderator)
+		* Dauer des Gespräches
+		* Bitte Protokoll mitschreiben - einfach die Agenda ergänzen
+	* Vorstellungsrunde
+	* Themenblock de-RSE
+		* https://www.crcpress.com/Software-Engineering-for-Science/Carver-Hong-Thiruvathukal/p/book/9781498743853 (Stephan J)
+			* http://carver.cs.ua.edu <<< your connection is not secure
+			* Jeff Carver hängt an die SE-Conferences workshops an (SE4Science: https://se4science.org/)
+		* RSE-Jahr 2020 (Stephan Janosch)
+			* 1.-2.2. FOSDEM in Brüssel
+				* im Vorfeld ChaossCon - Open Source Metriken: https://foss.events/2020/01-31-chaosscon-europe.html
+			* 3.-5.6. 2020 International Workshop on Software Engineering for Computational Science
+			* Juni (?): Intl. RSE Leaders Meeting (Location: tba)
+			* 22.-23.8.: FROSCON (St. Augustin, https://www.froscon.de/)
+			* 25.-27.8.2020: deRSE20
+			* Weitere Veranstaltungen mit Free/Open Source Software Bezug: https://foss.events/
+		* ReproHack: Reproducibility Hackathons in NL, UK: https://reprohack.github.io/reprohack-hq/ ; twitter: @ReproHack (Daniela Gawehns)
+			* Resonanz vor Ort?
+				* gut, vorwiegend jüngere Leute vor Ort. Problem war eher Arbeiten zur Verfügung zu stellen (17 Arbeiten zusammengeholt + 15 frühere von Anna)
+			* Bias in den Arbeiten, die zur Verfügung gestellt wurden?
+				* ja, im Sinne von: es werden Arbeiten von Wissenschaftlern zur Verfügung gestellt die sich mit dem Thema bereits auseinander gesetzt haben -- Das heißt nicht, dass nur perfekt reproduzierbare Arbeiten eingereicht werden
+				* Arbeiten/Submissions werden "blind" akzeptiert, das heißt es findet keine Überprüfung statt ob die zur Verfügung gestellten links auch wirklich funktionieren/zugänglich sind
+			* EScience Center in Amsterdam, Anna Krystalli (Sheffield)
+			* 10 Year Repro Challenge des ReScience journals > https://github.com/ReScience/ten-years
+		* Fragen an den Vorstand - AMA (Stephan)
+			* keine :-)
+		* Community Chronik 2019 (Stephan)
+			* https://pad.gwdg.de/Ksh5TdKASYaQqSZvVyrrgQ
+		* FAIR principles for Research Software: https://doi.org/10.3233/DS-190026 (Christian)
+			* Paper von Anna-Lena Lamprecht et al., in dem versucht wird die FAIR Kriterien auf Software zu übertragen. AL hatte hierzu auch eine BoF Session bei deRSE19, das Working Document ist noch hier zu finden (Weiterleitung zu Google Docs): https://tinyurl.com/deRSE-FAIRSoftware
+			* Session auf dem NL eScience Symposium: https://blog.esciencecenter.nl/fair-software-at-the-2019-escience-symposium-6117f310aa34
+				* https://sdruskat.net/2019-11-21-nl-escience-symposium/#/title-slide
+			* Session auf 36C3: https://media.ccc.de/v/36c3-68-free-software-for-open-science
+	* Themenblock AG Open Science
+		* Open Science Meetings 2020
+			* 25.-27.2. RDA Deutschland https://www.rda-deutschland.de/events/tagung-2020
+			* 2.-3.3.: Open Science Days (https://osd.mpdl.mpg.de/), Berlin
+			* 10.3. Open Science Barcamp, Berlin https://www.open-science-conference.eu/barcamp/
+			* 11./12.3. Open Science Conference, Berlin https://www.open-science-conference.eu (Sehr politische Veranstaltung, Talks zu praktischen Themen sind überschaubar)
+			* 15.-17.9. Open Access Tage, Bielefeld https://open-access.net/community/open-access-tage
+		* Open Science DE Mailing Liste wird abgestellt, siehe folgendes Posting: https://lists.okfn.org/pipermail/open-science/2019-November/009602.html . Wie laufen die Einladungen für die Calls ab jetzt? Discourse?
+		* Open Hardware
+			* http://media.ccc.de
+			* Thema wurde auch vom RfII aufgegriffen
+				* http://www.rfii.de/download/herausforderung-datenqualitaet-november-2019
+			* Hintergrund: Fitness-Tracker sind i.d.R. geschlossen
+				* Hacking your Fitbit: https://media.ccc.de/v/TNYPFB
+				* http://hdl.handle.net/21.11116/0000-0002-F8FB-C
+				* https://www.openhak.com/
+				* Okinesio: https://av.tib.eu/media/20669
+	* Rückschau Call 54 (Stephan)
+		* Eingruppierung von RSE - Erfahrungen und Hinweise (BF)
+			* Sammlung von typischen Arbeitsvorgänge eines RSEs 
+			* PAD zum Sammeln: https://pad.gwdg.de/dKcY6QmRS4yCnKCFVOglng
+				* Beispielsvorgänge um die richtige Sprache zu finden @BF
+	* Nächster Termin: Mittwoch, 5.2.2020 11:00
+	* Abschluss
+		* Wer schreibt eine Blog Post über das Gespräch?
+		* Wer organisiert das nächste Treffen?
+		* 
+

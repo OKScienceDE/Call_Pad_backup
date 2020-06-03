@@ -1,0 +1,82 @@
+Call der Deutschsprachigen Open Science AG und de-RSE 54
+
+	* Datum: 2019-12-04 von 16:00-17:00
+	* Konferenzsystem/URL/Nummer:
+    1. Mit Ihrem Browser unter Windows, MacOS, GNU/Linux: https://conf.dfn.de/webapp/conference/97985301
+    2. Mit einem SIP/H.323-Raumsystem oder SIP/H.323-Client:
+    - H.323: 004910097985301
+   - SIP:   97985301@conf.dfn.de
+   3. Mit einem Telefon (nur Audio): 0049 30 200 97985301
+   4. Über Skype for Business: 97985301@vc.dfn.de
+   5. Mobil mit Smartphone: Voraussetzung ist die vorinstallierte Pexip App unter
+   - Android: https://play.google.com/store/apps/details?id=com.pexip.infinityconnect
+   - iOS:     https://itunes.apple.com/us/app/pexip-infinity-connect/id1195088102 
+   Gibt dort ein: 97985301@conf.dfn.de
+- Warten Sie, bis Ihr Veranstalter den Meetingraum betreten hat.
+- Für einen Verbindungstest rufen Sie bitte folgende Webseite auf: https://www.conf.dfn.de/beschreibung-des-dienstes/zugangswege/testcall-service/
+- Bitte beachte auch die Hinweise zum Datenschutz unter https://www.conf.dfn.de/datenschutz
+		* Backup-Kanal bei technischen Problemen ist das Chat in diesem Pad!!!
+	* Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsprachigen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsame Projekt zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG - https://lists.okfn.org/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( http://dx.doi.org/10.5281/zenodo.12326 / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+	* Hintergrund: Forschungsergebnisse sollten für alle im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagert sich immer weiter ins Netz - und auch in diesen frühen Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen - wie z.B. "Facebook für Wissenschaftler"-Dienste - schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um, gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+	* Wer darf mitmachen? Alle, die Interesse an Open Science haben! Du brauchst kein tiefes Hintergrundwissen und kannst gerne Fragen stellen. Gerade Menschen ohne fundierten Hintergrund in Open Science, die sich in die Community einklinken möchten, sind herzlich willkommen.
+	* Zurück zum Masterpad: https://pad.okfn.de/p/openscience-ag-master-pad
+
+
+
+TeilnehmerInnen:
+	* Florian Goth (Uni Würzburg, SFB1170, Theoretische Physik 1)
+	* Stephan Janosch (MPI-CBG, de-RSE e.V.)
+	* Guido Scherp (ZBW)
+	* Björn Brötz (DLR, FD Manager Institut PA)
+	* Christian Busse (DKFZ)
+
+Agenda und Protokoll
+
+Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deine Namen hinzu, so dass wir wissen wer verantwortlich ist.
+
+	* Organisatorisches (Moderator)
+		* Dauer des Gespräches
+		* Bitte Protokoll mitschreiben - einfach die Agenda ergänzen
+	* Vorstellungsrunde
+	* Themenblock AG Open Science
+		* https://www.openaire.eu/item/open-science-and-research-results-exploitation-friends-or-foes (Stephan Janosch)
+			* https://www.openaire.eu/guides
+		* https://github.com/dlr-pa/ipadata-plan (Björn)
+			* Helmholtz HIFIS
+				* https://www.helmholtz.de/forschung/information-data-science/helmholtz-federated-it-services-hifis/
+				* https://www.helmholtz.de/fileadmin/user_upload/01_forschung/Helmholtz_Inkubator_HIFIS.pdf
+			* FairMat
+				* https://fairdi.eu/fairmat/consortium
+				* https://nomad-coe.eu/
+				* Tools: https://github.com/IQSS/dataverse , https://osf.io/ , https://github.com/CenterForOpenScience/osf.io , 
+				* Meine Ideen: https://git.physik.uni-wuerzburg.de/fgoth/ctqmat-contrib/blob/master/RDM-steps.md , https://git.physik.uni-wuerzburg.de/fgoth/ctqmat-contrib/blob/master/dmp.md
+		* RfIi - Herausforderung Datenqualität – Empfehlungen zur Zukunftsfähigkeit von Forschung im digitalen Wandel
+			* http://www.rfii.de/download/herausforderung-datenqualitaet-november-2019/
+		* EOSC Symposium Nov 2019 (Christian)
+			* Wird keine großen EU-Calls geben, eher nationales Funding/Anknüpfungspunkte, z.B. NFDI in DE (NFDI wäre auch Art Anlaufstelle für EOSC in DE)
+			* Fokus auf FAIR, Openess wie bisher im Kontext open-as-possible
+			* H2020 wird durch "Horzions Europe" abegelöst, was bis 2027 dann andauert
+			* EOSC-Hub wird Anknüpfungspunkt für weitere Services (service directory?)
+	* Themenblock de-RSE
+		* Essential Open Source Software for Science (Stephan Janosch)
+			* https://twitter.com/cziscience/status/1195028205238833152  CZI
+			* https://chanzuckerberg.com/eoss/proposals/
+		* https://archiveprogram.github.com (SJ)
+		* deRSE20 Konferenz Organisation (Sj)
+			* Webkonf Dienstags 14 Uhr
+		* Eingruppierung von RSE - Erfahrungen und Hinweise (BF)
+			* Sammlung von typischen Arbeitsvorgänge eines RSEs 
+			* PAD zum Sammeln: https://pad.gwdg.de/dKcY6QmRS4yCnKCFVOglng
+				* Beispielsvorgänge um die richtige Sprache zu finden @BF
+		* NFDI4RSE - aktueller Stand (CB)
+			* Querschnittsthemen trafen sich vor Kurzem, Stichwort Berliner Erklärung
+			* Gesprächsangebot vom Hauptautoren der Berliner Erklärung
+				* Ende Februar Zusammenkunft
+			* Dokument in Vorbereitung, warum Querschnittsthemen querliegend zu den Fachkonsortien zusammenbearbeitet werden sollen
+		* 
+		* 
+	* nächster Termin: 8.1.2020 - 11 Uhr
+	* Abschluss
+		* Wer schreibt eine Blog Post über das Gespräch?
+		* Wer organisiert das nächste Treffen?
+		* 

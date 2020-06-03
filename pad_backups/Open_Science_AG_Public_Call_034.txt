@@ -1,0 +1,89 @@
+*Call der Deutschsprachigen Open Science AG und de-RSE 34
+
+	* Datum: 2018-02-07 von 11:00 bis 12:00
+	* Konferenzsystem/URL/Nummer:
+		* +49 (0) 30 3080 6188 (Germany Toll)
+		* Meeting ID: 853 606 3002 
+		* Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/8536063002 
+		* International numbers available:  https://zoom.us/zoomconference?m=hyvG8NGnTzfhlo-aL2Na09c9oPfNqROK 
+		* Client installieren: http://zoom.us/download#client_4meeting
+		* Backup-Kanal bei technischen Problemen ist das Chat in diesem Pad!!!
+	* Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsprachigen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsame Projekt zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG - https://lists.okfn.org/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( http://dx.doi.org/10.5281/zenodo.12326 / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+	* Hintergrund: Forschungsergebnisse sollten für alle im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagert sich immer weiter ins Netz - und auch in diesen frühen Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen - wie z.B. "Facebook für Wissenschaftler"-Dienste - schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um, gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+	* Wer darf mitmachen? Alle, die Interesse an Open Science haben! Du brauchst kein tiefes Hintergrundwissen und kannst gerne Fragen stellen. Gerade Menschen ohne fundierten Hintergrund in Open Science, die sich in die Community einklinken möchten, sind herzlich willkommen.
+	* Zurück zum Masterpad: https://pad.okfn.de/p/openscience-ag-master-pad
+
+
+*TeilnehmerInnen:
+	* Konrad Förstner (Universität Würzburg)
+	* Jan Dietrich (Potsdam Institut für Klimafolgenforschung (PIK))
+	* Stephan Janosch (de-RSE, MPI-CBG)
+	* Florian Goth(SFB1170, Universität Würzburg)
+	* Lambert Heller (TIB, will join the call a few minutes later, sorry!!)
+	* Carina Haupt (DLR, Berlin)
+	* Katrin Leinweber (TIB)
+	* Guido Scherp (LFV Science 2.0, ZBW Kiel)
+	* Bernadette Fritzsch (AWI)
+	* Stephan Druskat (de-RSE, HU Berlin)
+
+*Agenda und Protokoll
+
+Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deine Namen hinzu, so dass wir wissen wer verantwortlich ist.
+
+	* Organisatorisches (Moderator)
+		* Dauer des Gespräches
+		* Bitte Protokoll mitschreiben - einfach die Agenda ergänzen
+	* Vorstellungsrunde
+	* EGU RSE TOWNHALL MEETING (Daniel Nüst, Martin Hammitzsch)
+		* http://meetingorganizer.copernicus.org/EGU2018/session/29539
+		* Ziel: RSEs aus Geo-Umfeld zu vernetzen
+		* www.egu2018.eu
+		* 
+		* Wann: TM13, Research Software Engineers in the Geosciences, Room L8, Thu, 12 Apr, 19:00-20:00
+		* Konferenz hat mehrere tausend Teilnehmer (?)
+	* Kurzbericht vom Community-Building-Workshop am EMBL (Stephan)
+		* Toby Hodges hat eingeladen
+			* EMBL, DLR, de-RSE, RSE group Shefflield
+			* Blogpost auf de-RSE.org folgt
+	* Report vom International RSE Leaders Workshop in London (Jan Dietrich, Stephan Janosch)
+		* http://rse.ac.uk/rse-international-leaders-meeting/
+		* ca. 50 Teilnehmer (viel UK und USA)
+			* Teilnehmerkarte: https://www.google.com/maps/d/viewer?mid=1gE7DlgwbNyizil93jVAvzAVBRIAu0_-7&ll=21.01802797752254%2C-76.33549565000004&z=3
+		* breakout groups gebildet, deren Output zur Publikation vorbereitet wird (Blogposts)
+			* evidance database zum Pitchen von RSE-Gruppen
+			* blogpost: How to set up a national chapter
+			* international organisation
+		* https://twitter.com/hashtag/intrse?f=tweets&vertical=default&src=hash
+		* Möglichkeiten der Karrierepfade 
+			* UK Met office hat welche
+			* auch angesprochen in https://os.helmholtz.de/open-science-in-der-helmholtz-gemeinschaft/akteure-und-ihre-rollen/arbeitskreis-open-science/empfehlungen-zur-implementierung-von-leit-und-richtlinien-zum-umgang-mit-wissenschaftlicher-software-an-den-helmholtz-zentren/
+		* https://www.reddit.com/r/ResearchSoftware/
+		* https://area51.stackexchange.com/proposals/114273/research-computing
+		* https://en.wikipedia.org/wiki/Research_software_engineering
+	* Aktuelles zur de-RSE Vereinsgründung (Stephan Janosch)
+		* Arbeit an Satzung erfolgt kollaborativ
+		* angedachter Zeitplan ist nicht zu halten (Eintragung während RDA Plenary im März), nächste Telco am 5. März
+	* Barcamp Open Science / Open Science Conference (Guido Scherp)
+		* Barcamp Open Science (12.03, Wikimedia Berlin) fast ausgebucht, jetzt noch schnell anmelden:) http://www.barcamp-open-science.eu/
+		* Open Science Conference (13./14.03, Berlin), nur noch Warteliste:  http://www.open-science-conference.eu/ 
+	* Open Science Panel Diskussion in Berlin - 14.02.2018, 6pm - 8pm
+		* https://ot4os.imp.fu-berlin.de/cth_speaker/panel-discussion-open-science/
+	* Hinweis SSI CW18 (26.-28.3.18, Cardiff) inkl. Citation File Format Mini-Workshop (Stephan Druskat)
+		* https://www.software.ac.uk/blog/2018-01-12-new-year-new-resolutions-and-our-collaborations-workshop-2018
+	* Katrin: Panel discussion: "Best practice for scientific software development" auf den MMS Days
+		* https://www.wias-berlin.de/WCMS/program.jsp?MMSDays2018
+	* Allianzinitiative "Digitale Information" (Stephan Janosch)
+		* https://www.allianzinitiative.de/
+		* neue 5 Jahresphase
+		* arbeitet auf policy level (top down ansatz)
+		* Relevantes Arbeitsfeld: AG 2 Digitale Werkzeuge - Software und Dienst
+	* Meta - meet.jit.si statt zoom
+		* OKFN selbst plant eine Instanz
+		* https://meet.jit.si/SCdeRSECallTest
+			* ich habe mit Katrin noch kurz einen Test-Call dort durchgeführt. Ganz klare Audioqualität. Keine Einwahltelefonnummer! Mobile Browser sollten auch funktionieren.
+		* +1
+	* DEIN THEMA (DEIN NAME)
+	* nächster Termin: DATUM
+	* Abschluss
+		* Wer schreibt eine Blog Post über das Gespräch?
+		* 

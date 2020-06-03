@@ -1,0 +1,94 @@
+*Call of the German Open Science AG and de-RSE 31
+
+	* Date : 2017-1 1 -02 from 14:00 to 15:00
+	* Conference system / URL / number :
+		* +49 (0) 30 3080 6188 (Germany Great)
+		* Meeting ID: 853 606 3002 
+		* Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/8536063002 
+		* International numbers available:   https://zoom.us/zoomconference?m=hyvG8NGnTzfhlo-aL2Na09c9oPfNqROK 
+		* Install client: http://zoom.us/download#client_4meeting
+		* Backup channel for technical problems is the chat in this pad !!!
+	* Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsprachigen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsame Projekt zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG - https://lists.okfn.org/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( http://dx.doi.org/10.5281/zenodo.12326 / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+	* Hintergrund: Research results should be freely accessible to everyone on the web. But also research methods, the research process itself, raw data, the joint processing of the data, etc., are increasingly moving into the net - and even in these early stages, long before the finished article or book, openness has many advantages. This idea is behind the keyword "Open Science". Many deal with "open science" from different perspectives. Researchers are trying out new tools, companies like Facebook for Scientists are creating new offerings for this target group. Science journalists report about it, but also experiment with their own forms and are increasingly supplemented (repressed?) By Wissenschaftsblogger. Established players like data centers and academic libraries are also trying to adapt their role to the new possibilities. And so on. Listening to the topic of "Open Science" today, one quickly gets the impression that the music plays in English-speaking countries, whereas in Germany, Austria and Switzerland this is rather a niche topic. The many isolated projects and activists in German-speaking countries should be able to communicate more easily and more frequently, in an informal setting. We want to try this with a monthly one-hour open videoconference! On the occasion of the "OKFestival" in Berlin on 16.7.2014 a German speaking working group met on the topic "Open Science". The aim of the working group is the networking of assets in the field of opening up science and research (open science) and the development of legally secure framework conditions for the publication of research results. In addition, the working group is to co-ordinate cooperation with other international open-science groups and act as a contact point for researchers, institutes, civil society, business and politics on the subject of open science.
+	* Who is allowed to participate? Anyone interested in Open Science! You do not need deep background knowledge and are welcome to ask questions. Especially people without a solid background in Open Science who want to join the community are welcome.
+	* Back to Masterpad: https://pad.okfn.de/p/openscience-ag-master-pad
+
+
+
+*Participants:
+	* Stephan Janosch (RSE, MPI-CBG, de-RSE.org)
+	* Felix Schönbrodt (Psychologe, LMU München)
+	* Björn Brembs
+	* Kerstin Göpfrich (MPI Medical Research, Free Knowledge Fellow Program, http://www.ring-a-scientist.org 
+	* Jon Tennant
+	* Bernd Rupp, FMP, Chaos macht Schule
+	* Daniel Mietchen
+	* Guido Scherp
+
+*Agenda and protocol
+
+You are cordially invited to enter your topics here. Please write your name behind the topic so that we know who is responsible.
+
+	* Organizational (moderator)
+		* Duration of the conversation
+		* Please write the minutes - just complete the agenda
+	* introductions
+	* YOUR THEME (YOUR NAME)
+	* YOUR THEME (YOUR NAME)
+	* Report of the foundation of the LMU Open Science Center (Felix Schönbrodt)
+		* Replikationskrise in der Psychologie, zunächst Open Science Initiative auf Departmentsebene gegründet
+		* Wunsch nach Erweiterung auf andere Fächer
+		* interdisziplinäres Open Science Zentrum: 10 Fachrichtungen, 17 Lehrstühle, 3 Fakultäten (Medizinische Fakultät, Fakultät für Psychologie und Pädagogik, Tiermedizinische Fakultät)
+		* Ziele:
+			* Lehre/Fortbildungen (Curricula entwickeln, Vorträge bei Graduiertenkollegs, Workshops für Post-docs)
+			* Forschung zu Meta-Science (Anreizstruktur, Publikationsbias, ...)
+			* zentraler Netzwerk-Hub innerhalb der LMU und auch darüber hinaus.
+		* Status: Frisch gegründet; Webseite ist gerade im Aufbau und soll Ende 2017 online gehen.
+			* Wir basteln fuer https://dsi.virginia.edu/ an einem aehnlichen Projekt - lasst uns koordinieren
+			* Uni Lausanne versucht auch gerade etwas ähnliches aufzubauen - Kontakt: Luc Henry (https://people.epfl.ch/luc.henry?lang=en)
+	* deRSEsurvey2017 - Umfrage zu Forschungssoftware
+		* https://softwaresaved.limequery.com/661559?lang=de-informal
+		* https://softwaresaved.limequery.com/661559?lang=en
+	* DFG roundtable on open data in psychology: Jan 2018 (Felix Schönbrodt)
+		* Die Fachgesellschaft Psychologie hat Datenmanagementrichtlinien veröffentlicht, die 
+			* (a) open data befürworten/fordern, und 
+			* (b) sagen, wie das konkret umgesetzt werden kann (z.B. Fragen der Nachnutzung/Koautorschaften, Embargo, Was soll wie veröffentlicht werden, ...)
+			* Deutsch: http://econtent.hogrefe.com/doi/abs/10.1026/0033-3042/a000341
+			* Englisch (Übersetzung): http://www.dgps.de/fileadmin/documents/Empfehlungen/Data_Management_eng_9.11.16.pdf
+		* wie passt das zusammen mit 
+			* http://www.dfg.de/dfg_magazin/internationales/170914_science_europe_workshop/index.html und 
+			* http://doi.org/10.5281/zenodo.11639 ?
+				* DFG Rundgespräch beantragt, wurde abgelehnt
+			* --> Rundgespräch Psychologie wurde vom Vorstand der Fachgesellschaft angeregt und dann in Koordination mit dem zuständigen DFG-Referenten anberaumt.
+		* Ein ähnliches Rundgespräch findet im Februar 2018 in der BWL statt.
+	* de-RSE Association Foundation (Stephan Janosch)
+		* telco 15.11. 11 am 
+	* € 2 billion for Open Science and € 600 million for European Science Cloud (Stephan Janosch)
+		* source: http://europa.eu/rapid/press-release_IP-17-4122_en.htm
+		* EOSC Declaration: https://ec.europa.eu/research/openscience/pdf/eosc_declaration.pdf#view=fit&pagemode=none
+		* EOSC = infrastruktur welche erlaubt den Forschungs-Prozess "begleitet 
+		* mehrere grosse Panels, in denen Meinungen eingebracht werden können
+	* RING-A-SCIENTIST.ORG (Kerstin)
+		* emerging platform to promote open communication between scientists and school classes through video calls 
+		* Sign-up for Scientists: http://www.ring-a-scientist.org/#scientists
+		* http://www.ring-a-scientist.org/
+			* Lizenzangabe fehlt
+		* Wissenschaftler melden sich an
+		* hack your PHD
+			* https://soundcloud.com/hackyourphd/
+	* Making ethics data FAIR
+		* https://github.com/Daniel-Mietchen/events/blob/master/PIDapalooza-2016.md
+	* Handreichung wiss. Software, Alliance Initiative (Björn)
+		* Landing page: http://www.allianzinitiative.de/de/handlungsfelder/querschnittsthemen/wissenschaftliche-software/
+		* Gruppe: http://www.allianzinitiative.de/de/handlungsfelder/querschnittsthemen/wissenschaftliche-software/ad-hoc-arbeitsgruppe/
+	* tiny recap Force2017 (Stephan Janosch)
+	* Open Science Q & A
+		* https://openscience.ub.uni-bielefeld.de/
+	* 34C3 openscience Assembly? Wer wird kommen?
+	* next date: 7.12.
+	* graduation
+		* Who writes a blog post about the conversation?
+			* keiner der Anwesenden
+		* Who organizes the next meeting?
+		* 
+
