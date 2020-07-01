@@ -1,0 +1,156 @@
+   This is a read only archive of pad.okfn.org. See the shutdown announcement for details.
+   Call der Deutschsprachigen Open Science AG und de-RSE 021
+     * Datum: 2017-01-12 von 14:00 bis 15:00
+     * Konferenzsystem/URL/Nummer:
+
+     * +49 (0) 30 3080 6188 (Germany Toll)
+     * Meeting ID: 853 606 3002
+     * Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/8536063002
+     * International numbers available:  https://zoom.us/zoomconference?m=hyvG8NGnTzfhlo-aL2Na09c9oPfNqROK
+     * Client installieren: http://zoom.us/download#client_4meeting
+     * Backup-Kanal bei technischen Problemen ist das Chat in diesem Pad!
+
+     Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsparchingen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsamme Projekt zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG - https://lists.okfn.org/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( http://dx.doi.org/10.5281/zenodo.12326 / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+
+     Hintergrund: Forschungsergebnisse sollten für jedermann im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagert sich immer weiter ins Netz - und auch in diesen frühreren Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen - wie z.B. "Facebook für Wissenschaftler"-Dienste - schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um,
+   gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+
+     Wer darf mitmachen? Alle die Interesse an Open Science haben! Du brauchst kein tiefes Hintergrundwissen und kannst gerne Fragen stellen. Gerade Menschen ohne fundierten Hintergrund in Open Science, die sich in die Community einklinken möchten, sind herzlich willkommen.
+   TeilnehmerInnen:
+     * Konrad Förstner (Uni Würzburg)
+     * Stephan Janosch (MPI f. Zellbiologie und Genetik, Dresden) - de-RSE
+     * Anna Kasprzik (TIB Hannover; Projektaktivitäten im Bereich (auch Archivierung von) Forschungsdaten und -software)
+     * Lambert Heller (TIB Hannover)
+     * Martin Hammitzsch (Deutsches GeoForschungsZentrum GFZ, de-RSE, AG Open Science)
+     * Andreas Leimbach (Uni Würzburg, Göttingen, Münster; AG Open Science)
+     * Markus Ankenbrand (Uni Würzburg, interessiert sich für de-RSE)
+     * Jan Henning Peters (FU Berlin)
+     * Sebastian Ritterbusch (iXpoint Ettlingen, KIT)
+     * Björn Brembs (Regensburg)
+     * Matthias Fromm (Open Science Radio)
+     * Daniel Nüst (http://o2r.info, Institut für Geoinformatik, Uni Münster)
+     * Guido Scherp (ZBW, kann nur bis 14:25)
+     * Markus Neuschäfer (okfn.de)
+
+   Agenda und Protokoll
+   Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deinen Namen hinzu, so dass wir wissen wer verantworlich ist.
+     * Organisatorisches (Moderator)
+
+     * Dauer des Gespräches
+     * Bitte Protokoll mitschreiben - einfach die Agenda ergänzen
+
+     Vorstellungsrunde
+
+     Events 2017 (Stephan)
+     * Barcamp Open Science, 20. März 2017, Berlin, Teilnahme ist kostenlos: http://www.barcamp-open-science.eu/
+
+     * für den Praktiker
+     * sehr offenes Format
+
+     Open Science Conference, 21.-22. März 2017, Berlin, Early-Bird bis 14. Februar 2017: http://www.open-science-conference.eu/
+     * eher high-level
+     * auch zum Thema OER
+
+     27-29 March CW17- https://www.software.ac.uk/cw17, Leeds
+
+     10-11 May 2017 2nd Conference on Non-Textual Information - Software and Services for Science (S3), https://events.tib.eu/nontextualinformation2017/
+
+     Description: Reproducible science is only possible when access to data is open, and data is analysed using open source software. This requires taking responsibility for software development, and adopting stewardship practices for managing, processing and disseminating scientific data products and related services. The resulting peer-reviewed and consensus oriented environment ares crucial for the advancement of science in general and the promotion of long term sustainability of science infrastructures. The Workshop explores the role of Software in scientific research and provides a forum for experts in academy, libraries and industry  to present and share their latest research findings, developments and policies regarding e.g. User needs, Best Practices, Stakeholders,  Infrastructures, Accessibility, Impact Measurement, Citation, Description and Preservation.
+     * Anna (TIB Hannover): Wer von euch kommt? --> Treffen vor Ort organisieren?
+
+     * Konrad
+     * Stephan: ich kläre das mal intern hier,
+
+     7-8th Sep. RSE17, Manchester, - http://www.rse.ac.uk/conf2017
+
+     25-27. Oct, Force17, Berlin - https://www.force11.org/meetings/force2017
+
+
+     Gibt es einen Kalender für Open Science Events? (Auf de-RSE-Seite einen anlegen?)
+     * Gut wäre ein Etherpad oder ein MD file auf GitHub zum Tracken der für uns relevanten Events
+
+     * Teilnehmer aus unseren Initiativen können zusätzlich aufgenommen werden (wer geht hin?), damit wir uns auch vor Ort besser vernetzen können
+
+     Open Science relevante Events gibt's ja auf diversen Kalenderseiten
+     * Open Science der EC Research & Innovation: http://ec.europa.eu/research/openscience/index.cfm?pg=events
+     * FOSTER: https://www.fosteropenscience.eu/events
+     * Open Access Informationsplattform: https://open-access.net/DE-EN/community/calendar-of-events/
+     * die Frage wäre ob es eine Möglichkeit gibt diese vielleicht sinnvoll "zusammenzufahren"? (Script was RSS-Feeds ausliest und Duplikate abgleicht? Händisch?)
+
+     Rückschau Workshop Nov 2016: https://www.hzdr.de/db/Cms?pNid=243&pOid=47484
+     * Programm mit Links zu den Google Docs der Workshops: https://www.hzdr.de/db/Cms?pOid=47488&pNid=243
+     * Ad Hoc AG Software der http://www.allianzinitiative.de
+
+     Stand de-RSE Aktivitäten (Stephan, Martin)
+     * de-RSE Webseite http://de-RSE.org
+
+     * Veranstaltungskalender, siehe oben
+     * Ziele (Verweis auf open definition? http://opendefinition.org/, https://www.w3.org/DesignIssues/LinkedData.html)
+     * Aktivitäten
+     * MailingListe (derzeit ca 35 Subscriber), Slack: http://www.de-rse.org/de/join.html
+     * Landkarte?
+     * Blog?
+
+     SSI Blogbeiträge Rossendorf Workshop https://www.software.ac.uk/blog/2016-12-19-research-software-germany-brief-report-efforts-autumn-2016 & de-RSE chapter
+
+     Vereinsgründung o.ä. oder in anderen Verein eingliedern
+
+     Sprachrohr: Twitter?
+
+     Aktivitäten / Umsetzung der Ziele u.a. SC und DC Workshops in Deutschland
+
+     was wünscht ihr euch?
+
+     Interessanter Denkanstoss von Titus Brown zur (Un-)Möglichkeit von Software Archivibilität: http://ivory.idyll.org/blog/2017-pof-software-archivability.html
+
+     passende Communities:
+     * open knowledge labs (https://www.okfn.de/, http://codefor.de/), code4data, openGOV
+     * Mozilla Science Lab (https://science.mozilla.org/), hat auch Aktive in D
+     * Forschungssoftwaremanagement als Alleinstellungsmerkmal
+
+     Bericht 33C3 (Andreas, Konrad, Markus)
+     * Etherpad: https://pad.okfn.org/p/OpenScienceWorkshop33C3
+
+     Open Science Workshop auf der 5th Joint Conference of the DGHM & VAAM Tagung (Mikrobiologie), Würzburg, http://www.microbiology-infection.de/ (Andreas, Konrad)
+     * kurzer Workshop, 60 - 90 min
+     * "praxisnahe" Wissenschaftler ansprechen, die wenig Kontakt mit Open Science haben
+
+     Open Science in Podcasts (Sebastian)
+     * Öffentliche Kommunikation von Wissenschaft über Formate wie Zeitungen, Radio, etc. sind extrem verkürzend, Podcasts aus der Wissenschaft geben den Forschenden die Stimme zurück
+     * Großes Interesse aus der Gesellschaft (belegt durch Umfragen und Downloadzahlen), niederschwellig zu konsumieren, sehr persönlich und motivierend
+     * Darstellung großer Tiefe behandeln Ergebnisse, Publikationen, Projekte, Personen, Themen, oft mit Inhalten "zwischen" den Zeilen traditioneller Formen, Hintergründen, Motivation und überraschende Momente
+     * Rückmeldungen für Forschende vielseitig und sehr positiv, durch Shownotes deutlich stärkere Themenpräsenz und Auffindbarkeit
+     * Große Formatfreiheit, Zugang zur neuem Medium sehr niederschwellig mit wenig Kosten, aktive Finanzierungsmodelle über Kommunikationsmodule in Projekten (DFG, BMBF), Institutionell, per Auftrag oder einfach privat
+     * Community der Wissenschaftspodcasts: Jährliche GanzOhr-Konferenz (2017 von Uni eingeladen in Innsbruck), http://wissenschaftspodcasts.de/, https://sendegate.de/c/community/ganz-ohr
+     * http://terrain-projekt.de/ http://modellansatz.de/
+     * DOIs für podcast Folgen in Planung (aktuelle Herausforderung: Langzeitarchivierung von Podcast-Episoden bestehend aus Audio, Hypertext und Bild als ein Medium)
+
+     IFG-Anfrage Subskriptionskosten
+     * Verlage schreiben weiterhin non-disclosure agreements (NDAs) in ihre Verträge, die Info muss aber trotzdem bei Anfrage herausgegeben werden
+     * Erster Schritt: Wer missachtet die NDA und gibt die Infos auch so raus?
+     * Zweiter Schritt: Wer kann durch IFG-Anfragen-Hinweis "motiviert" werden?
+     * Dritter Schritt: IFG-Anfrage über fragdenstaat.de
+
+     DEAL mit Elsevier
+     * 60 Unis haben in Hoffnung auf gemeinsamen D-weiten Vertrag Zugänge zu Elsevier gekündigt
+
+     Pilotprojekt DOIs für Forschungsblogs (auf WordPress-Basis) von DataCite und TIB (Lambert Heller)
+     * für diesen Piloten suchen wir Leute, die WordPress irgendwie forschungsnah nutzen, und idealerweise irgendwie zu einer Institution gehört, die DataCite-Mitglied ist
+     * bitte einfach Kontakt aufnehmen mit Britta Dreyer, Martin Fenner oder mir
+
+     * Matthias/Konrad und Björn haben da Interesse
+
+     Uni Göttingen Teaching Open Science/Hacky Hour (Andreas)
+     * Teaching Open Science
+
+     * Next organisational meeting: 25 January 2017, 18-19:30, SUB
+
+     Hacky Hour
+     * preliminary Hacky Hour Website: https://hackyhour.github.io/Goettingen/
+     * Next organisational meeting: 7 February 2017, 18-19:30, SUB
+     * angelehnt an und "kopiert" von Würzburg: http://hackyhour.github.io/Wuerzburg/
+
+     Abschluss
+     * Wer schreibt ein Blog Post über das Gespräch? Konrad, Andreas, Markus
+     * draft: https://docs.google.com/document/u/1/d/15Qa1yjU8mPU9ylX-NzFTE4ptBDp118iXYwjpZvSPOJo/edit
+     * Nächster Termin 02. Februar 2017 14h

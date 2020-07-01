@@ -1,0 +1,98 @@
+   This is a read only archive of pad.okfn.org. See the shutdown announcement for details.
+   Call of the German Open Science AG 016
+     * Date : 2016-07-04 14:00 to 3:00 p.m.
+     * Conference System / URL / number :
+
+     * +49 (0) 30 3080 6188 (Toll Germany)
+     * Meeting ID: 853 606 3002
+     * Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/8536063002
+     * International numbers available:   https://zoom.us/zoomconference?m=hyvG8NGnTzfhlo-aL2Na09c9oPfNqROK
+     * Install Client: http://zoom.us/download#client_4meeting
+     * Backup channel with technical problems is the chat in this pad !!!
+
+     Target : The Public Call is intended to exchange information within the German speaking  Open Science Scene to network and to start common projects. We want to do this, if possible, once per month. For any questions or comments please contact the mailing list of the AG - https://lists.okfn.org/mailman/listinfo/open-science-de . Requirements: There are none, but it is recommended, to comply with the mission statement of the German Open Science AG ( http://dx.doi.org/10.5281/zenodo.12326 / https://github.com/OKScienceDE/Mission_Statement )
+
+     Background : Research results should be freely available to everyone on the network. But research methods, the research process itself, the raw data, the joint processing of data etc. is shifting ever further into the network - and even in these heed stages, so long before the finished article or book, openness has many advantages. This idea is behind the tag "Open Science". With "Open Science", many people are, from different angles. Researchers try new tools, the company - such as "Facebook for scientists" services - creating new services for this target group. Science journalists report on it, but also experiment with their own forms and are increasingly supplemented (repressed?) Through science bloggers. Established players such as data centers and academic libraries try their role also adapt to new opportunities. And so on. Listening to the topic "Open Science" today at, one quickly gets the impression: The music playing in the English-speaking world, in Germany, Austria and
+   Switzerland, however, is likely still a niche topic. The many isolated projects and activists in the German-speaking countries should be able to easily and frequently exchange, in an informal setting. We want to try with a monthly one-hour open videoconferencing! On the subject of "Open Science" met on 16.07.2014 under the OKFestivals in Berlin a German working group. The working group is to network assets in the area of opening of Science and Research (Open Science) and the elaboration of legally secure framework for publishing research results. In addition, the Working Group is to coordinate the cooperation with other international Open Science groups and act as contacts for researchers, institutions, civil society, business and politics about Open Science.
+
+     Who can join? All who are interested in Open Science! You do not have a deep background knowledge and are welcome to ask questions. Especially people without thorough background in Open Science, who wish to engage in the community are welcome.
+   Participants:
+     * Konrad Förstner
+     * Julien Colomb
+     * Andreas Leimbach (Uni Göttingen/Münster/Würzburg)
+     * Björn Brembs
+     * Matthias Fromm
+     * Markus Neuschäfer (von unterwegs)
+
+
+   Absent:
+     * Daniel Mietchen (am on vacation offline)
+     * Tamara Heck (have another meeting)
+     * Thorsten Rissom (on vacation)
+
+   Agenda and minutes
+   You are welcome here to write your themes. Please write behind the theme your nickname so that we know who is in charge.
+     * Organisational (Moderator)
+
+     * Duration of the call
+     * Please take notes protocol - just add the Agend
+
+     introductions
+
+     Open con 2016, satellite in Berlin(Julien Colomb)
+     * the idea and the people behind it.
+     * open discussion
+     * Open Science mehr umsetzen
+     * julien.colomb@fu-berlin wenn man interessiert ist.
+     * OpenCon 2016: 12-14 November
+     *  Noch Organisatoren gesucht, auch für Ideen etc.
+     * Satellite event zur OpenCon http://www.opencon2016.org/satellite
+
+     BMBF Förderungen (Andreas Leimbach)
+     * Open Source - Software Sprint: https://www.bmbf.de/foerderungen/bekanntmachung-1225.html
+
+     * OKFN: https://prototypefund.de/
+
+     Citizen Science: https://www.bmbf.de/foerderungen/bekanntmachung-1224.html
+
+     Gibt es einen"Impact Factor" für Open Science Journals/Publications? (Andreas Leimbach)
+     * Gibt es Bewertung von Journalen bezüglich ihrer Offenheit (Code, Data, etc)?
+     * http://sparcopen.org/our-work/howopenisit/
+     * Lange Diskussion um impact factor abzuschaffen, aber nichts geändert
+     * Journale müssen abgeschafft werde und durch entsprechende Infrastruktur ersetzt werden
+     * Abonnements der Journals müssen im Prinzip auslaufen, Gelegenheit sollte jetzt sein; sonst werden Publizierer vorantreiben und mit Geld aufkaufen (Mendeley, preprint server etc.)
+     * In einigen Jahren sind Verlage wahrscheinlich im Zugzwang
+
+     * Problem des content hoardings der Verlage
+
+     Gutes Beispiel open library of humanities, öffentlich finanziert! (vielleicht aber nicht öffentlich finanziert Science Open: https://www.scienceopen.com/ )
+     * Infrastruktur/Service wird bereitgestellt und von öffentlichen Geldern finanziert! Sollte mit den jetzigen Abonnementgeldern leicht möglich sein und Rest des Geldes in Daten/Software investieren
+     * Müssen mit Bibliotheken sprechen, um Gelder umzuwidmen
+
+     Leute wie Marie Farge sind auch für öffentliche Infrastruktur für Publikationen - aber scheint machtlos
+     * Aber wo ist der Hebel das umzusetzen? Geht nur über Gemeinschaft/Zusammenarbeit (EU fördert schon ein wenig) und nahmhafte mit genug Mitteln müssen einfach anfangen --> Beispiel Internet (Standards definiert etc.)
+     * Große Institutionen und Konsortien/Gremien (speziell die Leiter) müssen erreicht werden und überzeugt werden (vielleicht über Funding), daß nur Infrastrukturproblem --> Umschichtung der Gelder
+
+     * Wissenschaftler müssen an sich nicht überzeugt werden, denn werden folgen
+
+     Problem ist Rankings der Hochschulen, die gegeneinander in Konkurrenz stehen
+
+     Politisches Problem ist größer als technisches
+
+     September Force11 Workshop in San Diego
+
+     http://bjoern.brembs.net/2016/05/why-havent-we-already-canceled-all-subscriptions/
+
+     Helmholtz Open Science Workshop “Zugang zu und Nachnutzung von wissenschaftlicher Software” (Konrad)
+     * https://www.hzdr.de/db/Cms?pNid=243&pOid=47484
+
+     Tamara: Open Science informal meeting? at ASIS&T Meeting Copenhagen (14.-18.Oct): anyone participating in Meeting?:
+     *  https://www.asist.org/events/annual-meeting/annual-meeting-2016/
+     * nobody else is going there
+
+     YOUR THEME (YOURNAME)
+
+     graduation
+     * Who writes a blog post about the conversation? Evtl. Andreas
+     *
+     * Who oganisiert the next meeting?

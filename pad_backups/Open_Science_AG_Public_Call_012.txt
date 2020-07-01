@@ -1,0 +1,126 @@
+   This is a read only archive of pad.okfn.org. See the shutdown announcement for details.
+   Call der Deutschsprachigen Open Science AG 012
+     * Datum: 2016-04-07 von 14:00 bis 15:00
+     * Konferenzsystem/URL/Nummer:
+
+     * +49 (0) 30 3080 6188 (Germany Toll)
+     * Meeting ID: 853 606 3002
+     * Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/8536063002
+     * International numbers available:  https://zoom.us/zoomconference?m=hyvG8NGnTzfhlo-aL2Na09c9oPfNqROK
+     * Client installieren: http://zoom.us/download#client_4meeting
+     * Backup-Kanal bei technischen Problemen ist das Chat in diesem Pad!!!
+
+     Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsprachingen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsamme Projekt zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG - https://lists.okfn.org/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( http://dx.doi.org/10.5281/zenodo.12326 / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+
+     Hintergrund: Forschungsergebnisse sollten für jedermann im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagert sich immer weiter ins Netz - und auch in diesen frühreren Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen - wie z.B. "Facebook für Wissenschaftler"-Dienste - schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um,
+   gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+
+     Wer darf mitmachen? Alle die Interesse an Open Science haben! Du brauchst kein tiefes Hintergrundwissen und kannst gerne Fragen stellen. Gerade Menschen ohne fundierten Hintergrund in Open Science, die sich in die Community einklinken möchten, sind herzlich willkommen.
+   TeilnehmerInnen:
+     * Konrad Förstner (Uni Würzburg/Open Science Radio)
+     * Sarah Behrens (Wikimedia Deutschland)
+     * Matthias Fromm (Open Science Radio)
+     * Guido Scherp (ZBW / Leibniz-Forschungsverbund Science 2.0)
+     * Andreas Leimbach (Uni Göttingen/Münster)
+     * Markus Neuschäfer (okfde)
+     * Daniel Mietchen (NIH)
+     * Lambert Heller (TIB)
+     * Bernd Rupp (FMP/DACS)
+     * Martin Hammitzsch (GFZ)
+
+   Agenda und Protokoll
+   Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deine Namen hinzu so dass wir wissen wer verantworlich ist.
+     * Organisatorisches (Moderator)
+
+     * Dauer des Gespräches
+     * Wer schreibt dar Protokoll hautpsächlich?
+
+     * alle
+
+     Vorstellungsrunde
+     * siehe Teilnehmerliste
+
+     EU Commission - Open Science Policy Plattform (Konrad)
+     * http://science.okfn.org/2016/03/22/open-science-policy-platform-open-science-working-group-representative/
+     * Einige aus der Community beworben:
+
+     * Konrad Förstner: http://thedaoofflow.fluxionary.net/2016/03/applying-for-the-european-commission-open-science-policy-platform/
+     * Daniel Mietchen: https://meta.wikimedia.org/wiki/User:Daniel_Mietchen/European_Commission_Open_Science_Policy_Platform
+     * Björn Brembs: http://bjoern.brembs.net/2016/03/seeking-your-endorsement/
+     * Uebersicht: http://svpow.com/2016/03/21/populating-the-european-commissions-open-science-policy-platform/ oder in Daniels Bewerbung
+
+     Fellow-Programm Freies Wissen. Wissenschaft offen gestalten.
+     * In Koopertion mit dem Stifterverband
+     * In diesem Jahr Fokus Open Science
+     * Richtet sich an Nachwuchswissenschaftler die noch keinen Kontakt mit Open Science hatte
+     * (sehr) kurz aufgeführt im Wikimedia Jahresplan, Priorität 2, Ziele 2016 >>> https://www.wikimedia.de/wiki/Jahresplan_2016#Bildungs-.2C_Wissenschafts-_und_Kulturinstitutionen_f.C3.BCr_Leuchtturm-Projekte_gewinnen_2
+     * Link??
+
+     * Webseite existiert noch nicht - folgt zeitnah unter www.wikimedia.de
+
+     Vier MentorInnen, Fellows sollten dann das neue Wissen auf ihre Forschung anwenden
+
+     Ausschreibung werden gerade vorbereitet - öffentlich wahrscheinlich Ende April
+
+     kann der Text der Ausschreibung auch als Draft verfuegbar gemacht werden, um Kommentare vor der endgueltigen Fassung zu ermoeglichen?
+
+     Wahrscheinlich 10 Fellows
+
+     Programm wird von September 2016 - Februar 2017 stattfinden
+
+     Fellows (Jungwissenschaftler) aus allen Fachbereichen erwünscht
+
+     Barcamp Science 2.0 / Science 2.0 Conference (Guido)
+     * http://www.science20-conference.eu/barcamp
+
+     * Zielgruppe: Für Open Science Anwender, für Anfänger und Experten
+     * Vorherige Anmeldung erwünscht
+
+     http://www.science20-conference.eu/
+
+     Online Consultation "Open Science Monitoring Project": http://www.rand.org/randeurope/research/projects/open-science-monitor.html (Guido)
+     * 3-Tägige online Konsulation
+     * Verbreitung von Open Science "messen", um Entscheidungsträger zu informieren
+     * mehrere Teilnehmer: F1000, Elsevier, DFG
+
+     EU Open Science Conference (Daniel)
+     * http://english.eu2016.nl/latest/events/2016/04/04/open-science-conference
+     * https://wiki.surfnet.nl/display/OSCFA/Amsterdam+Call+for+Action+on+Open+Science
+     * War "invitation only"
+     * Diese Woche Montag/Dienstag
+     * Gesamteindruck - leider nicht besonders Open-Science-Style
+     * Jetzt noch eine Woche möglich ins Wiki (s.o.) Kommentare einzutragen
+     * European Open Science Cloud - 5% jedes Forschungsbugdets für Data Management einplanen
+
+     * Daten generiert aus EU Fördermitteln soll der Öffentlichkeit zur Verfügung stehen, nach EU Datenschutzrichtlinien
+     * Noch keine genaue Infrastruktur
+
+     European Open Science Cloud (general info) https://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud
+
+     ein paar Infos zur EOSC gibt's im Abschlussreport des letzten European Open Science Cloud for Research (EOSC) Workshop https://www.eudat.eu/sites/default/files/EOSC%20Report%205%20Feb%202016%20final.pdf (aber auch hier nur recht spärlich und insbesondere technisch wenig spezifisch)
+
+     Wikiradio
+     * https://tools.wmflabs.org/wikiradio/
+     * z.B. https://tools.wmflabs.org/wikiradio/index.php?channel=nature
+     * Sämtliche Audiodateien von Wikimedia Commons als Radiochannels
+
+     EGU Session Open Access to Research Data and Public Sector Information towards Open Science (Martin)
+     * http://meetingorganizer.copernicus.org/EGU2016/session/20148
+     * Basiert auf Short Course Serie aus 2015 https://lists.okfn.org/pipermail/open-science/2016-January/004085.html
+     * Abwaegen - eine spezielle Session zu Open Science oder Open Science in verschiedene Sessions einfliessen lassen?
+     * ISMB/ BOSC https://www.open-bio.org/wiki/BOSC
+
+     WikiCite (Berlin, 25.-26.5.)
+     * https://meta.wikimedia.org/wiki/WikiCite_2016
+
+     DEIN THEMA (DEIN NAME)
+     * EIN PAAR STICHPUNKTE ODER LINKS
+
+     DEIN THEMA (DEIN NAME)
+
+     Abschluss
+     * Wer schreibt einen Blog Post über das Gespräch?
+
+     * Andreas, Konrad
+
+     Wer oganisiert das nächste Treffen?

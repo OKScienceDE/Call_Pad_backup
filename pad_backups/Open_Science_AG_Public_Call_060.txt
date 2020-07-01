@@ -19,9 +19,16 @@ Call from German-speaking Open Science AG and de-RSE 60
 	* Zurück zum Masterpad: https://pad.okfn.de/p/openscience-ag-master-pad
 
 TeilnehmerInnen:
-	* Konrad Förstne (ZB MED/TH Köln)
-	* DEIN NAME
-	* DEIN NAME
+	* Konrad Förstner (ZB MED/TH Köln)
+	* Stephan Janosch (MPI-CBG)
+	* Christian Busse (DKFZ)
+	* Lambert Heller (TIB)
+	* bernadette fritzsch (awi)
+	* Carina Haupt (DLR)
+	* Florian Goth(SFB 1170/ Theoretische Physik 1 Uni Würzburg)
+	* Guido Scherp (ZBW, LFV Open Science)
+	* Frank Löffler (Uni Jena)
+
 
 Agenda und Protokoll
 
@@ -31,6 +38,7 @@ Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinte
 		* Dauer des Gespräches
 		* Bitte Protokoll mitschreiben - einfach die Agenda ergänzen
 	* Vorstellungsrunde
+	* Meta - Pad backups - https://github.com/OKScienceDE/Call_Pad_backup
 	* Themenblock AG Open Science
 		* NFDI (Christian)
 			* Votum des Expertengremiums: Empfehlung für BioDiversity, DataPLANT, Health, GHGA, KonsortSWD, Cat, Culture, Ing, Chem
@@ -39,12 +47,39 @@ Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinte
 				* Deadline für Konferenzabstracts ist Mi., 2020-06-17
 				* Weiterhin keine Querschnittskonsortien
 			* Konsortiensprecher/innen wurden vom Direktorat kontaktiert, Telefonate im Juni
+			* QSI Papier bis Mo., 2020-06-15
 		* EOSC (Christian)
 			* EOSC Hub Virtual Conference 2020-05-18/-20
+			* See https://www.eosc-hub.eu/eosc-hub-week-2020/agenda  --> slides and recordings
+			* keine einzelne zentrale Struktur geplant, es kann neben dem EOSC Hub auch weitere Zugangsdienste geben
+			* Authentification via EGI
+		* Open Access Tage, 15. bis 17. September 2020 
+			* Werden online stattfinden
+			* Tool Markplatz, Workshops, virtuelle Postersession, virtuelle Räume
+			* https://open-access.net/community/open-access-tage/open-access-tage-2020/
+		* Open Science Conference 
+			* für März 2021 geplant - Option sicherheitshalber online durchzuführen 
+		* InnoSci (Lambert)
+			* Relativ neue Initiative des Stifterverbands zu Open Innovation und Open Science, vgl. https://www.stifterverband.org/innosci
+			* Kritische Überlegung zur Verbindung dieser beiden Themen von Sascha Friesike und Maximilian Heimstädt: https://doi.org/10.5281/zenodo.3773267
 	* Themenblock de-RSE
-		* DEIN THEMA (DEIN NAME)
-		* DEIN THEMA (DEIN NAME)
-	* nächster Termin: DATUM
+		* de-RSE Mitgliedversammlung (Stephan Janosch)
+			* 27.8. ab 13 Uhr, geplant bis 15 Uhr
+			* Friedrichstraße 171, Berlin
+			* BigBlueButton Einwahl vorgesehen
+		* Update Allianz AG Digitale Werkzeuge (Konrad)
+			* Mehrere Handreichungen auf der Startrampe:
+				* Digitale Dienste für die Wissenschaft - wohin geht die Reise?
+				* Softwareentwicklung in der Wissenschaft
+				* "Plan I - der Weg zu einer nachhaltigen Forschungsinformationsinfrastruktur" (das "Brembs"-Paper ;) ) - kein offizielle Paper der AG; sollte in den nächsten Tage online gehen
+		* Elektronische Laborbücher (Konrad, Stephan)
+			* keine offenen Standards, somit keine Exitstrategie
+			* Open Source gibt es auch (elabFTW, osf.io, TUMBench?)
+		* EOSC-SYNERGY: Software Quality Assurance / Service Quality Assurance -> SQAaaS / Badges (Christian)
+			* Software Quality Assurance: http://hdl.handle.net/10261/160086
+			* Badge paper: http://hdl.handle.net/10261/206348
+		* Standorte der bayrischen KI Professuren festgelegt: https://www.forschung-und-lehre.de/politik/bayern-legt-standorte-fuer-ki-professuren-fest-2787/ (Florian)
+	* nächster Termin: 2020-07-01 11:00
 	* Abschluss
 		* Wer schreibt eine Blog Post über das Gespräch?
 		* Wer organisiert das nächste Treffen?

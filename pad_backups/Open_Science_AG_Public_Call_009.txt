@@ -1,0 +1,131 @@
+   This is a read only archive of pad.okfn.org. See the shutdown announcement for details.
+   Call der Deutschsprachigen Open Science AG 009 / Januar 2016
+     * Datum: 2016-01-07 von 14:00 bis 15:00
+     * Konferenzsystem/URL/Nummer:
+
+     * +49 (0) 30 3080 6188 (Germany Toll)
+     * Meeting ID: 853 606 3002
+     * Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/8536063002
+     * International numbers available:  https://zoom.us/zoomconference?m=hyvG8NGnTzfhlo-aL2Na09c9oPfNqROK
+     * Client installieren: http://zoom.us/download#client_4meeting
+     * Backup-Kanal bei technischen Problemen ist das Chat in diesem Pad!!!
+
+     Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsparchingen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsamme Projekt zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG - https://lists.okfn.org/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( http://dx.doi.org/10.5281/zenodo.12326 / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+
+     Hintergrund: Forschungsergebnisse sollten für jedermann im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagert sich immer weiter ins Netz - und auch in diesen frühreren Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen - wie z.B. "Facebook für Wissenschaftler"-Dienste - schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um,
+   gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist  Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+
+     Wer darf mitmachen? Alle die Interesse an Open Science haben! Du brauchst kein tiefes Hintergrundwissen und kannst gerne Fragen stellen. Gerade Menschen ohne fundierten Hintergrund in Open Science, die sich in die Community einklinken möchten, sind herzlich willkommen.
+   TeilnehmerInnen:
+     * Konrad Förstner
+     * Björn Brembs
+     * Markus Neuschäfer
+     * Jochen Klar (Leibniz-Institut für Astrophysik Potsdam (AIP) / forschungsdaten.org / OK Lab Berlin, ich schau nur mal rein
+     * Martin Hammitzsch
+     * Christopher Schwarzkopf (Wikimedia Deutschland)
+     * Andreas Leimbach
+     * Lambert Heller
+
+   Agenda und Protokoll
+   Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deine Namen hinzu so dass wir wissen wer verantworlich ist.
+     * Organisatorisches (Moderator)
+
+     * Dauer des Gespräches
+     * Wer schreibt das Protokoll hautpsächlich?
+
+     Vorstellungsrunde
+
+     Report vom Open Science workshop auf dem 32C3 (Konrad)
+     * ca. 40 Teilnehmer
+
+     Report vom Knowledge Exchange anniversary meeting in Helsinki (Björn)
+     * Knowledge Exchange - von 5 große Förderinstitution (DFG und andere)
+     * Programm des Treffens: http://www.knowledge-exchange.info/news/articles/21-12-2015
+     * 10-jähriges Bestehen
+     * Ziel ware nach Programm eine Wunschliste mit Infrastruktur - Forschungsorganisationen treten auf der Stelle
+     * Björns Meinung: Leider nur alte Vorschläge aufgewärmt und keine neuen Vorschläge und Punkte, allgemeines Problem bei Open Science
+     * Lambert: Transformation zu Open Access findet statt aber sehr langsam
+     * Björns Vorschlag:
+
+     * Geld für Subscription einsparen (ca. 10 Milliarden Dollar) und für eigene Infrastruktur (u.a. für Software) investieren;
+     * Konsortien von Uni-Bibliotheken die existieren um große Subscriptionsrabatte zu erhalten; dies ist aber nicht nachhaltig - Profitmarge der Verlage wachsen
+     * Analogie von Email und Snailmail: 1. umsonst, 2. kostet
+     * Was fehlt für Daten, Software, Literatur an digitaler Infrastruktur? Subskriptionen auslaufen lassen, eingespartes Geld umleiten, um Infrastruktur aufzubauen
+     * Langfristig würden dann klassische Subscriptionsbasierte Lösungen unaktrativ werden (wobei bereits Artikel von Subskriptionen verfügbar bleiben, nur nicht neuere Artikel), da niemand diese mehr lesen kann
+     * UK/Niederlande Vorreiter
+     * Vorschlag wurde allerdings nicht von er breite der Teilnehmer angenommen
+     * Nun die Frage - wen spricht mah an?
+
+     "Letter to Santa Claus": www.knowledge-exchange.info/reports/32
+
+     Force11 - progressive Kraft im Bereich der wissenschaftlichen Infrastruktur
+     * nächstes Treffen z.B. hier: https://www.force11.org/meetings/force2016
+     * Momentan wird von Force11 ein Dokument entwickelt dass die nötige Punkte spezifiziert, soll von Förderorganisationen unterschrieben werden, braucht Experten für die Erstellung
+
+     * https://www.force11.org/group/scholarly-commons-working-group
+
+     gerne mitmachen:  wir erstellen eine Karte von Open Access-Beauftragten in Deutschland
+     * Das ist die Tabelle (bitte ergänzen, nur 1 Eintrag bisher):
+
+     * https://docs.google.com/spreadsheets/d/1T-MJ3OFbpN3qxdt7T0O6svpwmNVk3IiMbmvKBU1wTkc/edit?usp=sharing
+
+     und so sieht das dann z.B: aus (lässt sich dann einbetten / teilen):
+     * https://mneuschaefer.cartodb.com/viz/3870c630-b52d-11e5-8cd8-ö/public_map
+
+     Open Science goes Geo - Call for Abstracts EGU 2016 (Martin)
+     * Falls jemand darüber informieren möchte, gibt es unten einen Copy-and-Paste Text
+     * Session-Vorschlag zu Open Science (Software, Infratstkture, etc)
+     * Ein Woche Zeit bis zur Einreichungsdeadline
+     * Möglich Abstract für Open Science einreichen ohne direkten Geo-Bezug
+
+     forschungsdaten.org (Jochen)
+     * Jochen ist Teil des Redaktionsteams
+     * Fokus auf offene Daten
+     * Einmal pro Monat ist eine Redaktionssitzung, nächsten Montag 10:00 (Details im Pad)
+     * Kontakt: info@forschungsdaten.org
+     * Link: http://www.forschungsdaten.org/
+     * Pad: https://ep.mafiasi.de/p/Redaktionskonferenz__Forschungsdaten.org
+
+     open access: aaaarg.org abgemahnt, bereiten defense fund vor (Anwaltskosten) - http://thepublicschool.org/node/27202
+     * HELP! As a few of you know, I am being sued (along with Marcell Mars) for $500,000 for a book that was on AAAARG. The simple act of "appearing" so that there is not an automatic judgment against us costs each defendant $182. Legal fees are already starting to add up. In my private conversations I can tell that there is a lot of potential support out there and I just need to ask, so this is my first ask... There are two big ways that you (or someone you know) could help:
+     * 1. The really big one: setting up a legal defense fund. I have no experience with this, and am generally bad at fundraising. I also have very little time to do it effectively because of the usual things, but especially because of this lawsuit. If someone could manage this it would be huge. I am hoping fees don't go above $5,000, but there's no real way of telling.
+     * "Writers, researchers, artists, etc. If you have depended on AAAARG for your research or found it a useful place to put your own work or used it for discussion groups, we could use written statements that say as much. Basically it is portrayed in the lawsuit as having no value or purpose other than piracy. (If you can write one, or ask someone you know to write one, then send it to me at sean.patrick.dockray@gmail.com.)"
+     * Vgl. auch https://torrentfreak.com/sci-hub-and-libgen-resurface-after-being-shut-down-151121/
+
+     Booksprint Forschungsdaten Potsdam (Lambert)
+     * Lehrbuch zu Forschungsdatenmanagement soll erstellt werden
+     * auf http://handbuch.io
+     * Bundesweit Autoren, Studenten aus Seminar von Stephan Büttner organisieren
+
+     Fachgespräch Digitalisierung der Wissenschaft (BMBF)
+     * Woran sieht man das die Digitalisierung zunimmt?
+     * Was sind Faktoren die das begünstigen?
+
+     DEIN THEMA (DEIN NAME)
+
+     Abschluss
+     * Wer schreibt eine Blog Post über das Gespräch?
+     * Wer organisiert das nächste Treffen?
+
+   ----
+   Copy-and-Paste Text für Open Science goes Geo - Call for Abstract EGU 2016:
+   The deadline for abstract submissions to the EGU General Assembly 2016 is approaching (13 January 2016). I would like to draw your attention to this session and invite you to consider contributions:
+   *Open Science goes Geo*
+   http://meetingorganizer.copernicus.org/EGU2016/session/21741
+   This session is the continuation of Short Course series with four parts performed last year. The speakers have made it a success with exciting presentations rare to get in such a comprehensive way.
+   Check out what has been done last year:
+   - Part I: Research Data
+     http://meetingorganizer.copernicus.org/EGU2015/session/19163
+     Get the slide deck: http://doi.org/bbnp
+     Enjoy the recordings: http://goo.gl/ckbj4S
+   - Part II: Scientific Software
+     http://meetingorganizer.copernicus.org/EGU2015/session/19164
+     Get the slide deck: http://doi.org/bbnq
+     Enjoy the recordings: http://goo.gl/fv6Fo2
+   - Part III: Beyond Data and Software
+     http://meetingorganizer.copernicus.org/EGU2015/session/19165
+     Get the slide deck: http://doi.org/bbnr
+     Enjoy the recordings: http://goo.gl/T1xS6V
+   - Part IV: Winning Horizon 2020 with Open Science
+     http://meetingorganizer.copernicus.org/EGU2015/session/19166
+   We would be more than happy if you could help to shape an influencing session with your contribution this year. Please submit your abstract at http://meetingorganizer.copernicus.org/EGU2016/abstractsubmission/21741/123

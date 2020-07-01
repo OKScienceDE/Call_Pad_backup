@@ -1,0 +1,125 @@
+   This is a read only archive of pad.okfn.org. See the shutdown announcement for details.
+    Call der Deutschsprachigen Open Science AG 011
+     * Datum: 2015-03-03 von 14:00 bis 15:00
+     * Konferenzsystem/URL/Nummer:
+
+     * +49 (0) 30 3080 6188 (Germany Toll)
+     * Meeting ID: 853 606 3002
+     * Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/8536063002
+     * International numbers available:  https://zoom.us/zoomconference?m=hyvG8NGnTzfhlo-aL2Na09c9oPfNqROK
+     * Client installieren: http://zoom.us/download#client_4meeting
+     * Backup-Kanal bei technischen Problemen ist das Chat in diesem Pad!!!
+
+     Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsparchingen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsamme Projekt zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG - https://lists.okfn.org/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( http://dx.doi.org/10.5281/zenodo.12326 / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+
+     Hintergrund: Forschungsergebnisse sollten für jedermann im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagert sich immer weiter ins Netz - und auch in diesen frühreren Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen - wie z.B. "Facebook für Wissenschaftler"-Dienste - schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um,
+   gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+
+     Wer darf mitmachen? Alle die Interesse an Open Science haben! Du brauchst kein tiefes Hintergrundwissen und kannst gerne Fragen stellen. Gerade Menschen ohne fundierten Hintergrund in Open Science, die sich in die Community einklinken möchten, sind herzlich willkommen.
+   TeilnehmerInnen:
+     * Konrad Förstner
+     * Andreas Leimbach
+     * Markus Neuschäfer
+     * Matthias Fromm
+     * Lambert Heller
+     * Thorsten Rissom
+     * Daniel Mietchen
+     *
+
+   Agenda und Protokoll
+   Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deine Namen hinzu so dass wir wissen wer verantworlich ist.
+     * Organisatorisches (Moderator = Markus Neuschäfer)
+
+     * Dauer des Gespräches [X]
+     * Wer schreibt dar Protokoll hautpsächlich?
+
+     Vorstellungsrunde [X]
+
+     Vorstellung http://forschungslizenzen.de/ (MN)
+     * Seite ist mittlerweile live und wird nächste Woche vorgestellt
+     * Lizenzen werden anhand von Beispielen erläutert
+     * Gerne noch Interviewpartner vorschlagen
+
+     Open Access-Diskussion bei OER Festival (Berlin) (LH)
+     * Gesamt Open Science Themen (d.h. Daten, Grants etc.)
+     * Ähnlichkeiten zu Lehrmaterial (Open educational resources)
+     * Folien zum Panel "OA und OER": https://twitter.com/Joachim_Hoeper/status/704716645097459712
+
+     * Im Vergleich zu meiner Veranstaltung zum gleichen Thema beim OER-Camp 2013: Viel mehr Teilnehmende, großes Interesse und heiße Diskussionen, schöne Sache!
+
+     Repositorium für Grafiken? Leider oft aus paywalled Journalen, deswegen Abhilfe
+
+     Projekt mit Wikidata und Wikimedia Commons: Graphiken etc. sammeln aus OA-Journals
+
+     Neue Projektidee: Interessante unfreie Bilder sammeln, evtl. als Bildzitate - können nachgebaut oder beschrieben werden, evtl. können auch AutorInnen gezielt gebeten werden, die Bilder freizugeben. Wer hat Interesse, ein solches Projekt ggf. mit umzusetzen?
+     * Konrad
+     * Lambert
+     * Matthias
+
+     Science 2.0 und Open Science in der Lehre - Eine Checkliste:
+     * https://pad.okfn.org/p/science20_in_der_lehre_checklist
+     * gibt es repositorien für lehre?
+
+     * ab
+     * Beispiel https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks
+     * Beispiel https://av.tib.eu/
+     * Viele weitere Beispiele: http://open-educational-resources.de/16/award/
+     * Auch ergiebig: Slideshare, Wikimedia Commons, FigShare, Zenodo, CC-Suche bei Google...
+     * mal bei FOSTER nachfragen oder unter dem #OER hashtag
+     * http://oerresearchhub.org/
+     * OER Repositories Directory: https://oerqualityproject.wordpress.com/2012/10/22/directory-of-oer-repositories/
+     * die Qualität der Materialien die man in/über https://www.oercommons.org/ findet ist mittlerweile durchaus oft zufriedenstellend
+
+     Science 2.0 Barcamp (LH) (2. Mai, Köln)
+     * https://twitter.com/hashtag/s20bar?src=hash
+
+     * 2.5. Koeln
+     * http://www.science20-conference.eu/barcamp/
+     * science 2.0. konferenz ist dann ab dem 3.5. barcamp ist aber cooler
+     * gebloggt soll werden (könnte ich teilweise auch übernehmen, vielelicht auf http://www.offene-wissenschaft.de/)
+     * Open Science Radio ist aller Wahrscheinlichkeit vor Ort und kann in Audio begleiten. Umsetzungsideen:
+
+     * Feature-Format für das BarCamp (z.B. kurze Berichte mit O-Tönen und Atmo)
+     * Conference: kurze Speakerinterviews nach Vorträgen, um die Schlüsselargumente herauszustellen >>> hierzu vllt. die Speaker bereits im Vorfeld informieren, damit die Orga reibungslos klappt
+
+     Bitte teilnehmen - kommt alle!!!
+
+     ~100 Teilnehmer - gerne mehr
+
+     Von Leibnizverbund Leibnis-Science 2.0
+
+     schoene doku eines workshops: https://docs.google.com/document/d/1ye2v0jN8uBpQy0etfD0FxOc-CdjEhtok0EV3wr95CB4/edit
+
+     audio?
+     * sowas wie https://soundcloud.com/hackyourphd ?
+
+     Mailing-Liste fuer Zika (DM)
+     * Wie kann die mometan stattfindende, internationale Forschung zusammenführen?
+     * Antwort:
+
+     * Mailingliste: https://groups.google.com/forum/#!forum/zika-research
+
+     Alle Fachrichtungen benutzen unterschiedliche Plattformen (Virologen, Epidemiologen, etc.), Mailngliste kleinster Nenner
+     * Nick Loman @pathogenomenick, https://twitter.com/pathogenomenick
+     * Andrew Rambaut @arambaut, https://twitter.com/arambaut
+     * Pardis Sabeti @PardisSabeti, https://twitter.com/pardissabeti
+     * Trevor Bedford @trvrb, https://twitter.com/trvrb
+     * http://virological.org/
+     * http://www.nature.com/news/zika-researchers-release-real-time-data-on-viral-infection-study-in-monkeys-1.19438
+
+     Idealweise auch als Beispiel für kommende Epedimien dieser Art
+
+     EU Open Science Kommission (DM)
+     * https://twitter.com/GOettingerEU/status/705291730384457728
+     * Daniel ist skeptisch: Bei anderen Meeting waren Vertreter von Elsevier
+     * Ggf. einklinken und alternative nach außen tragen
+
+     Nächster Call 7. April 2016 14:00 - 15:00
+
+     DEIN THEMA (DEIN NAME)
+
+     DEIN THEMA (DEIN NAME)
+
+     Abschluss
+     * Wer schreibt eine Blog Post über das Gespräch?
+     * Wer oganisiert das nächste Treffen?

@@ -1,0 +1,91 @@
+   This is a read only archive of pad.okfn.org. See the shutdown announcement for details.
+   Public Call der Deutschsprachigen Open Science AG 002
+     * Datum: 01. Juni 2015  - 13:00-14:00
+     * Konferenzsystem/URL/Nummer:
+
+     * +49 30 92 03 52 42  dann Raumnummer: 74 79 26 #
+
+     Backup-Kanal bei technischen Problemen ist das Chat in diesem Pad!!!
+
+     Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsprachigen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsamme Projekt zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG - https://lists.okfn.org/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( http://dx.doi.org/10.5281/zenodo.12326    / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+
+     Hintergrund: Forschungsergebnisse sollten für jedermann im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagert sich immer weiter ins Netz - und auch in diesen frühreren Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen - wie z.B. "Facebook für Wissenschaftler"-Dienste - schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um,
+   gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+   TeilnehmerInnen:
+     * Björn Brembs (bin da)
+     * Markus Neuschäfer
+     * Konrad Förstner (bin da)
+     * Lambert Heller
+     * Christopher Schwarzkopf
+     * Julia Kloppenburg
+     * Astrid Orth (kann leider doch nicht teilnehmen, da meine Tochter heute krank ist)
+     * Hendrik Bunke (mit Skype drin)
+     * Marco Tullney (bin da)
+     * Martin Hammitzsch
+
+   Agenda und Protokoll
+   Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deine Namen hinzu so dass wir wissen wer verantworlich ist.
+     * Organisatorisches (Moderator (Konrad))
+
+     * Dauer des Gespräches
+     * Wer schreibt dar Protokoll hautpsächlich? (U.a. Lambert)
+
+     Twitter-Aktion https://twitter.com/OKScienceDE
+     * Markus berichtet: Läuft soweit ganz gut, insbesondere Tweets mit Bildern und interaktive Sachen. Heute ist Lambert dran, übernächsten Montag Konrad. Hat der Ag schon jetzt Aufmerksamkeit gebracht.
+     * Wer hat Interesse mal einen Montag lang "gastzutwittern"?
+     * Bei Interesse hier gucken / eintragen: https://pad.okfn.org/p/open_science_twitter
+
+     Vorstellungsrunde
+     * (siehe oben!)
+
+     Ankündigung Jahresplanung 2016 WMDE (Julia Kloppenburg)
+     * 2wöchige Partizipationsphase zur Jahresplanung 2016 von Wikimedia startet im Juni
+     * Julia wird Link über die Liste schicken. Es wir eine Seite im Meta-Wiki eröffnet, um ersten Input aus diversen Communities zu sammeln, neben Kerncommunities wie WP-AutorInnen und FotografInnen auch z.B. OER, Open Science etc.
+     * "Communities sollen frühzeitig im Planungsprozess mit eingebunden weren"
+     * Es wird Frage geben wie "Was wünschst du dir für Aktivitäten 2016 im Bereich Wissenschaft?" - Ideen und Anregungen sollen gegeben werden, das Präsidium entwickelt daraus Cluster, gegen Ende des Jahres entstehen in der Geschäftsstelle die operative Jahresplanung.
+     * Informationen und Links dazu im Laufe der Woche
+
+     Workshop mit Unis? (MN)
+     * OpenGLAM AG machte Workshop mit WM Deutschland - wäre nachahmenswert, z.B. an interessierter Uni. Format: Workshop, um in 2-3 Stunden über Open Science zu informieren.
+
+     Meinungsbild "Citizen Science" (MN):
+     * Unterschied zu Crowdsourcing? (häufig Etikettenschwindel)
+     * Markus bereitet eine geisteswissenschaftliche Veranstaltung vor, das ist der Aufhänger (September, Erfurt)
+
+     * Erfahrung von der Plattform "Bürger schaffen Wissen", Kontakt wird hergestellt (Kontakt: Dr. Lisa Pettibone, lisa.pettibone@mfn-berlin.de), Link "Citizen Science jenseits der Naturwissenschaften": http://www.buergerschaffenwissen.de/node/310
+     * eindruck Lambert (Leibniz-Workshop): Abwesenheit des Themas Wikipedia; Top-down mäßiges Neuerfinden von Grassroot -Phänomen Wikipedia
+     * weniger Fördergelder von EU; mehr Wissenschaftskommunikation
+
+     Veranstaltung mit Fokus Open Science im Rahmen der Reihe "ABC des Freien Wissens" (Julia Kloppenburg)
+     * https://www.wikimedia.de/wiki/Wikimedia-Salon_-_Das_ABC_des_Freien_Wissens
+     * Letzte Veranstaltung z.B. zusammen mit Julia Reda
+     * 3. Sptember 2015 in Kooperation mit Humboldt Institut für Internet und Gesellschaft (HIIG)
+     * Di, 9.6. Treffen zur Planung, Ideen gerne davor einreichen! Welche spannenden Fragestellungen gibt es? (gerne mailen an: julia.kloppenburg@wikimedia.de)
+
+     Veranstaltungshinweis: Wikipedia Science Conference, organisiert von Wikimedia UK (Julia Kloppenburg)
+     * https://wikimedia.org.uk/wiki/Wikipedia_Science_Conference
+     * 2.-3. September 2015 in London
+
+     Treffen auf dem Chaos Communication Camp (Konrad)
+     * 2015-08-13 - 2015-08-17
+     * https://pad.okfn.org/p/open_science_meeting_CCCamp_2015
+
+     Twitter again, wer übernimmt den Account an diesen Terminen?
+     * 8.6.:   Markus Neuschäfer
+     * 9.6. evtl. von dieser Veranstaltung: http://www.uni-regensburg.de/bibliothek/veranstaltungskalender/veranstaltungen/489755.html
+     * 15.6.: Hendrik Bunke
+     * 22.6.:
+     * 29.6.:
+
+     Technik: Konrad und Markus finden Lösung
+
+     nächstes Treffen - Konrad
+   Wenn ich einen Wunsch zur Technik äussern dürfte: bitte etwas Bildschirm-orientiertes, damit man sieht wer gerade was sagt. Qualität war recht mau, so dass der Satz meistens schon zuende war, bevor ich realisieren konnte wer da gerade geredet hat - und was das gesagt wurde :-)
+   - danke, wir suchen was! Vorschläge sehr willkommen; Skype / Hangout / ...
+   Beides hat für mich immer gut funktioniert...
+   + 1
+     * DEIN THEMA (DEIN NAME)
+     * Abschluss
+
+     * Wer schreibt eine Blog Post über das Gespräch?
+     * Wer oganisiert das nächste Treffen?

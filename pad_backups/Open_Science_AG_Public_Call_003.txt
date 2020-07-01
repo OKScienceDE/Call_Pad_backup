@@ -1,0 +1,62 @@
+   This is a read only archive of pad.okfn.org. See the shutdown announcement for details.
+   Public Call der Deutschsprachigen Open Science AG 003
+     * Datum: 2. Juli 2015 14:00-15:00
+     * Konferenzsystem/URL/Nummer:
+
+     * PC, Mac, iOS, Android: https://zoom.us/j/5172940580
+     * Telefon +49 (0) 30 3080 6188 dort dann Meeting ID: 517 294 0580 # #
+
+     Backup-Kanal bei technischen Problemen ist das Chat in diesem Pad!!!
+
+     Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsprachigen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsame Projekte zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG - https://lists.okfn.org/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( http://dx.doi.org/10.5281/zenodo.12326      / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+
+     Hintergrund: Forschungsergebnisse sollten für jedermann im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagert sich immer weiter ins Netz - und auch in diesen frühreren Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen - wie z.B. "Facebook für Wissenschaftler"-Dienste - schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um,
+   gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+   TeilnehmerInnen:
+     * Konrad Förstner
+     * Björn Brembs
+     * Markus Neuschäfer
+     * Guido Scherp
+     * Thorsten Rissom
+     * Lambert Heller
+
+   Agenda und Protokoll
+   Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deine Namen hinzu so dass wir wissen wer verantworlich ist.
+     * Organisatorisches (Moderator)
+
+     * Dauer des Gespräches
+     * Wer schreibt das Protokoll hauptsächlich?
+
+     Vorstellungsrunde
+
+     Lambert
+     * Projekt: Bilder aus OA-Aritikel in die Wikipedia (WikiCommons) zu importieren
+     * DFG-Antrag - abgelent da "zu groß", aber prinzipiell gut
+
+     * Entwicklung eines Verfahrens zur automatischen Sammlung, Erschließung und Bereitstellung multimedialer Open-Access-Objekte mittels der Infrastruktur von Wikimedia Commons und Wikidata  https://zenodo.org/record/12745
+
+     Neueintrag: Einschränkung auf bestimmte Publisher
+
+     Benötigt: Leute die mit Ingenieurdidaktik zu tun haben - nutzen von Bildern in OER
+
+     Testen wie Bilder dann nachgenutz werden können
+
+     Austausch mit Daniel Mietchen und Wikimedia Deutschland fand statt
+
+     Open Science Session auf dem Chaos Communication Camp 2015 (Brandenburg) (Konrad)
+     * ggf. Workshop, wird kurzfristig geplant
+     * Teilnehmer: Konrad, Thorsten, Bernd
+
+     Open Access Checkliste (Christian): [http://openscience.prepublish.org/ , Kommentare und Anmerkunen bitte unter https://pad.okfn.org/p/open-access-checkliste-feedback ]
+     * Blogpost (OKFN-Blog)
+     * ggf. Interview bei Open Science Radio
+     * Bitte nochmal ansehen und kritisch hinterfragen
+     * Ansonsten erstamal als Beta-Version veröffenlichen
+
+     weitere Aktivitäten der AG / Roundtable
+
+     Perspektive eigenes Blog? /
+     * vgl. https://openglam.de/wiki/Hauptseite
+     * Eigenes Blog => mehr Raum für eine Artikel; (ähnlich wie bei https://openglam.de/wiki/Hauptseite)
+
+     AbschlussWer schreibt eine Blog Post über das

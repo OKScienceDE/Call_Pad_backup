@@ -1,0 +1,119 @@
+   This is a read only archive of pad.okfn.org. See the shutdown announcement for details.
+   Call der Deutschsprachigen Open Science AG 014
+     * Datum: 2016-06-02 von 14:00 bis 15:00
+     * Konferenzsystem/URL/Nummer:
+
+     * +49 (0) 30 3080 6188 (Germany Toll)
+     * Meeting ID: 853 606 3002
+     * Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/8536063002
+     * International numbers available:  https://zoom.us/zoomconference?m=hyvG8NGnTzfhlo-aL2Na09c9oPfNqROK
+     * Client installieren: http://zoom.us/download#client_4meeting
+
+     Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsparchingen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsame Projekt zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG - https://lists.okfn.org/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( http://dx.doi.org/10.5281/zenodo.12326   / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+
+     Hintergrund: Forschungsergebnisse sollten für jedermann im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagert sich immer weiter ins Netz - und auch in diesen frühreren Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen - wie z.B. "Facebook für Wissenschaftler"-Dienste - schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um,
+   gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+
+     Wer darf mitmachen? Alle die Interesse an Open Science haben! Du brauchst kein tiefes Hintergrundwissen und kannst gerne Fragen stellen. Gerade Menschen ohne fundierten Hintergrund in Open Science, die sich in die Community einklinken möchten, sind herzlich willkommen.
+   TeilnehmerInnen:
+     * Konrad Förstner (Universität Würzburg)
+     * Jibé B (Universität Freiburg) Sprache: ich verstehe Deutsch aber spreche in Englisch
+     * Sarah Behrens (Wikimedia Deutschland)
+     * Christian Hauschke (Bibliothek der Hochschule Hannover)
+     * Daniel Mietchen (NIH)
+     * Andreas Leimbach (Uni Würzburg/Göttingen/Münster)
+     * Lambert Heller (TIB)
+
+     * macht Sachen :) LOL
+
+     Markus Neuschäfer (OKF)
+
+     Guido Scherp (ZBW)
+   Agenda und Protokoll
+   Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deine Namen hinzu so dass wir wissen wer verantworlich ist.
+     * Organisatorisches (Moderator)
+
+     * Dauer des Gespräches
+     * Bitte Protokoll mitschreiben - einfach die Agenda ergänzen
+
+     Vorstellungsrunde
+
+     Report von dem WikiCite 2016 Meeting (Konrad)
+     * https://meta.wikimedia.org/wiki/WikiCite_2016
+
+     * https://meta.wikimedia.org/wiki/WikiCite_2016/Report
+     * Podcast dazu: http://www.openscienceradio.de/2016/05/26/osr051-wikicite-2016-interview-with-lydia-pintscher-and-dario-taraborelli/
+     * Könnte Altmetrics etc. ersetzen und in die Public Domain bringen
+     * Data-Mining ein Problem durch geschlossene Literatur, erstmall nur für Open Access etablieren
+     * Link zum sich langsam entwickelnden Citation graph
+
+     * http://tinyurl.com/zxhgd2y
+
+     Open Science 101 @ Mozilla Science Lab Global Sprint 2016 (Matthias, Andreas, Konrad)
+     * Sprint findet heute und morgen statt
+     * https://github.com/OKScienceDE/Open_Science_101
+     * https://science.mozilla.org/global-sprint-2016
+     * https://pad.okfn.org/p/OpenScience101topicsuggestions  <== Feedback
+     * Gitter chat: https://gitter.im/matthiasfromm/open-science-101
+     * Gerne einklinken und mitmachen
+     * Werden noch E-Mail an LIste schicken für feedback und voting der Themen
+
+     What can institutions (et al.) do to promote Open Science?
+     * https://openscience.uni-bielefeld.de/882/what-can-research-institutions-do-to-encourage-open-science
+     * Alle Stakeholders: Studenten, Doktoranden, Professoren, Geldgeber, Institute etc.
+     * Kann dann in Open Science 101 eingebunden werden
+
+     Ausschreibung Fellow-Programm Freies Wissen
+     * Fokus auf Open Science, begonnene Forschungsprojekte mit einbeziehen (einfachster Startpunkt) zum offenen Gestalten
+     * Für Leute die noch nicht Open Science betreiben
+     * Erstes Treffen in September, Mentoren und Trainees, und Fahrplan fürs Jahr
+     * Abschlußveranstaltung Februar 2017
+     * Mentoren schon kleines Team vorhanden, aber noch weitere Experten gesucht
+
+     * https://wikimedia.de/wiki/BildungWissenschaftKultur/Fellowprogramm/MentorInnen
+
+     https://www.wikimedia.de/wiki/Fellowprogramm - Bewerbung bis zum 15. Juli 2016
+
+     Wichtig: 10 Stipendien werden an Forschende vergeben
+
+     Poster (Größe A1) - Zur Bewerbung des Programms
+     * sarah.behrens@wikimedia.de
+     * kann von WMDE verschickt werden, um lokal aufgehaengt zu werden
+     * Email:
+
+     Banner zum Programm auf Open Science AG Webseite schalten möglich?
+     * draft fuer blog post einfach selbst auf der website einstellen, für zugang mail an m.neuschaefer@okfn.de
+     * Werbebanner eher nein
+
+     GloPID-R interested in highlighting cases of data sharing around infectious disease research
+     * http://www.glopid-r.org/
+
+     * Medien verwenden um Open Science Projekte herausstellen
+
+     https://zika.labkey.com/project/home/begin.view?
+
+     https://zibraproject.github.io/
+
+     case for open science radio?
+
+     Gibts noch weitere Beispiele, v.a. aus Deutschland
+
+     Infektionsbiologieprojekte mit offenen Laborbüchern?
+
+     RIO hat jetzt 50 Artikel publiziert
+     * Die Hälfte sogar grant proposals
+     * Keiner der Artikel hätte in ein anderes Journal reingapaßt
+     * 100 Artikel angepeilt dieses Jahr
+     * http://blog.riojournal.com/2016/05/31/50th-publication-in-rio-journal-report-of-the-first-force11-scholarly-commons-workshop/
+
+     Junges Forum für Medien und Hochschulentwicklung, am 10./11.6. in Darmstadt
+     * 10.-11. Juni
+     * Keynote on Open Badges
+     * Workshop für Nachwuchswissenschaflter, wie die Open Identität pflegen etc.
+     * behandelt u.a. Open Science für NachwuchswissenschaftlerInnen, siehe http://jfmh16.edulog-darmstadt.de/
+
+     DEIN THEMA (DEIN NAME)
+
+     Abschluss
+     * Wer schreibt eine Blogpost über das Gespräch?
+     * Wer oganisiert das nächste Treffen?

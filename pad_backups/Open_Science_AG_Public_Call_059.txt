@@ -66,8 +66,6 @@ Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinte
 			* Konrad hat das durchgeführt
 			* Plattform: Zoom, Feature Breakout-Rooms
 			* https://carpentries.org/blog/2020/04/instructor-updates-for-online-workshops/
-			* 
-		* 
 	* nächster Termin: 2020-06-03 11:00
 	* Abschluss
 		* Wer schreibt eine Blog Post über das Gespräch?

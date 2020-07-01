@@ -1,0 +1,61 @@
+   This is a read only archive of pad.okfn.org. See the shutdown announcement for details.
+   Call der Deutschsprachigen Open Science AG 006
+     * Datum: 2015-10-01 14:00 - 15:00
+     *     +49 (0) 30 3080 6188 (Germany Toll)
+     *     Meeting ID: 853 606 3002
+     *     International numbers available: https://zoom.us/zoomconference?m=hyvG8NGnTzfhlo-aL2Na09c9oPfNqROK
+
+     * Backup-Kanal bei technischen Problemen ist das Chat in diesem Pad!!!
+
+     Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsprachingen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsamme Projekt zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG - https://lists.okfn.org/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( http://dx.doi.org/10.5281/zenodo.12326 https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen.
+
+     Hintergrund: Forschungsergebnisse sollten für jedermann im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagert sich immer weiter ins Netz - und auch in diesen frühreren Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen - wie z.B. "Facebook für Wissenschaftler"-Dienste - schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um,
+   gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+
+     Wer "darf" mitmachen? Jeder der interesse an Open Science hat! Du brauchst kein tiefes Hintergrundwissen und kannst gerne Fragen stellen. Gerade Neulinge, die sich in die Community einklinken möchten, sind herzlich willkommen.
+   TeilnehmerInnen:
+     * Björn Brembs: werde es wohl leider nicht schaffen, da wir einen Gast im  Institut haben. Tut mir leid.
+     * Marco: bin leider verhindert durch eine Arbeitskreis-Sitzung
+     * Christian Pietsch
+     * Lukas Großberger
+     * Guido Scherp
+     * Lambert Heller
+     * Christian Heise
+
+   Agenda und Protokoll
+   Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deine Namen hinzu so dass wir wissen wer verantworlich ist.
+     * Organisatorisches (Moderator)
+
+     * Dauer des Gespräches
+     * Wer schreibt dar Protokoll hautpsächlich?
+
+     Vorstellungsrunde
+
+     Themen:
+     * Open Science Q&A wird diese Woche noch von https://openscience.ub.uni-bielefeld.de/ nach https://openscience.uni-bielefeld.de/ migriert. Das DFG-Projekt Conquaire (“Continuous quality control for research data to ensure reproducibility”) stellt den Server bereit und hat jetzt auch eine eigene Website: http://conquaire.uni-bielefeld.de/ (Christian Pietsch)
+
+     * verbreiten wir über alle Kanäle :-)
+
+     draft für Website der open science ag - wer macht mit?
+
+     "Opening up Science" (#OpUpSci) in Hamburg am 26.10 an der ZBW in Hamburg: http://www.leibniz-science20.de/en/opening-up-science/
+
+     Wikimedia Salon: K wie Kollaboration 8.10. Berlin https://www.wikimedia.de/wiki/Wikimedia-Salon_-_Das_ABC_des_Freien_Wissens
+
+     Bericht Lambert von der letzten "ABC des freien Wissens - J wie Journals": gutes fachliches Niveau
+
+     Handbuch.io (Lambert): Plattform wird nachgefragt, weiter entwickelt. Offen für kollaborative Schreibprojekte, gerne weiter empfehlen
+
+     [Job] Open Science Lab Hannover schreibt nächste Woche eine (volle) Stelle Softwareentwickler aus (Schwerpunkt Open Data Anwendungen, Vivo etc), auch als freelancer möglich: weiterempfehlen
+
+     aktuelles zur "Open Access" Strategie: SPD-interne Arbeitsgruppe macht ein Fachgespräch, mögl. Beteiligung der Open Science AG
+
+     Doktorarbeit Ulrich Herb bereit als OA-Publikation, [Link fühlt] Rezensionsexemplare möglich
+
+     Arbeitstreffen Forschungsverbund Science 2.0; gemeinsame Onlineaktivitäten möglich wie kuratierte Blogs, Open Science Q&A-Seite
+
+     Abschluss
+     * Wer schreibt eine Blog Post über das Gespräch?
+     * Wer organisiert das nächste Treffen?
+
+     * 5. November, 14 Uhr

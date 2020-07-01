@@ -1,0 +1,71 @@
+   This is a read only archive of pad.okfn.org. See the shutdown announcement for details.
+   Call der Deutschsprachigen Open Science AG 010
+     * Datum: 2016-02-04 von 14:00 bis 15:00
+     * Konferenzsystem/URL/Nummer:
+
+     * +49 (0) 30 3080 6188 (Germany Toll)
+     * Meeting ID: 853 606 3002
+     * Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/8536063002
+     * International numbers available:  https://zoom.us/zoomconference?m=hyvG8NGnTzfhlo-aL2Na09c9oPfNqROK
+     * Client installieren: http://zoom.us/download#client_4meeting
+     * Backup-Kanal bei technischen Problemen ist das Chat in diesem Pad!!!
+
+     Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsprachingen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsamme Projekt zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG - https://lists.okfn.org/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( http://dx.doi.org/10.5281/zenodo.12326 / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+
+     Hintergrund: Forschungsergebnisse sollten für jedermann im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagert sich immer weiter ins Netz - und auch in diesen frühreren Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen - wie z.B. "Facebook für Wissenschaftler"-Dienste - schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um,
+   gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+
+     Wer darf mitmachen? Alle die Interesse an Open Science haben! Du brauchst kein tiefes Hintergrundwissen und kannst gerne Fragen stellen. Gerade Menschen ohne fundierten Hintergrund in Open Science, die sich in die Community einklinken möchten, sind herzlich willkommen.
+   TeilnehmerInnen:
+     * Konrad Förstner (Uni Würzburg)
+     * Markus Neuschäfer (OKF, Berlin)
+     * Guido Scherp (ZBW Kiel)
+
+   Agenda und Protokoll
+   Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deine Namen hinzu so dass wir wissen wer verantworlich ist.
+     * Organisatorisches (Moderator)
+
+     * Dauer des Gespräches
+     * Wer schreibt dar Protokoll hautpsächlich?
+
+     Vorstellungsrunde
+
+     Guido Scherp
+     * Im Leibniz-Forschungsverbund Science 2.0 ( www.leibniz-science20.de )
+     * Jährliche Konferenz und auch Bar Camp zu Science 2.0/Open Science - (02-04. Mai, Köln, www.science20-conference.eu , http://www.science20-conference.eu/barcamp/ )
+     * European Open Science Cloud - Schwerpunkt Forschungsdaten ( http://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud )
+
+     * Auch der Konferenz Schwerpunkt
+     * neues Thema Forschungsdateninfrastruktur
+
+     Open-Science-Aktivitäten von Elsevier, "Science and People" Event in Berlin (14.4.)
+     * Anfrage an Christian Heise und Markus Neuschäfer auf Meeting "Science and People" zu reden (70 - 100 Teilnehmer)
+     * einmal pro Quartal
+     * "Wissenstransfer_in einer informellen, kollaborativen Atmosphäre. In der interessierte Mitmenschen, ForscherInnen aller Disziplinen, Start-Ups, Unternehmen und politische Entscheider aufeinander treffen, um aktuelle Themen und Trends aus Wissenschaft und  Forschung zu diskutieren.
+     * Ideenaustausch_mit dem Ziel, ein offenes Forum ins Leben zu rufen. In dem innovative Ideen konstruktiv ausgetauscht und Zukunftsprojekte, die WissenschaftlerInnen, Öffentlichkeit und interessierte Organisationen involvieren, angestoßen werden."
+
+     Mozilla Open Science Workshop Berlin
+     * http://www.meetup.com/de-DE/Berlin-Open-Science-Meetup/
+
+     Redaktion / neue Artikel betreuen
+     * Kontakt für englischsprachige Artikel: http://science.okfn.org/author/jmolloy/
+
+     Fragen zu Forschungslizenzen
+
+     Anreize für Forschungstransparenz in der Praxis (Felix Schönbrodt; felix@nicebread.de)
+     * Ich kann vermutlich leider nicht am Call teilnehmen (wichtiger Termin parallel); nöglicherweise stoße ich in der 2. Hälfte dazu. Aber ich wollte gerne zwei Hinweise geben:
+     * Das Department Psychologie der LMU hat Forschungstransparenz in den Ausschreibungstext einer (renommierten) Professur aufgenommen: http://www.nicebread.de/open-science-hiring-practices/
+     * Am selben Department werden nun die Mittel (u.a.) anhand von Kritierien der Forschungstransparenz verteilt. D.h., es gibt Bonuspunkte für Open Data, Open Material, und Präregistrierungen, was sich direkt auf die zugeteiten Mittel auswirkt. (Blog-Post in Vorbereitung).
+     * Ich hoffe, dass das als Beispiel und Argument für Open-Science-Bestrebungen an anderen Unis dienen kann
+
+     * Nächster Call Donnerstag 2016-03-03 14:00 - 15:00
+
+     *
+
+     DEIN THEMA (DEIN NAME)
+
+     DEIN THEMA (DEIN NAME)
+
+     Abschluss
+     * Wer schreibt eine Blog Post über das Gespräch?
+     * Wer oganisiert das nächste Treffen?

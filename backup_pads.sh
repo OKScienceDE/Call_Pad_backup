@@ -6,9 +6,7 @@ main(){
     mkdir -p ${BACKUP_FOLDER}
     backup_master_pad
     backup_calls_notes_okfn_de
-
-    # To check:
-    # backup_calls_notes_okfn_org
+    backup_calls_notes_okfn_org
 }
 
 backup_master_pad(){
@@ -35,11 +33,33 @@ backup_calls_notes_okfn_org(){
     for MEETING_NUMBER in $(seq 02 22)
     do
 	NUMBER_STRING=$(printf "%03d" "${MEETING_NUMBER}")
-	curl https://pad.okfn.org/p/Open_Science_AG_Public_Call_"${NUMBER_STRING}"/export/txt \
+	lynx -dump -nolist -width=1024 https://pad.okfn.org/p/Open_Science_AG_Public_Call_"${NUMBER_STRING}" \
 	     > ${BACKUP_FOLDER}/Open_Science_AG_Public_Call_"${NUMBER_STRING}".txt
-	curl https://pad.okfn.org/p/Open_Science_AG_Public_Call_"${NUMBER_STRING}"/export/html \
+	curl https://pad.okfn.org/p/Open_Science_AG_Public_Call_"${NUMBER_STRING}" \
 	     > ${BACKUP_FOLDER}/Open_Science_AG_Public_Call_"${NUMBER_STRING}".html	
     done
 }
 
 main
+
+## Alternative routine with automatic parsing of pad URLs from masterpad
+#
+# curl https://pad.okfn.de/p/openscience-ag-master-pad/export/txt | \
+# grep -P ".*(https?:\/\/(pad.okfn.de|pad.okfn.org|etherpad.wikimedia.org)\/p\/[-_[:alnum:]]+).*" | \
+# sed -E "s/.*(https?:\/\/(pad.okfn.de|pad.okfn.org|etherpad.wikimedia.org)\/p\/[-_[:alnum:]]+).*/\1/" | \
+# while read URL;
+# do
+#     OUTFILE=`echo "$URL" | sed "s/.*\///"`
+#     HOST=`echo "$URL" | sed -E "s/https?:\/\/(pad|etherpad).(okfn.de|okfn.org|wikimedia.org).*/\2/"`
+#     case $HOST in
+#         okfn.de|wikimedia.org)
+#             curl --output ${BACKUP_FOLDER}/${OUTFILE}.txt "${URL}/export/txt"
+#             curl --output ${BACKUP_FOLDER}/${OUTFILE}.html "${URL}/export/html"
+#             ;;
+#         okfn.org)
+#             lynx -dump -nolist -width=1024 ${URL} > ${BACKUP_FOLDER}/${OUTFILE}.txt
+#             curl --output ${BACKUP_FOLDER}/${OUTFILE}.html "${URL}"
+#             ;;
+#     esac
+# done;
+

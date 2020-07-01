@@ -1,9 +1,10 @@
 Sammlung aller Pads und Aufzeichungen der deutschsprachigen OKF Open Science AG:
 
 Kommende Veranstaltungen
-	* Call Mai 2020-06-03 https://pad.okfn.de/p/Open_Science_AG_Public_Call_060
+	* Call Juli 2020-07-01  https://pad.okfn.de/p/Open_Science_AG_Public_Call_061
 
 Bisherige Veranstaltungen:
+	* Call Juni 2020-06-03 https://pad.okfn.de/p/Open_Science_AG_Public_Call_060
 	* Call Mai 2020-05-06 https://pad.okfn.de/p/Open_Science_AG_Public_Call_059
 	* Call April 2020-04-01 https://pad.okfn.de/p/Open_Science_AG_Public_Call_058
 	* Call März 2020-03-04 11:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_057
