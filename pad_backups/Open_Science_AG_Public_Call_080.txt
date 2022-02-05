@@ -1,0 +1,59 @@
+AG  Open Science / de-RSE / GRN - Call 80 2020-02-02 11:00
+
+Zugangsdaten:
+	* https://meet.gwdg.de/b/ste-hku-nvu
+
+
+Teilnehmende:
+	* Konrad Förstner (ZB MED / TH Köln, @konradfoerstner)
+	* Christian Busse (DKFZ)
+	* Heidi Seibold (>reboot academia Podcast, @HeidiBaya)
+	* Guido Scherp (ZBW)
+	* Philipp Schäfer (FSU Jena)
+	* Florian Goth(Uni Würzburg)
+	* Daniel Mietchen (komme gleich)
+	* Julia Intemann (SGN, verspätet)
+	* Tamara Heck (DIPF, verspätet)
+
+Themen 
+	* Veranstaltung (Guido)
+		* Open Science Conference
+			* Registrierung offen
+			* Kooperation mit Deutschen UNESCO Kommission (DUK)
+				* Umsetzung der Empfehlungen u.a. auch im Globalen Süden
+		* Open Science BarCamp
+			* Anmeldung geht nächste Woche Online
+	* Braucht jemand Kurse zu Reproducible Data Science? (Heidi)
+		* Würde Kurse dazu anbieten (Selbständig)
+		* Basierend  auf The Turing Way - https://the-turing-way.netlify.app/welcome.html
+		* https://heidiseibold.gitlab.io/
+	* Was ist mit den Pads passiert? (Daniel)
+		* es gibt jetzt auch ein Tool zur Pad-Archivierung: https://codeberg.org/cknoll/webtogit
+		* https://github.com/OKScienceDE/Call_Pad_backup
+	* Wissenschaftsrat - Empfehlung (Konrad)
+		* https://www.wissenschaftsrat.de/download/2022/9477-22.html
+		* https://www.wissenschaftsrat.de/SharedDocs/Pressemitteilungen/DE/PM_2022/PM_0222.html
+	* Weizenbaum-Institut Konferenz (Konrad)
+		* https://www.weizenbaum-conference.de/
+	* PHD School “Open science”: ambivalences and tensions - New borderlands between science, technology and society": https://www.itas.kit.edu/english/events_2022_summerschool.php
+	* EU-Call for interest - Towards an agreement on reforming research assessment: https://ec.europa.eu/eusurvey/runner/6d55d745-201f-a85d-a3c2-e15f05b7b20a
+	* Call for Contributors / ReplikationStudie: https://www.cos.io/score
+		* Teil davon: https://osf.io/7snkz/
+	* UNESCO Empfehlungen zu Open Science (Christian):
+		* https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=en
+	* Data Governance Act (Christian):
+		* https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52020PC0767
+		* Weiterer Hintergrund in folgendem Pad:
+			* https://pad.gwdg.de/ANASTlXVSzCbeHA7qshMQA#
+	* NFDI Basisdienste (Christian):
+		* https://www.dfg.de/foerderung/info_wissenschaft/2022/info_wissenschaft_22_08/index.html
+		* https://www.nfdi.de/nfdi-konsortien-veroeffentlichen-gemeinsame-stellungnahme-zu-basisdiensten/
+	* Gesellschaft für Informatik kennt jetzt OSS: https://ak-oss.gi.de/
+	* Bin im Programmbeirat der INFORMATIK 2022 und habe vorgeschlagen de-RSE-Leute einzuladen (nur FYI) https://informatik2022.gi.de/ (Heidi)
+
+
+
+Nächster Call: 2022-03-02 16:00
+
+
+

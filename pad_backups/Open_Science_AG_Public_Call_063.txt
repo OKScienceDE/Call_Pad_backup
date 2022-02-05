@@ -1,0 +1,90 @@
+Call der Deutschsprachigen Open Science AG und de-RSE 63
+
+	* Datum: 2020-09-02 von 11:00 bis 12:00
+	* Konferenzsystem/URL/Nummer:
+	    1. Mit Deinem Browser unter Windows, MacOS, GNU/Linux: https://conf.dfn.de/webapp/conference/97985301
+	    2. Mit einem SIP/H.323-Raumsystem oder SIP/H.323-Client:
+		    - H.323: 004910097985301
+		   - SIP:   97985301@conf.dfn.de
+	   3. Mit einem Telefon (nur Audio): 0049 30 200 97985301
+	   4. Über Skype for Business: 97985301@vc.dfn.de
+	   5. Mobil mit Smartphone: Voraussetzung ist die vorinstallierte Pexip App unter
+		   - Android: https://play.google.com/store/apps/details?id=com.pexip.infinityconnect
+		   - iOS:     https://itunes.apple.com/us/app/pexip-infinity-connect/id1195088102 
+		   Gibt dort ein: 97985301@conf.dfn.de
+		* Backup-Kanal bei technischen Problemen ist das Chat in diesem Pad!!!
+	* Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsprachigen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsame Projekt zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG -https://mlists.okfn.de/cgi-bin/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( http://dx.doi.org/10.5281/zenodo.12326 / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+	* Hintergrund: Forschungsergebnisse sollten für alle im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagert sich immer weiter ins Netz - und auch in diesen frühen Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um, gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+	* Wer darf mitmachen? Alle, die Interesse an Open Science haben! Du brauchst kein tiefes Hintergrundwissen und kannst gerne Fragen stellen. Gerade Menschen ohne fundierten Hintergrund in Open Science, die sich in die Community einklinken möchten, sind herzlich willkommen.
+	* Zurück zum Masterpad: https://pad.okfn.de/p/openscience-ag-master-pad
+
+
+
+TeilnehmerInnen:
+	* Konrad Förstner (ZB MED/TH Köln)
+	* Guido Scherp (ZBW Kiel, LFV Open Science)
+	* Florian Goth (theoretische Physik 1, Uni Würzburg)
+	* Stephan Janosch (MPI-CBG)
+	* Frank Löffler (FSU Jena)
+	* Heidi Seibold (Helmholtz Zentrum München)
+	* Christian Busse (DKFZ Heidelberg)
+	* Bernadette Fritzsch (AWI)
+	* Jael (zBMed)
+
+Agenda und Protokoll
+
+
+Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deine Namen hinzu, so dass wir wissen wer verantwortlich ist.
+
+	* Organisatorisches (Moderator)
+		* Dauer des Gespräches
+		* Bitte Protokoll mitschreiben - einfach die Agenda ergänzen
+	* Vorstellungsrunde
+	* Themenblock AG Open Science
+		* Open Science Conference / Barcamp Open Science (Guido)
+			* Findet online statt / in Kürze wird auch die Webseite aktualisiert
+			* OSC auf drei Tage ausgeweitet, 17-19. Februar
+			* Call for Poster / Speaker gehen in Kürze raus
+			* Satellite Barcamp events
+				* First event: Barcamp Open Science @ GeNeMe 2020 (Online Barcamp): 07. Oktober, https://www.open-science-conference.eu/barcamp/oscigeneme/
+					* Gesellschaft für neue Medien
+			* online conferencing / socializing
+				* Yotribe – Online Gatherings (https://www.yotribe.com/?r=BnQz5)
+				* onlinetown https://theonline.town/
+				* https://remo.co/ 🙏
+		* Froscon (Stephan Janosch)
+			* took anybody part?
+		* EOSC Symposium (Christian)
+			* Now also online: Mon,2020-10-19 - Thu, 2020-10-22
+			* https://www.eoscsecretariat.eu/events/eosc-symposium-2020
+			* The main objectives of this year Symposium are:
+				* to show the value of EOSC to research performing organisations and research funders;
+				* to onboard new members into the EOSC Association;
+				* to engage the EOSC providers explaining how and why federate the services with the objectives.
+		* DEIN THEMA (DEIN NAME)
+	* Themenblock de-RSE
+		* de-RSE  general assembly (Stephan Janosch)
+			* 24 people
+			* open discussion (https://pad.gwdg.de/Yh-BVWzoSkSCnt36Xf1wIw?view)
+		* SORSE (Stephan Janosch)
+			* https://sorse.github.io
+			* today 3pm CEST: https://sorse.github.io/programme/kickoff/
+			* https://sorse.github.io/programme/
+		*  Tools (Florian)
+			* nbdev: https://nbdev.fast.ai/
+				* Jupyter notebook -> Website & python library
+			* Sympy? Any experiences? https://www.sympy.org/en/index.html
+				* symbolic computation with algebraic expression with python
+				* Frank mentioned Maxima
+			* Make for beginners -> GUI? (Heidi)
+				* https://unix.stackexchange.com/questions/283478/how-to-display-dependencies-given-in-a-makefile-as-a-tree
+				* snakemake: https://snakemake.readthedocs.io/en/stable/ , https://snakemake.github.io/
+				* http://swcarpentry.github.io/make-novice/
+		* Sysadmin Day (Stephan J.)
+			* https://sysadminday.com
+			* every last Friday in July
+	* open date poll to find a better time point 
+	* nächster Termin: Mi., 2020-10-07 11:00
+	* Abschluss
+		* Wer schreibt eine Blog Post über das Gespräch?
+		* Wer organisiert das nächste Treffen?

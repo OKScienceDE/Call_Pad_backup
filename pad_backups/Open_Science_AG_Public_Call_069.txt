@@ -1,0 +1,92 @@
+Call der Deutschsprachigen Open Science AG und de-RSE 69
+
+	* Datum: 2021-03-03 von 11:00 bis 12:00
+	* Konferenzsystem/URL/Nummer:
+	    1. Mit Deinem Browser unter Windows, MacOS, GNU/Linux: https://conf.dfn.de/webapp/conference/97985301
+	    2. Mit einem SIP/H.323-Raumsystem oder SIP/H.323-Client:
+		    - H.323: 004910097985301
+		   - SIP:   97985301@conf.dfn.de
+	   3. Mit einem Telefon (nur Audio): 0049 30 200 97985301
+	   4. Über Skype for Business: 97985301@vc.dfn.de
+	   5. Mobil mit Smartphone: Voraussetzung ist die vorinstallierte Pexip App unter
+		   - Android: https://play.google.com/store/apps/details?id=com.pexip.infinityconnect
+		   - iOS:     https://itunes.apple.com/us/app/pexip-infinity-connect/id1195088102 
+		   Gibt dort ein: 97985301@conf.dfn.de
+		* Backup-Kanal bei technischen Problemen ist das Chat in diesem Pad!!!
+	* Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsprachigen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsame Projekt zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG -https://mlists.okfn.de/cgi-bin/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( http://dx.doi.org/10.5281/zenodo.12326 / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+	* Hintergrund: Forschungsergebnisse sollten für alle im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagert sich immer weiter ins Netz - und auch in diesen frühen Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um, gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+	* Wer darf mitmachen? Alle, die Interesse an Open Science haben! Du brauchst kein tiefes Hintergrundwissen und kannst gerne Fragen stellen. Gerade Menschen ohne fundierten Hintergrund in Open Science, die sich in die Community einklinken möchten, sind herzlich willkommen.
+	* Zurück zum Masterpad: https://pad.okfn.de/p/openscience-ag-master-pad
+
+TeilnehmerInnen:
+	1. Konrad Förstner, ZB MED
+	2. Florian Goth, Uni Würzburg
+	3. Stephan Janosch, MPI-CBG
+	4. Linda Martin, UB Bielefeld
+	5. Markus Hirsch, Uni Stuttgart
+	6. Christian Busse, DKFZ Heidelberg
+	7. Florian Hoedt (Thünen Institut; florian.hoedt@thuenen.de)
+	8. Christian Kniep (AWS)
+	9. Frank Löffler (Uni Jena, ab etwa 11:30 Uhr)
+
+Agenda und Protokoll
+
+Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deine Namen hinzu, so dass wir wissen wer verantwortlich ist.
+
+	* Organisatorisches (Moderator)
+		* Dauer des Gespräches
+		* Bitte Protokoll mitschreiben - einfach die Agenda ergänzen
+	* Vorstellungsrunde
+	* Themenblock AG Open Science
+		* Rückblick RDA-Deutschland Tagung 2021 (SJ, CB)
+			* keine Aufzeichnungen von der Konferenz
+			* Programm: https://indico.desy.de/event/28294/overview
+			* http://rd-alliance.org/
+			* https://rd-alliance.org/recommendations-and-outputs/catalogue
+			* ARK: https://n2t.net/e/ark_ids.html
+		* Horizon Europe und Open Science: C. Casorran (DG RTD) (Christian)
+			* EC does **not** want to have DMPs to be tick lists, but guide the development of research projects. DMP is considered to be a living document, but will also be a fixed deliverable by M06.
+			* Model grant agreement will be published end 03/21
+			* EC is training its project officers in OS practices and applicants should expect more stringent question when argueing for non-sharing
+			* The exception to sharing will stay the same (privacy, security, IP protection)
+			* The will not be an Accept List for trusted repos but repos need to comply to a set of criteria
+			* First calls in June, some Emergency COVID-19 call that will be launched earlier
+		* DFG-Codex zur GWP muss bis Sommer 2022 implementiert werden (SJ)
+		* Datenstrategie der Bundesregierung (https://indico.desy.de/event/28294/contributions/97771/)
+			* Tool zur Anonymisierung soll entwickelt werden
+			* Service-Stelle in den Ministerien
+			* freiwillig geteilte Forschungsdaten müssen veröffentlich werden  
+		* OpenData Gesetz (https://indico.desy.de/event/28294/contributions/97771/) (Florian Hoedt)
+			* Vortrag von E. Fuchs
+			* Toolset für Veröffentlichung Forschungsdaten
+	* Themenblock de-RSE
+		* Servicestelle Forschungsdatenmanagement am Thünen Institut (Florian Hoedt)
+			* Bundesforschungsinstitut (www.thuenen.de )
+			* Gutes Beispiel: FDM Gruppe Uni Jena
+				* Skills: Kommunikatoren, Technische Kompetenzen, Lehrmaterialien
+			* Alte Stellenanzeige von uns für einen Forschungsdatenmanager: https://git.physik.uni-wuerzburg.de/Z03/ctqmat-dm/
+			* Viel Nachfrage auf: https://www.listserv.dfn.de/sympa/info/forschungsdaten
+			* https://dini.de/ag/dininestor-ag-forschungsdaten/
+				* FDMentor, & DINI/nestor-AG Forschungsdaten. (2018). Materialkatalog zum Forschungsdatenmanagement (Version 1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1209284
+				* Uni Bielefeld: Data champions (incentive): https://www.uni-bielefeld.de/ub/digital/forschungsdaten/data-champions/
+				* FDMentor: Train-the-Trainer-Konzept: https://zenodo.org/record/4322849
+			* Positionspapier Infrastrukturdienste: https://zenodo.org/record/4301924 (Name?)
+			* Empfehlung Forschungsdatenmanagement: https://gfzpublic.gfz-potsdam.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3055893
+		* Verein zu Förderung kleiner Software-Projekte? (Florian Goth)
+			* Proxy zum Einsammeln und Weiterleiten von Geldern?
+			* Beispiel: 4000 USD Spende: wie weiterleiten/ausgeben?
+			* https://fsfw-dresden.de/ (hatte auch mal so eine Projektidee bei 35C3 vorgestellt).
+			* siehe auch https://techcultivation.org/
+		* High Performance Container Workshop (scientific computing, engineering) alongside ISC21; July 2nd (Christian Kniep)
+			* letzes Jahr: https://hpcw.github.io/, dieses Jahr mehr use-case getrieben und nicht nur technische Diskussion
+			* suchen nach use-cases die wir in einer Paneldiskussion 'besprechen', bring-us-your-problem... :)
+			* Bitte Mail an Mailingliste schicken
+		* SORSE-Ende absehbar, Recordings (SJ)
+			* https://www.youtube.com/channel/UCJ1CwxvODyT-eb4K7HfelGA
+		* https://e-science-tage.de/de/cfc_2021
+			* https://e-science-tage.de/de/programm_2021
+		* DEIN THEMA (DEIN NAME)
+	* nächster Termin: 2021-04-07 11:00
+	* Abschluss
+		* Wer schreibt eine Blog Post über das Gespräch?
+		* Wer organisiert das nächste Treffen?

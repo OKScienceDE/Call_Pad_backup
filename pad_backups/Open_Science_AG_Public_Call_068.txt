@@ -1,0 +1,109 @@
+Call der Deutschsprachigen Open Science AG und de-RSE 68
+
+	* Datum: 2021-02-03 von 11:00 bis 12:00
+	* Konferenzsystem/URL/Nummer:
+	    1. Mit Deinem Browser unter Windows, MacOS, GNU/Linux: https://conf.dfn.de/webapp/conference/97985301
+	    2. Mit einem SIP/H.323-Raumsystem oder SIP/H.323-Client:
+		    - H.323: 004910097985301
+		   - SIP:   97985301@conf.dfn.de
+	   3. Mit einem Telefon (nur Audio): 0049 30 200 97985301
+	   4. Über Skype for Business: 97985301@vc.dfn.de
+	   5. Mobil mit Smartphone: Voraussetzung ist die vorinstallierte Pexip App unter
+		   - Android: https://play.google.com/store/apps/details?id=com.pexip.infinityconnect
+		   - iOS:     https://itunes.apple.com/us/app/pexip-infinity-connect/id1195088102 
+		   Gibt dort ein: 97985301@conf.dfn.de
+		* Backup-Kanal bei technischen Problemen ist das Chat in diesem Pad!!!
+	* Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsprachigen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsame Projekt zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG -https://mlists.okfn.de/cgi-bin/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( http://dx.doi.org/10.5281/zenodo.12326 / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+	* Hintergrund: Forschungsergebnisse sollten für alle im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagert sich immer weiter ins Netz - und auch in diesen frühen Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um, gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+	* Wer darf mitmachen? Alle, die Interesse an Open Science haben! Du brauchst kein tiefes Hintergrundwissen und kannst gerne Fragen stellen. Gerade Menschen ohne fundierten Hintergrund in Open Science, die sich in die Community einklinken möchten, sind herzlich willkommen.
+	* Zurück zum Masterpad: https://pad.okfn.de/p/openscience-ag-master-pad
+
+
+
+TeilnehmerInnen:
+	1. Konrad Förstner (ZB MED)
+	2. Guido Scherp (ZBW / LFV OS, kann nur bis ca. 11:30)
+	3. Stephan Janosch (MPI-CBG)
+	4. Christian Busse (DKFZ)
+	5. Steffen Brinckmann (FZ-Jülich, IEK-2)
+	6. Christian Kniep (DevAdvocate HPC @AWS)
+	7. Jochen Schirrwagen (Uni Bielefeld, UB)
+8. Florian Mannseicher (DFG)
+9. Dominic Kempf (Scientific Software Center, Uni Heidelberg)
+10. Frank Löffler (Uni Jena)
+
+Agenda und Protokoll
+
+Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deine Namen hinzu, so dass wir wissen wer verantwortlich ist.
+
+	* Organisatorisches (Moderator)
+		* Dauer des Gespräches
+		* Bitte Protokoll mitschreiben - einfach die Agenda ergänzen
+	* Vorstellungsrunde
+	* Themenblock AG Open Science
+		* Gründung Germany Reproduciblity Network (GRN)  (Guido)
+			* https://reproducibilitynetwork.de/
+			* https://reproducibilitynetwork.de/news/2021/launch/
+			* https://twitter.com/GermanRepro/status/1356185051466260481 
+			* Offen für weitere Mitglieder:) -> https://reproducibilitynetwork.de/join/
+			* Ähnlich wie andere nationale Initativen wie UKRN (https://www.ukrn.org/)
+			* Ziele
+				*  Vernetzung
+				* aber auch konkrete Unterstützung
+			* Offen für weitere Mitglieder (Institutionen, Verbünde, weniger Einzelpersonen)
+			* Knowledge Exchange
+				* https://www.knowledge-exchange.info/news/articles/29-01-2021
+		* Referentenentwurf Datennutzungsgesetz (DNG) (Christian)
+			* Entwurf (EGov+DNG): https://www.bmwi.de/Redaktion/DE/Downloads/Gesetz/referentenentwurf-zweites-open-data-gesetz-und-datennutzungsgesetz.pdf
+			* Umsetzung EU Richtlinie 2019/1024 (siehe Call 01/2021)
+			* Keine Pflicht zur Bereitstellung, aber gilt für Daten unter IFG
+			* Gilt auch für medizinische Einrichtungen und Forschung (Person, Einrichtungen und Funder) + bereits veröffentlicht
+			* Forschungsdaten: Alles was relevant ist, aber keine Publikation ist, müssen bereits veröffentlicht sein.
+			* Die üblichen Einschränkungen: Privacy, IP, Sicherheit
+			* Grundsätzlich:
+				* Nutzung nicht eingeschränkt, Lizensierungs muss FRAND erfolgende, keine Exklusivvereinbarungen
+				* Unentgeltlich
+			* Kommentierungen: https://www.bmwi.de/Navigation/DE/Service/Stellungnahmen/ODPG/stellungnahmen-odpg.html
+				* OKFN: Absolutes Minimum
+				* MPG: Ist uns egal, sind ein e.V. ;-)
+					* https://www.bmwi.de/Redaktion/DE/Downloads/Stellungnahmen/Stellungnahmen-ODG/mpg.pdf?__blob=publicationFile&v=6
+				* Relx: Besten Dank, dass ihr Veröffentlichungen ausgenommen habt
+		* NFDI Updates (Konrad)
+			* Reviewer panel Protokolle gingen nun an die Konsortien der 2. Runde und können bis 28. Februar von den Konsortien kommentiert werden
+			* Morgen Treffen der biomedizinischen Konsortien
+			* NFDI4Culture biete einen Workshop zu Knowledge Graphs an
+				* https://cloud.nfdi4culture.de/apps/forms/tp6LgtNz2KXcNJNG
+		* e-science-tage 2021 (Stephan J.)
+			* https://e-science-tage.de
+			* kostenlos, Programm: https://e-science-tage.de/de/programm_2021 (z.Zt. kaputt)
+			* 4. - 5. März
+		* OpenAIRE-Nexus (Jochen)
+			* https://www.openaire.eu/openaire-nexus-project
+			* Schwerpunkt: Services für wissenschaftliche Kommunikation
+				* "onboarding" von Repositorien in die EOSC
+				* community-dashboards für verschiedene Disziplinen
+				* Integration mit weiteren Services wie episciences.org, opencitations, Amnesia (Anonymisierung von Forschungsdaten), DMP-Service
+			* im Kontext des H2020-Calls INFRAEOSC-07 geförderte Projekte: https://cordis.europa.eu/search/de?q=contenttype%3D%27project%27%20AND%20%2Fproject%2Frelations%2Fassociations%2FrelatedSubCall%2Fcall%2Fidentifier%3D%27H2020-INFRAEOSC-2020-2%27&p=1&num=10&srt=Relevance:decreasing
+				* Entwicklung eines Open Science interoperability framework for the EOSC
+			* Eigener Discovery Service
+			* https://explore.openaire.eu
+			* Interesse am Austausch mit NFDI-Konsortien
+		* DEIN THEMA (DEIN NAME)
+			* 
+	* Themenblock RSE
+		* RSE auf RDA-de (Stephan Janosch)
+			* https://indico.desy.de/event/28294/overview
+		* Evaluation von RSEs  (Stephan Janosch)
+			* Affiliations
+			* Acknoweldgements
+		* Introducing the International Council of RSE Associations (SJ)
+			* https://researchsoftware.org/2021/01/27/introducing-the-international-council-of-RSE-associations.html
+		* Reverse Engineering von RS um FAIRE Daten zu erlangen (SJ - Steffen Brinckmann vielleicht)
+			* DFG Grossgeraeteinitiative: https://www.dfg.de/formulare/21_7/21_7_de.pdf
+			* Frage für Zukunft: soll sich eine Subgruppe mit dem Thema beschäftigen (Steffen)
+	* nächster Termin: 2021-03-03
+	* Abschluss
+		* Wer schreibt eine Blog Post über das Gespräch?
+		* Wer organisiert das nächste Treffen?
+		* 
+		* 

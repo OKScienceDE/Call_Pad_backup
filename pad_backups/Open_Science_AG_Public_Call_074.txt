@@ -1,0 +1,63 @@
+Call der Deutschsprachigen Open Science AG, de-RSE und des GRN Nr. 74
+
+	* Datum: 2021-08-04 von 11:00 bis 12:00
+	* Konferenzsystem/URL/Nummer:
+	    1. Mit Deinem Browser unter Windows, MacOS, GNU/Linux: https://conf.dfn.de/webapp/conference/97985301
+	    2. Mit einem SIP/H.323-Raumsystem oder SIP/H.323-Client:
+		    - H.323: 004910097985301
+		    - SIP:   97985301@conf.dfn.de
+	   3. Mit einem Telefon (nur Audio): 0049 30 200 97985301
+	   4. Über Skype for Business: 97985301@vc.dfn.de
+	   5. Mobil mit Smartphone: Voraussetzung ist die vorinstallierte Pexip App unter
+		   - Android: https://play.google.com/store/apps/details?id=com.pexip.infinityconnect
+		   - iOS:     https://itunes.apple.com/us/app/pexip-infinity-connect/id1195088102 
+		   Gib dort ein: 97985301@conf.dfn.de
+		* Backup-Kanal bei technischen Problemen ist das Chat in diesem Pad!!!
+	* Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsprachigen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsame Projekt zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG - https://mlists.okfn.de/cgi-bin/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( http://dx.doi.org/10.5281/zenodo.12326 / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+	* Hintergrund: Forschungsergebnisse sollten für alle im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagern sich immer weiter ins Netz - und auch in diesen frühen Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um, gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+	* Wer darf mitmachen? Alle, die Interesse an Open Science haben! Du brauchst kein tiefes Hintergrundwissen und kannst gerne Fragen stellen. Gerade Menschen ohne fundierten Hintergrund in Open Science, die sich in die Community einklinken möchten, sind herzlich willkommen.
+	* Zurück zum Masterpad: https://pad.okfn.de/p/openscience-ag-master-pad
+
+
+
+TeilnehmerInnen:
+	1. Christian Busse (DKFZ)
+	2. Florian Goth (Uni Wue)
+	3. Christian Kniep (AWS)
+	4. Daniel Mietchen (Fraunhofer-IBMT)
+	5.  L. Jael Garcia Castro (ZB MED)
+
+Agenda und Protokoll
+
+Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deine Namen hinzu, so dass wir wissen wer verantwortlich ist.
+
+	* Organisatorisches (Moderator)
+		* Dauer des Gespräches
+		* Bitte Protokoll mitschreiben - einfach die Agenda ergänzen
+	* Vorstellungsrunde
+	* Themenblock AG Open Science
+		* EU Data Governance Act (Christian)
+			* Die Erweiterung der Open Data Richtlinie (2019/1024) für geschützte Daten (Urheberrecht Dritter, DSGVO, Geschäftsgeheimnisse, Statistische Daten) von öffentlichen Stellen
+			* Keine separaten Klauseln für Forschungsdaten oder Forschungseinrichtungen
+			* Geplant als Verordnung -> keine Umsetzung in nationale Gesetze notwendig
+			* Kommisionsentwurf COM(2020) 767 final: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52020PC0767
+			* Legislativer Prozess 2020/0340(COD): https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?reference=2020/0340(COD)
+		* European University Association (EUA) Open Science Survey 2020-21: https://eua.eu/component/attachments/attachments.html?id=3262 (Christian)
+	* Themenblock de-RSE
+		* Reproducibility of Software Stack installation and performance benchmarking (Christian Kniep).
+			* We did a workshop with the ARM HPC Usergroup
+				* self-paced workshop:https://cloud-hpc-hackathon.workshop.aws/ 
+				* blog post: https://aws.amazon.com/blogs/hpc/aws-arm-hpc-hackathon-2021/ 
+				* twitter thread with some results: https://twitter.com/boofla/status/1417843191466823687).
+			* My topic for this call is how do you deal with software stacks (using EasyBuild, Spack, OpenHPC, (Bio)conda or distribution packages) and how to select the most performant version (e.g. using ReFrame (https://reframe-hpc.readthedocs.io/en/stable/index.html) to benchmark different variants).
+		* How to bring reproducibility workflows to the publishing ecosystem? (Daniel)
+			* Some attempts in this regard at eLife: https://elifesciences.org/collections/d72819a9/executable-research-articles .
+			* Frameworks to foster reproducibility and collaborate on Data Science from Netflix: https://metaflow.org/
+			* framework: https://www.aiida.net/
+			* EESSI: https://www.eessi-hpc.org/
+			* What assumptions are such software stacks making on the operating system? E.g. see Gentoo Linux in neuroscience: https://doi.org/10.3897/rio.3.e12095
+		* Container in HPC: https://containers-on-pcluster.workshop.aws/
+	* nächster Termin: 2021-09-01 11:00
+	* Abschluss
+		* Wer schreibt einen Blog-Eintrag über das Gespräch?
+		* Wer organisiert das nächste Treffen?

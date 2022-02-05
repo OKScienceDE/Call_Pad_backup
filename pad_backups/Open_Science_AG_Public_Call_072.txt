@@ -1,0 +1,94 @@
+Call der Deutschsprachigen Open Science AG, de-RSE und des GRN Nr. 72
+
+	* Datum: 2021-06-02 von 11:00 bis 12:00
+	* Konferenzsystem/URL/Nummer:
+	    1. Mit Deinem Browser unter Windows, MacOS, GNU/Linux: https://conf.dfn.de/webapp/conference/97985301
+	    2. Mit einem SIP/H.323-Raumsystem oder SIP/H.323-Client:
+		    - H.323: 004910097985301
+		   - SIP:   97985301@conf.dfn.de
+	   3. Mit einem Telefon (nur Audio): 0049 30 200 97985301
+	   4. Über Skype for Business: 97985301@vc.dfn.de
+	   5. Mobil mit Smartphone: Voraussetzung ist die vorinstallierte Pexip App unter
+		   - Android: https://play.google.com/store/apps/details?id=com.pexip.infinityconnect
+		   - iOS:     https://itunes.apple.com/us/app/pexip-infinity-connect/id1195088102 
+		   Gibt dort ein: 97985301@conf.dfn.de
+		* Backup-Kanal bei technischen Problemen ist das Chat in diesem Pad!!!
+	* Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsprachigen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsame Projekt zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG -https://mlists.okfn.de/cgi-bin/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( http://dx.doi.org/10.5281/zenodo.12326 / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+	* Hintergrund: Forschungsergebnisse sollten für alle im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagert sich immer weiter ins Netz - und auch in diesen frühen Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um, gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+	* Wer darf mitmachen? Alle, die Interesse an Open Science haben! Du brauchst kein tiefes Hintergrundwissen und kannst gerne Fragen stellen. Gerade Menschen ohne fundierten Hintergrund in Open Science, die sich in die Community einklinken möchten, sind herzlich willkommen.
+	* Zurück zum Masterpad: https://pad.okfn.de/p/openscience-ag-master-pad
+
+
+
+TeilnehmerInnen:
+	1. Konrad Förstner, ZB MED / TH Köln, er/ihn
+	2. Guido Scherp, ZBW / LFV OS, er/ihn
+	3. Hans Fangohr, Max Planck Struktur und Dynamik der Materie (Hamburg), University of Southampton (UK), er/ihn
+	4. Daniel Mietchen, Fraunhofer-IBMT/ University of Virginia - FAIR data, open science and Wikimedia
+	5. Florian Goth (Uni Würzburg)
+	6. Inga Ulusoy (SSC, Uni Heidelberg)
+	7. Benjamin Fuchs (DLR, Stuttgart)
+	8. Christian Busse (DKFZ Heidelberg)
+	9. Bradley Scrim (Unimedizin Greifswald)
+	10. Steffen Brinckmann (FZ-Juelich, IEK-2)
+	11. 11. Claudia Frick (TH Köln)
+	12. Nils Holzrichter (CAU Kiel)
+
+Agenda und Protokoll
+
+Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deine Namen hinzu, so dass wir wissen wer verantwortlich ist.
+
+	* Organisatorisches (Moderator)
+		* Dauer des Gespräches
+		* Bitte Protokoll mitschreiben - einfach die Agenda ergänzen
+		* Anyone here who would prefer the meeting to be held in English?
+			* No
+	* Willkommen German Reproducibility Network (GRN) (Guido / Konrad)
+		* https://reproducibilitynetwork.de/
+	* Vorstellungsrunde
+	* Themenblock Open Science und GRN
+		* Events:
+			* BarCamp Open Science Cologne, 25/.26 June: https://www.barcamp-open-science.eu/oscibargoescologne (Konrad)
+			* Barcamp Open Data (21. September, Save the date, DIPF@Frankfurt)
+				* Link kommt noch
+				* Nachnutzung von Forschungsdaten 
+			* Studienvorstellung „Openness in internationaler Wissenschafts- und Innovationspolitik: https://innosci.hivebrite.com/events/58184
+				* Gibt's die Studie schon irgendwo zu lesen? -> Nein, wird mit der Veranstaltung veröffentlicht. 
+			* FAIR Festival 2021: https://www.go-fair.org/events/fair-festival-2021/ (21-23 June)
+		* NFDI (Christian)
+			* Empfehlungen der Expert*innengruppe sind am 2021-05-10 rausgegangen. 10 der 18 Anträge wurden zur Förderung empfohlen:
+				* Empfehlung: BERD, DAPHNE, DataScience, Earth, FAIRMat, MaRDI, MatWerk , Microbiota, PUNCH, Text+
+				* Keine Empfehlung: Agri, ColDiRPS, NFDIxCS, Immuno, Memory, Neuro, Objects, SmallDisciplines (SD)
+			*  Ausschreibung für die dritte Runde wurde Mitte Mai veröffentlich:
+				* https://www.dfg.de/foerderung/info_wissenschaft/2021/info_wissenschaft_21_37/index.html
+				* Neu ist diesmal, das Basisdienste diesmal gefördert werden können.Wichtig: Basisdienste sind keine Querschnittsthemen sondern sollen selbige technisch/infrastrukturell lösen (z.B. AAI).
+				* Dies soll aber immer noch von den Fachkonsortien ausgehen, allerdings können sich diese entsprechende Akteure mit an Bord holen.
+				* Ausschließliche Querschnittsinitiativen sind nicht erwähnt.
+			* Survey zu BioImaging Daten
+				* https://nfdi4bioimage.de/en/survey/
+		* Proprietäre Binäre Daten: Suche nach Mitstreitern (Steffen)
+			* Ziele: Community Engagement, Vendor Interaction, Reverse Engineering
+			* Arbeitsrichtungen: Converting-Framework (mit NFDI4Chem); FAIR-Instrument-Labeling (HZ-Berlin)
+			* RDA hat ne Arbeitsgruppe zu Persistent Identification of Instruments, die trifft sich heute um 16 Uhr wieder:
+				* Connection: https://tib-eu.webex.com/meet/markus.stocker
+				* Notes: https://docs.google.com/document/d/1F2DQ5JMs7dwydtZXCVsmMLhww0HKy6OzDoxAAxvkz_A/edit#heading=h.17nl5ubkw83a
+			* Mitstreitende gesucht - Email an Steffen: s.brinckmann@fz-juelich.de
+		* Interessante Anfrage bei FragDenStaat zum Datennutzungsgesetz (Christian)
+			* https://fragdenstaat.de/anfrage/ressortabstimmung-datennutzungsgesetz/
+		* Datentracking in der Wissenschaft, siehe z.B: https://www.dfg.de/download/pdf/foerderung/programme/lis/datentracking_papier_de.pdf (Guido)
+			* Kennt jemand Initiativen, die dort "aktiv" sind?
+			* https://stoptrackingscience.eu/
+	* Themenblock de-RSE
+		* Wü-RSE (  https://de-rse.org/chapter/wue/ ) das RSE Chapter von RSEs in Unterfranken/Franken (Florian Goth)
+			* Hallo Florian, ich bin offiziell in Wuerzburg angesiedelt (arbeite aber remote) und wuerd mich da gern mal bei euch umsehen. Daniel (link ist im DFN chat.)
+			* https://de-rse.org/chapter/start/
+		* Alternativer Chat-client: Zulip
+			* messages in channels have 'topics' - better reuse of discussions, long-term discussions regarding one topic are possible
+			* open source, can be self-hosted 
+				* or (commercially or with limited functionality) in the cloud
+			* blog entry https://fangohr.github.io/blog/zulip.html
+				* very useful summary - thanks!
+	* nächster Termin: 2021-07-07 11:00
+	* Abschluss
+		* Wer schreibt eine Blog Post über das Gespräch?
+		* Wer organisiert das nächste Treffen?

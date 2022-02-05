@@ -1,0 +1,87 @@
+Call der Deutschsprachigen Open Science AG und de-RSE 65
+
+	* Datum: 2020-11-04 von 11:00 bis 12:00
+	* Konferenzsystem/URL/Nummer:
+		1. Mit Deinem Browser unter Windows, MacOS, GNU/Linux: https://conf.dfn.de/webapp/conference/97985301
+		2. Mit einem SIP/H.323-Raumsystem oder SIP/H.323-Client:
+				* H.323: 004910097985301
+				* SIP:   97985301@conf.dfn.de
+		3. Mit einem Telefon (nur Audio): 0049 30 200 97985301
+		4. Über Skype for Business: 97985301@vc.dfn.de
+		5. Mobil mit Smartphone: Voraussetzung ist die vorinstallierte Pexip App unter
+				* Android: https://play.google.com/store/apps/details?id=com.pexip.infinityconnect
+				* iOS:     https://itunes.apple.com/us/app/pexip-infinity-connect/id1195088102 
+                  Gib dort ein: 97985301@conf.dfn.de
+		* Backup-Kanal bei technischen Problemen ist das Chat in diesem Pad!!!
+	* Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsprachigen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsame Projekt zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG -https://mlists.okfn.de/cgi-bin/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( http://dx.doi.org/10.5281/zenodo.12326 / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+	* Hintergrund: Forschungsergebnisse sollten für alle im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagert sich immer weiter ins Netz - und auch in diesen frühen Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um, gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+	* Wer darf mitmachen? Alle, die Interesse an Open Science haben! Du brauchst kein tiefes Hintergrundwissen und kannst gerne Fragen stellen. Gerade Menschen ohne fundierten Hintergrund in Open Science, die sich in die Community einklinken möchten, sind herzlich willkommen.
+	* Zurück zum Masterpad: https://pad.okfn.de/p/openscience-ag-master-pad
+
+
+
+TeilnehmerInnen:
+	1. Konrad Förstner (ZB MED)
+	2. Frank Löffler (FSU Jena; kommt etwas später)
+	3. Florian Goth (theoretische Physik 1, Uni Würzburg)
+	4. Dominic Kempf (Uni Heidelberg)
+	5. Guido Scherp (ZBW / LFV Open Science)
+	6. Jens Wyrwa  (Bundesanstalt für Gewässerkunde)
+	7. Markus Konkol (Open Science Officer, Twente)
+	8. Christian Busse (DKFZ Heidelberg)
+	9. Christian Kniep (AWS)
+	10. Ulf Hamster (BBAW/ZDL)
+
+Agenda und Protokoll
+
+Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deine Namen hinzu, so dass wir wissen wer verantwortlich ist.
+
+	* Organisatorisches (Moderator)
+		* Dauer des Gespräches
+		* Bitte Protokoll mitschreiben - einfach die Agenda ergänzen
+	* Vorstellungsrunde
+	* Themenblock AG Open Science
+		* Assembly auf dem rC3 (Konrad)
+			* https://pad.okfn.de/p/Open_Science-Assembly-rC3
+		* Unesco Open Science (Konrad)
+			* https://en.unesco.org/news/unesco-who-and-high-commissioner-human-rights-call-open-science
+			* https://unesdoc.unesco.org/ark:/48223/pf0000374409.page=10
+			* Feedback bis zum 31.12.2020 möglicht
+		* Tracking durch Verlage (Konrad)
+			* https://www.jmwiarda.de/2020/10/26/eine-gef%C3%A4hrdung-der-freiheit-von-forschung-und-lehre/
+		* OpenAccess Material: (kostenlose) Bestellungen an BMBF (Frank)
+			* "Warnung! OPEN ACCESS überträgt Wissen."
+			* Mundschutz/Postkarten/Aufkleber/Faltplan
+			* https://www.bildung-forschung.digital/files/Open_Access_Bestellformular_A4.pdf
+		* European Open Science Cloud (EOSC) (Christian)
+			* EOSC Symposium hat 19-22 Oktober stattgefunden, Recordings unter https://www.youtube.com/playlist?list=PLbISfqJh3TssvDwZ9nJZwiCZfvH8nkkQx
+			* EOSC ist jetzt als AISBL gegründet, erste Runde an Mitgliedern (pan-150) bis 
+			* Strategic Research and Innovation Agenda v0.8 (SRIA): https://www.eoscsecretariat.eu/news-opinion/eosc-strategic-research-and-innovation-agenda-version-08
+			* Entwurf - EOSC Architecture Working Group, Task Force "Scholarly Infrastructure for Research Software"
+				* https://docs.google.com/document/d/1yObRCR7COQctpjMdg-rNenRZ7ZeUZ-u0iyvdpPRK598
+				* Kommentierung bis zum 10. November
+			* Sonstige Outputs der EOSC Executive Board WGs (u.a. zu PIDs, AAI, FAIR Practices) https://eoscsecretariat.eu/eosc-governance/eosc-executive-board-outputs
+			* Verhältnis zu GAIA-X (siehe unten) ist noch nicht klar, GAIA-X wird aber wahrscheinlich einen Teil der Infrastruktur bereitstellen
+		* GAIA-X 
+			* Ziel ist Unabhängigkeit europäischer Firmen/Einrichtungen von Google/Microsoft/Amazon -> Datensouveränität
+			* Wird eine (oder "die") Infrastruktur- und Protokollschicht für die europäischen Data Spaces (siehe "Europäische Datenstrategie" im Pad von 05/2020 https://pad.okfn.de/p/Open_Science_AG_Public_Call_059)
+			* International Data Spaces Association (IDSA)
+				* Zusammenschluss von Unternehmen (vor allem aus DE), die an Spezifikationen arbeiten https://www.internationaldataspaces.org
+				* Aktuelle Version des Reference Architecture Models (ist ein Kandidat für die Protokollschicht von GAIA-X): https://www.internationaldataspaces.org/wp-content/uploads/2019/03/IDS-Reference-Architecture-Model-3.0.pdf
+			* GAIA-X Summit 2020 (18/19 Nov): https://events.talque.com/gaia-x-summit/en/6iq6yI5LPSxaIRA6cmnq
+			* Artikel auf Heise: https://www.heise.de/news/Digitale-Souveraenitaet-und-Europa-Cloud-Gaia-X-Viele-Fragen-im-Digital-Ausschuss-4941722.html
+			* Anhörung im Bundestagsausschuss "Digitale Agenda": https://www.bundestag.de/dokumente/textarchiv/2020/kw44-pa-digitale-agenda-792802
+	* Themenblock de-RSE
+		* In Gründung: Scientific Software Center an der Uni Heidelberg (Dominic)
+			* Start 1. Oktober am Interdisziplinären Zentrum für wissenschaftliches Rechnen  
+			* derzeit 3 Stellen
+			* Lehre, Beratung, Übernahme von Teilentwicklungen
+			* Dominic berichtet weiter
+			* Hong Kong Principles: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000737
+			* San Francisco DORA: https://sfdora.org/read/
+		* Open Source Project-Management Software Ideen?
+			* https://sourceforge.net/projects/projectlibre/ (eher "unmodern" anmutendes Interface und auch eher für Einzelnutzernutzung)
+	* nächster Termin: 2.12.2020 11 Uhr
+	* Abschluss
+		* Wer schreibt eine Blog Post über das Gespräch?
+		* Wer organisiert das nächste Treffen?

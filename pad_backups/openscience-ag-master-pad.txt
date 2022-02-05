@@ -1,9 +1,31 @@
 Sammlung aller Pads und Aufzeichungen der deutschsprachigen OKF Open Science AG:
 
-Kommende Veranstaltungen
-	* Call Juli 2020-07-01  https://pad.okfn.de/p/Open_Science_AG_Public_Call_061
+Kommende Veranstaltungen (alternierend 11:00 / 16:00)
 
-Bisherige Veranstaltungen:
+	* Call March 2022-03-02 16:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_081
+
+Bisherige Veranstaltungen
+	* Call Februar 2022-02-02 - 11:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_080
+	* Call Januar 2022-01-01 - 11:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_079
+	* Call Dezember 2021-12-01 - 11:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_078
+	* Call November 2021-11-03 - 16:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_077
+	* Call Oktober 2021-10-06 https://pad.okfn.de/p/Open_Science_AG_Public_Call_076
+	* Call September 2021-09-01 https://pad.okfn.de/p/Open_Science_AG_Public_Call_075
+	* Call August 2021-08-04 https://pad.okfn.de/p/Open_Science_AG_Public_Call_074
+	* Call Juli 2021-07-07 https://pad.okfn.de/p/Open_Science_AG_Public_Call_073
+	* Call Juni 2021-06-02 https://pad.okfn.de/p/Open_Science_AG_Public_Call_072
+	* Call Mai 2021-05-05  https://pad.okfn.de/p/Open_Science_AG_Public_Call_071
+	* Call April 2021-04-07  https://pad.okfn.de/p/Open_Science_AG_Public_Call_070
+	* Call März 2021-03-03  https://pad.okfn.de/p/Open_Science_AG_Public_Call_069
+	* Call Februar 2021-02-03  https://pad.okfn.de/p/Open_Science_AG_Public_Call_068
+	* Call Januar 2021-01-13  https://pad.okfn.de/p/Open_Science_AG_Public_Call_067
+	* Assembly auf dem rC3 https://pad.okfn.de/p/Open_Science-Assembly-rC3
+	* Call Dezember 2020-12-02  https://pad.okfn.de/p/Open_Science_AG_Public_Call_066
+	* Call November 2020-11-04  https://pad.okfn.de/p/Open_Science_AG_Public_Call_065
+	* Call Oktober 2020-10-07  https://pad.okfn.de/p/Open_Science_AG_Public_Call_064
+	* Call September 2020-09-03  https://pad.okfn.de/p/Open_Science_AG_Public_Call_063
+	* Call August 2020-08-05  https://pad.okfn.de/p/Open_Science_AG_Public_Call_062
+	* Call Juli 2020-07-01  https://pad.okfn.de/p/Open_Science_AG_Public_Call_061
 	* Call Juni 2020-06-03 https://pad.okfn.de/p/Open_Science_AG_Public_Call_060
 	* Call Mai 2020-05-06 https://pad.okfn.de/p/Open_Science_AG_Public_Call_059
 	* Call April 2020-04-01 https://pad.okfn.de/p/Open_Science_AG_Public_Call_058
@@ -14,8 +36,8 @@ Bisherige Veranstaltungen:
 	* Call November 2019-11-06 11:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_053
 	* Call Oktober 2019-10-16 9:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_052
 	* Call Juli 2019-07-03 11:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_051
-	* Call Juni 2019-06-12  (! verschoben wegen deRSE-Konferenz) (16:00)  https://pad.okfn.de/p/Open_Science_AG_Public_Call_050
-	* Call Mai (2019-05-08 (! verschoben wegen Mai-Feiertag) (11:00) https://pad.okfn.de/p/Open_Science_AG_Public_Call_049
+	* Call Juni 2019-06-12 16:00 (verschoben wegen deRSE-Konferenz) https://pad.okfn.de/p/Open_Science_AG_Public_Call_050
+	* Call Mai 2019-05-08 11:00 (verschoben wegen Mai-Feiertag) https://pad.okfn.de/p/Open_Science_AG_Public_Call_049
 	* Call April 2019-04-03 (16:00) https://pad.okfn.de/p/Open_Science_AG_Public_Call_048
 	* Call März 2019-03-06 (11:00) https://pad.okfn.de/p/Open_Science_AG_Public_Call_047
 	* Call Februar 2019-02-06 (16:00) https://pad.okfn.de/p/Open_Science_AG_Public_Call_046

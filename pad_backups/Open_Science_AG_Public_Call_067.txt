@@ -1,0 +1,112 @@
+Call der Deutschsprachigen Open Science AG und de-RSE 67
+
+	* Datum: 2021-01-13 von 11:00 bis 12:00
+	* Konferenzsystem/URL/Nummer:
+	    1. Mit Deinem Browser unter Windows, MacOS, GNU/Linux: https://conf.dfn.de/webapp/conference/97985301
+	    2. Mit einem SIP/H.323-Raumsystem oder SIP/H.323-Client:
+		    - H.323: 004910097985301
+		   - SIP:   97985301@conf.dfn.de
+	   3. Mit einem Telefon (nur Audio): 0049 30 200 97985301
+	   4. Über Skype for Business: 97985301@vc.dfn.de
+	   5. Mobil mit Smartphone: Voraussetzung ist die vorinstallierte Pexip App unter
+		   - Android: https://play.google.com/store/apps/details?id=com.pexip.infinityconnect
+		   - iOS:     https://itunes.apple.com/us/app/pexip-infinity-connect/id1195088102 
+		   Gibt dort ein: 97985301@conf.dfn.de
+		* Backup-Kanal bei technischen Problemen ist das Chat in diesem Pad!!!
+	* Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsprachigen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsame Projekt zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG -https://mlists.okfn.de/cgi-bin/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( http://dx.doi.org/10.5281/zenodo.12326 / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+	* Hintergrund: Forschungsergebnisse sollten für alle im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagert sich immer weiter ins Netz - und auch in diesen frühen Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um, gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+	* Wer darf mitmachen? Alle, die Interesse an Open Science haben! Du brauchst kein tiefes Hintergrundwissen und kannst gerne Fragen stellen. Gerade Menschen ohne fundierten Hintergrund in Open Science, die sich in die Community einklinken möchten, sind herzlich willkommen.
+	* Zurück zum Masterpad: 
+
+
+
+TeilnehmerInnen:
+	1. Daniel Haarhoff (freeyourscience.org)
+	2. Konrad Förstner (ZB MED)
+	3. Lukas Grossberger (freeyourscience.org)
+	4. Frank Löffler (Uni Jena, deRSE)
+	5. Michael Röttger (Uni Freiburg, IMTEK)
+	6. Florian Goth (Uni Würzburg)
+	7. Stephan Janosch (MPI-CBG, de-RSE)
+	8. Markus Konkol (Uni Twente)
+	9. Dominic Kempf (SSC, Uni Heidelberg)
+	10. Tamara Heck (DIPF Frankfurt)
+	11. Christian Busse (DKFZ Heidelberg)
+12. Jael (ZB MED)
+13. Bernadette Fritzsch (AWI, de-RSE)
+14 Jo Havemann, Access2Perspectives.com
+
+Agenda und Protokoll
+
+Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deine Namen hinzu, so dass wir wissen wer verantwortlich ist.
+
+	* Organisatorisches (Moderator)
+		* Dauer des Gespräches
+		* Bitte Protokoll mitschreiben - einfach die Agenda ergänzen
+	* Vorstellungsrunde
+	* Themenblock AG Open Science
+		* Gerne noch für folgenden Veranstaltungen anmelden:) (Guido, kann leider nicht dabei sein)
+			* Barcamp Open Science // 16. Februar 2021 // #oscibar // https://www.barcamp-open-science.eu/ -> Tickets werden langsam knapp;)
+			* Open Science Conference // 17.-19. Februar 2021 // #osc2021 // https://www.open-science-conference.eu
+				* Die OSC nutzt die Cvent-Plattform mit einen "Virtual Attendee Hub", der auch verschiedene Möglichkeiten der Interaktion und zum Netzwerken bietet. 
+		* Vorstellung https://freeyourscience.org/ (Daniel & Lukas)
+			* Vision: Mehr Open Access Publikationen
+			* Ziele: Unnötigerweise hinter Paywalls versteckte Publikationen als Open Access verfügbar machen
+			* Ansatz:
+				* Autor*innen und Institutionen können anhand von Autor*innen oder DOIs prüfen, welche Publikationen noch nicht Open Access sind trotzdem die Publisher kostenlose Open Access re-publication pathways erlauben
+				* Basierend auf APIs von Unpaywall.org, Sherpa Romeo, Semantic Scholar, Crossref
+			* Nächste Schritte:
+				* Ansatz validieren und Darstellung optimieren (verstehen Autor*innen was dargeboten wird, ist nicht-wissen über  tatsächlich das Problem?)
+				* Improve author search: ideas?
+				* explain better the differences between submitted, accepted, published version
+				* link the open access paper / semantic scholar paper details page instead of / in addition to the doi link (potentially paywalled)
+				* Leverage Open Science AG channels (e.g. Konrad, podcasts, mailinglist) for spreading the word once Daniel and Lukas feel confident about the current version
+				* Tell users what they can do about "publications with issues"
+			* Source Code: https://github.com/freeyourscience/freeyourscience
+			* Contact: team@freeyourscience.org
+			* Has an open API at https://freeyourscience.org/docs
+			* Issues with:
+				* ORCID: 0000-0002-2401-6862 (Publication with Issues)
+				* Bug-Report by Flo: this paper: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.97.085144 , I used the search for DOI: 10.1103/PhysRevB.97.085144  . The paper is available on arxiv.org, maybe it means that? But then the link should point to arxiv.org not to the APS Journal.
+		* Legislative Aktivitäten 2021 zu "Daten" (Christian)
+			* 2019/1024/EU (PSI-Direktive) muss bis diesen Sommer umgesetzt werden. BMWi ist federführend, bisher noch nichts öffentlich. Anyone?
+			* Komplementär hierzu: Data Governance Act (Verordnung 2020/0340, Kommissionsentwurf Nov 2020)
+				* https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=COM:2020:767:FIN
+				* Open for comments
+			* Angekündigt "Data Act" -> Potentielle Revision/Abschaffung der Datenbankdirektive (96/9/EG)
+			* Das "große Ganze": European Data Strategy (COM/2020/66), hatten wir letzten Sommer schon mal, das Ding mit den "Data Spaces":
+				* https://ec.europa.eu/info/sites/info/files/communication-european-strategy-data-19feb2020_en.pdf
+		* Nachhaltigkeit in der European Open Science Cloud (EOSC) (Christian)
+			* Abschlussdokument der "EOSC Sustainability WG" (ehemals "Iron Lady document")
+			* https://op.europa.eu/en/publication-detail/-/publication/581d82a4-2ed6-11eb-b27b-01aa75ed71a1/language-en/format-PDF/source-175468053
+			* Change of fundig program (H2020 -> Horizon Europe)
+	* Themenblock de-RSE
+		* Aufruf/Erinnerung zur Mitarbeit an der RSE-Chronik 2020:
+		* SORSE (Stephan Janosch)
+			* SORSE-Ende (event via http://play.workadventu.re/ ?)
+			* Running from September 2020 to mid-end March 2021
+			* intl RSE associatons council meets first time soon -  de-RSE 2021? 
+		* Ressourcen für rechtliche Aspekte von Open Source an Universitäten (Dominic Kempf)
+			* https://saxfdm.de/termin/2-digital-kitchen-von-saxfdm-am-18-02-2021-um-14-uhr-was-darf-mit-daten-gemacht-werden-recht-und-forschungsdatenmanagement/
+			* https://tu-dresden.de/gsw/phil/irget/jfbimd13/die-professur/jprof-dr-anne-lauber-roensberg
+			* https://www.pik-potsdam.de/en/institute/about/institutional-policies/pik-open-source-and-open-data-policy_text-only
+			* legal requirements of Open-Source Projects, e.g., FSF projects like gcc: https://gcc.gnu.org/contribute.html
+			* till End of July
+				* https://www.dfg.de/en/research_funding/principles_dfg_funding/good_scientific_practice/index.html
+		* Invitation to provide feedback on a Software Mng Plan draft (for life sciences, https://docs.google.com/document/d/1Apt9HmzSrpw84bev_Tn1Wi6c6TymDq8L3RZTIm1s9fI/edit ), adoption and stakeholders document also available (https://docs.google.com/document/d/1ZXk2CbY1DqclcenjhxLYIlAcQYWD-FQqnFgyc-0o5TY/edit#heading=h.9nbmn2i0dmsv) (Jael)
+			* https://fair-software.eu/recommendations/checklist
+		* RDA-De invite for de-RSE (Stephan Janosch)
+		* Digitale Dienste für die Wissenschaft - wohin geht die Reise? (Stephan Janosch)
+			* Allianz-Initiative AG 2 Software und Services
+			* https://zenodo.org/record/4301924#.X9nKf7NCc2w
+			* english version coming in the next few days
+				* http://doi.org/10.5281/zenodo.4301947
+			* Frage: Wird hier auch an Zitationsdatenbanken gedacht? -> DIPF hat hier Aktivitäten für die Bildungsforschung
+
+	* nächster Termin: 2021-02-03 11:00
+	* Abschluss
+		* Wer schreibt eine Blog Post über das Gespräch?
+		* Wer organisiert das nächste Treffen?
+		* 
+		* 
+

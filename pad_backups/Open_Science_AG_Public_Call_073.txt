@@ -1,0 +1,121 @@
+Call der Deutschsprachigen Open Science AG, de-RSE und des GRN Nr. 73
+
+	* Datum: 2021-07-07 von 11:00 bis 12:00
+	* Konferenzsystem/URL/Nummer:
+	    1. Mit Deinem Browser unter Windows, MacOS, GNU/Linux: https://conf.dfn.de/webapp/conference/97985301
+	    2. Mit einem SIP/H.323-Raumsystem oder SIP/H.323-Client:
+		    - H.323: 004910097985301
+		    - SIP:   97985301@conf.dfn.de
+	   3. Mit einem Telefon (nur Audio): 0049 30 200 97985301
+	   4. Über Skype for Business: 97985301@vc.dfn.de
+	   5. Mobil mit Smartphone: Voraussetzung ist die vorinstallierte Pexip App unter
+		   - Android: https://play.google.com/store/apps/details?id=com.pexip.infinityconnect
+		   - iOS:     https://itunes.apple.com/us/app/pexip-infinity-connect/id1195088102 
+		   Gib dort ein: 97985301@conf.dfn.de
+		* Backup-Kanal bei technischen Problemen ist das Chat in diesem Pad!!!
+	* Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsprachigen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsame Projekt zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG - https://mlists.okfn.de/cgi-bin/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( http://dx.doi.org/10.5281/zenodo.12326 / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+	* Hintergrund: Forschungsergebnisse sollten für alle im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagern sich immer weiter ins Netz - und auch in diesen frühen Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um, gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+	* Wer darf mitmachen? Alle, die Interesse an Open Science haben! Du brauchst kein tiefes Hintergrundwissen und kannst gerne Fragen stellen. Gerade Menschen ohne fundierten Hintergrund in Open Science, die sich in die Community einklinken möchten, sind herzlich willkommen.
+	* Zurück zum Masterpad: https://pad.okfn.de/p/openscience-ag-master-pad
+
+TeilnehmerInnen:
+	1. Stephan Janosch (MPI-CBG, de-RSE)
+	2. Frank Löffler (FSU Jena, de-RSE)
+	3. Heike Riegler (Julius Kühn-Institut, Quedlinburg)
+	4. Florian Goth(Uni Würzburg, SFB1170)
+	5. Felix Schönbrodt (LMU München, GRN) - muss leider um 11:15 schon wieder weg ...
+	6. Christian Busse (DKFZ)
+	7. Malte Elson (RUB)
+8. Daniel Mietchen (Fraunhofer-IBMT)
+9. Florian Lorenz (BSH) - ich muss um 11:45 wieder weg
+10. Philipp Stiebler (PEI)
+11. Annette Polly (Max Rubner Institut)
+12. L. Jael Garcia Castro (ZB MED Information Centre for Life Sciences)
+13. Ilka Kleinod (BfR)
+14. Johanna Mueller von der Haegen (DAI)
+
+
+Agenda und Protokoll
+
+Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deine Namen hinzu, so dass wir wissen wer verantwortlich ist.
+
+	* Organisatorisches (Moderator)
+		* Dauer des Gespräches
+		* Bitte Protokoll mitschreiben - einfach die Agenda ergänzen
+	* Vorstellungsrunde
+	* Themenblock AG Open Science
+		* Umsetzung Open Data Richtlinie (2019/1024/EU) (Christian)
+			* Umfangreich, aber sehr lesenswert: https://fragdenstaat.de/anfrage/ressortabstimmung-datennutzungsgesetz/
+				* Wer bei den RDA-de Vorträgen des BMI und BMWi den Eindruck hatte, dass die Menschen dort noch nie über die Bedarfe der Wissenschaft nachgedacht hatten: Haben sie wirklich nicht.
+				* Das BMBF versucht eine ausgewogene Regelung zu finden, ist aber auch zurückhaltend sobald es um Erfüllungsaufwand geht.
+			* Umsetzung in dt. Recht jetzt abgeschlossen: Neufassung des §12a E-Governmentgesetz und neues Datennutzungsgesetz (DNG)
+			* Relevante Änderungen im Bundestag:
+				* Grundsatz der offenen Daten verschärft: Daten sollen "wenn möglich" offen erstellt werden, nicht nur "wenn möglich und sinnvoll" (Gesetzentwurf)
+				* Daten fallen unter das Gesetz wenn sie öffentlich zugänglich gemacht werden, diese muss nicht mehr (wie im Entwurf) "freiwillig" geschehen (z.B. durch Auflage des Drittmittelgebers)
+				* Verkürzung der Ausschließlichkeitsvereinbarungen, aber immer noch 10 Jahre für Digitalisierung von Kulturgütern (trotz Kommentierung von NFDI4Culture)
+			* Unverändert:
+				* "Forschungsdaten" ist breitgefassen, praktisch jede Aufzeichnung die keine Publikation ist -> Sollte auch für Code gelten
+				* Öffentliche Stellen können keine sui generis Schutz für Datenbanken (Art. 7 Richtline 96/9/EG) in Anspruch nehmen
+		* Open Science in Practise - MPG (SJ)
+			* https://osip.mpdl.mpg.de
+				* Recent developments in the EC policy on Open Science (Alea López de San Román, European Commission´s Directorate for Research and Innovation) 
+					* Slides: http://hdl.handle.net/21.11116/0000-0008-C6B4-D
+			* Paper on "open science in practice" https://doi.org/10.3897/rio.7.e68595
+		* Maybe of interest for those working on Open Science and RDM: https://zbmed.github.io/damalos/ (DaMaLOS workshop)
+			* 2nd Workshop on Data and research objects 
+			* management for Linked Open Science 
+			* * research objects (e.g., software, workflows, knowledge graphs) 
+			* 
+			* Co-located with ISWC on the 24th of October 13:00 to 17:00 CEST 2021
+		* Data and Software in US
+			* Daniel worked in NIH
+			* government work is free by definition - public domain
+			* framework for open source and data
+			* strong institutional backing of open source and data
+			* but bureaucracy, some stuff is not public
+				* if some data and software would be public, then congress might cut funding, because data is used mostly not in US
+			* paperwork reduction act
+	* Themenblock de-RSE
+		* RSE-Gruppentreffen (Stephan Janosch)
+			* Ankündigung: https://de-rse.org/blog/2021/06/19/rse-gruppentreffen.html
+			* pad: https://pad.gwdg.de/MsJ9vP8mRPWP9bczRib61Q?both
+			* template for creating the perfect RSE group (please add your ideas! we try to compile a good draft that you can use in your institution): https://pad.gwdg.de/6tzCj8ndSYa2JYda683BOw?view
+			* 13 "groups" were present
+			* next meeting: September
+				* issue to collect topics: https://github.com/DE-RSE/projekte/issues/3
+			* DLR:
+			* Allianz AG:
+				* Handreichung zum Umgang mit Forschungssoftware: https://doi.org/10.5281/zenodo.1172970
+				* Positionspapier Digitale Dienste für die Wissenschaft – wohin geht die Reise? : https://doi.org/10.5281/zenodo.4301924
+				* An environment for sustainable research software in Germany and beyond: current state, open challenges, and call for action: https://doi.org/10.12688/f1000research.23224.1 .
+		* Community size: https://twitter.com/RSE_de/status/1407629289735008257
+		* software index -
+			* license compatibility check 
+			* NFDI base service
+			* https://joinup.ec.europa.eu/collection/eupl/licence-compatibility-permissivity-reciprocity-and-interoperability
+		* Webinar on FAIR research software, registration at https://deic.zoom.us/meeting/register/u5Ypcu-qqDIiHN3RCmgYC9BVUlMtX7bLyclP, organized by RDA-nordic countries
+			* This webinar is brought to you by the former Danish and Swedish RDA nodes. Our main goal is to enhance research and increase networking.
+			* As a starting point we have decided to begin our webinar series with the topic of FAIR research software. 
+			* Making software FAIR is in certain aspects heavily overlapping with the FAIR data principles in others unique definitions and practices are necessary. In the first webinar we want to focus on the basic differences between data and software, outputs of the RDA FAIR4RS working group and the experiences within the Nordic Region.
+				* This webinar is the first in a series about FAIR research software. 
+			* Invited speakers are: 
+				* Leyla Jael Garcia-Castro (FAIR4RS WG)
+				* Carlos Martinez Ortiz (FAIR4RS WG)
+				* Malin Sandström (INCF, SE)
+				* Radovan Bast (CodeRefinery, NO)
+			* Zeit 30.Aug..2021 01:00 PM in Kopenhagen
+		* FS@SE22 (SJ)
+			* https://www.se-2022.hu-berlin.de/de
+		* Status, Förderverein kleiner Software-Projekte?
+		* Wo ist ein guter Platz, um Software-Entwickler fuer Forschungsinstitutionen zu finden?
+			* z.B. https://twitter.com/EvoMRI/status/1409995781482942473
+			* RSE-Mailingliste: liste@de-rse.org
+			* #jobs Kanal des UK-RSE-Slack: https://ukrse.slack.com/
+			* https://chat.gwdg.de/channel/derse_jobs
+				* da komm ich nicht rein
+		* DEIN THEMA (DEIN NAME)
+	* nächster Termin: 4.8. - 11 Uhr
+	* Abschluss
+		* Wer schreibt eine Blog Post über das Gespräch?
+		* Wer organisiert das nächste Treffen?
+

@@ -1,0 +1,124 @@
+Call der Deutschsprachigen Open Science AG, de-RSE und des GRN Nr. 076
+
+	* Datum: 2021-10-06 von 11:00 bis 12:00
+	* Konferenzsystem/URL/Nummer:
+	    1. Mit Deinem Browser unter Windows, MacOS, GNU/Linux: https://conf.dfn.de/webapp/conference/97985301
+	    2. Mit einem SIP/H.323-Raumsystem oder SIP/H.323-Client:
+		    - H.323: 004910097985301
+		    - SIP:   97985301@conf.dfn.de
+	   3. Mit einem Telefon (nur Audio): 0049 30 200 97985301
+	   4. Über Skype for Business: 97985301@vc.dfn.de
+	   5. Mobil mit Smartphone: Voraussetzung ist die vorinstallierte Pexip App unter
+		   - Android: https://play.google.com/store/apps/details?id=com.pexip.infinityconnect
+		   - iOS:     https://itunes.apple.com/us/app/pexip-infinity-connect/id1195088102 
+		   Gib dort ein: 97985301@conf.dfn.de
+		* Backup-Kanal bei technischen Problemen ist das Chat in diesem Pad!!!
+	* Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsprachigen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsame Projekt zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG - https://mlists.okfn.de/cgi-bin/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( http://dx.doi.org/10.5281/zenodo.12326 / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+	* Hintergrund: Forschungsergebnisse sollten für alle im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagern sich immer weiter ins Netz - und auch in diesen frühen Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um, gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+	* Wer darf mitmachen? Alle, die Interesse an Open Science haben! Du brauchst kein tiefes Hintergrundwissen und kannst gerne Fragen stellen. Gerade Menschen ohne fundierten Hintergrund in Open Science, die sich in die Community einklinken möchten, sind herzlich willkommen.
+	* Zurück zum Masterpad: https://pad.okfn.de/p/openscience-ag-master-pad
+
+
+
+TeilnehmerInnen:
+	1. Konrad Förstner (ZB MED/TH Köln)
+	2. Antonia Schrader (Helmholtz Open Science Office)
+	3. Daniel Haarhoff (FreeYourScience)
+	4. Stephan Janosch (MPI-CBG, de-RSE e.V.)
+	5. Daniel Mietchen (Fraunhofer-IBMT/ Leibniz-IGB, Wikimedia)
+	6. Florian Goth (Uni Würzburg)
+	7. Bernd Rupp (FMP)
+8. Susann Auer (TU Dresden), Reproducibility for Everyone:https://www.repro4everyone.org/
+9. Bernadette Fritzsch (AWI)
+10. Inga Ulusoy (SSC)
+
+Agenda und Protokoll
+
+Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deine Namen hinzu, so dass wir wissen wer verantwortlich ist.
+
+	* Organisatorisches (Moderator)
+		* Dauer des Gespräches
+		* Bitte Protokoll mitschreiben - einfach die Agenda ergänzen
+	* Vorstellungsrunde
+	* Themenblock AG Open Science
+		* Calls Open Science Conference 2022 (Guido, kann leider nicht anwesend sein;, Konrad)
+			* https://www.open-science-conference.eu/calls2022/
+			* Deadline 15. Oktober
+		* FreeYourScience (Daniel Haarhoff)
+			* Ziel: Artikel die nicht Open Access sind aber von der Verlagspolicy sein könnten zu befreien
+				* Frage: inwiefern arbeitet ihr mit Initiativen wie dissem.in oder unpaywall zusammen?
+					* dissem.in: nein, unpaywall: ja
+				* Oder https://paperswithcode.com/ ?
+			* https://freeyourscience.org/
+			* https://shareyourpaper.org/ - sieht Zenodo als Institutional Repository; lädt Paper automatisch dorthin;
+			* Status update (was haben wir erreicht, wo hakt es noch)
+			* Hilfe gesucht: 'Institutional Repository' ist ein scheinbar schwammiger Begriff und derzeit trauen wir uns deshalb nicht gewisse Empfehlungen für unsere User auszusprechen. Hat jemand Erfahrung, Tips, Kontakte, Ideen?
+				* SJ - Frage: Identifiziert ihr Referenzen auf Daten und Forschungssoftware?
+				* SA feedback: https://www.re3data.org/ als Hilfe für Autoren und euch, um andere repositories zu finden; Teil der Suchstrategie umfasst auch "institutional responsibility type" und "institution type"
+				* Empfehlung mit den Kolleg*innen vom Deep Green Projekt austauschen: https://os.helmholtz.de/projekte/abgeschlossene-projekte/deepgreen/ (insbesondere die Kollegin Julia Boltze)
+				* https://reprog.wordpress.com/2010/09/03/bibliographic-data-part-2-dublin-cores-dirty-little-secret/
+			* Weitere Fragen und Feedback gerne immer an team@freeyourscience.org
+		* DEIN THEMA (DEIN NAME)
+	* Themenblock de-RSE (Stephan)
+		* Tag der Forschungssoftware (Stephan Janosch)
+			* 14.10.
+			* https://github.com/DE-RSE/projekte/issues/4
+			* GI-deRSE-NFDI4Earth Hinweis
+			* 
+		* rSE22 - Track auf http://se-2022.de/ (Stephan Janosch)
+			* Veranstaltet von de-RSE e.V.
+			* https://de-rse.org/blog/2021/10/04/SE2022-RSE-Track-Call-for-contributions-de.html
+				* Themenbasar: https://pad.gwdg.de/B74SJsvmQbKRMkPAuLuQyA
+			* 23.2.-25.2.
+			* kostenfrei, virtuell
+		* Mitgliederversammlung am 15.9. ist erfolgt (Stephan Janosch) 
+			* Vorstand: Stephan D raus, Jan D rein
+		* https://danielskatzblog.wordpress.com/2021/09/27/senior-rse-paths/ (Stephan Janosch)
+			* Unsere Ideensammlung dazu: https://pad.gwdg.de/6tzCj8ndSYa2JYda683BOw?view#
+		* Wie war SeptembRSE? Wer kann Eindrücke teilen? (Stephan Janosch)
+		* Themenblock campusSOURCE Award 2022 (Antonia)
+		* Call for Application bis 15. Dez. 2021: https://ev.campussource.de/publikationen/csa2022/index-en.html
+			* Schöner Nebeneffekt könnte sein Kartierung der Landschaft, Antonia bringt es in das Award-Team
+			* Landschaftkartierung: https://pad.gwdg.de/B74SJsvmQbKRMkPAuLuQyA
+				* Wann ist der Themenbasar?
+					* bis 12.11. - siehe rSE22-Links oben: https://pad.gwdg.de/B74SJsvmQbKRMkPAuLuQyA
+		* Katalogisieren von Software-Paper-Links via Wikidata
+			* demo: https://scholia.toolforge.org/use/Q108041786 (ALF)
+		* Community-Chronik 2021 (Stephan Janosch)
+			* https://pad.gwdg.de/CmnItcnHTpacqax6iYtC6g
+	* Themenblock GRN (Antonia)
+		* GRN Gründung im Feburar 2021; jetzt Auftritt auf öffentlicherer Bühne -> 16. Nov. 
+	* GermanReproDay 
+		* 16. November 2021, 13 bis 17 Uhr, Online (Zoom)
+		* Conference language: English
+		* Mehr dazu unter hier (bitte im Vorfeld anmelden): https://reproducibilitynetwork.de/germanreproday/
+		* Website: https://reproducibilitynetwork.de/
+		* Daniel: Jupyter Notebooks nachlaufen lassen - stats abour common errors
+
+	* Mitglieder sind herzlich willkommen
+		* für Vernetzung
+		* keine Einzelmitglieder, eher Teilnahme als Gruppe
+		* internationale Vernetzung
+			* european repro network, 1st summit happend last week
+			* UKRN
+				* hat funding
+			* reuseable infrastructure for checking reuseability?
+			* 
+	* Frage an Susann
+		* Repo4everyone an TU , gibt es da Veranstaltungen (an Uni)?
+			* virtuelle Webinare, Workshops
+			* english material
+			* https://www.tu9.de
+	* ZKI (Stephan Janosch)
+		* https://www.zki.de/ueber-den-zki/
+		* Netzwerk der IT-Servicestellen der UNIs
+		* https://www.zki.de/top-themen/it-governance/
+		* es gibt ein monatliches Treffen
+	* nächster Termin: 2021-11-03 16:00
+		* ab jetzt (wieder oszilierend) 11:00 / 16:00 - wird im Master Pad eingetragen
+	* Abschluss
+		* Wer schreibt einen Blog-Eintrag über das Gespräch? 
+		* Wer organisiert das nächste Treffen?
+
+
+
