@@ -6,24 +6,28 @@ main(){
     mkdir -p ${BACKUP_FOLDER}
     backup_master_pad
     backup_calls_notes_okfn_de
-    backup_calls_notes_okfn_org
+    # backup_calls_notes_okfn_org
 }
 
 backup_master_pad(){
     curl https://pad.okfn.de/p/openscience-ag-master-pad/export/txt \
 	 > ${BACKUP_FOLDER}/openscience-ag-master-pad.txt
+    sleep 10
     curl https://pad.okfn.de/p/openscience-ag-master-pad/export/html \
 	 > ${BACKUP_FOLDER}/openscience-ag-master-pad.html
+    sleep 10
 }
 
 backup_calls_notes_okfn_de(){
-    for MEETING_NUMBER in $(seq 23 60)
+    for MEETING_NUMBER in $(seq 70 80)
     do
 	NUMBER_STRING=$(printf "%03d" "${MEETING_NUMBER}")
 	curl https://pad.okfn.de/p/Open_Science_AG_Public_Call_"${NUMBER_STRING}"/export/txt \
 	     > ${BACKUP_FOLDER}/Open_Science_AG_Public_Call_"${NUMBER_STRING}".txt
+	sleep 10
 	curl https://pad.okfn.de/p/Open_Science_AG_Public_Call_"${NUMBER_STRING}"/export/html \
 	     > ${BACKUP_FOLDER}/Open_Science_AG_Public_Call_"${NUMBER_STRING}".html
+	sleep 10
     done
 }
 
