@@ -2,9 +2,28 @@ Sammlung aller Pads und Aufzeichungen der deutschsprachigen OKF Open Science AG:
 
 Kommende Veranstaltungen (alternierend 11:00 / 16:00)
 
-	* Call March 2022-03-02 16:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_081
+	* Call August 2023-08-02 11:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_096
+
 
 Bisherige Veranstaltungen
+
+	* Call Juli 2023-07-03 16:00  https://pad.okfn.de/p/Open_Science_AG_Public_Call_095
+	* Call Juni 2023-06-07 11:00  https://pad.okfn.de/p/Open_Science_AG_Public_Call_094
+	* Call Mai 2023-05-03 16:00  https://pad.okfn.de/p/Open_Science_AG_Public_Call_093
+	* Call April 2023-04-05 11:00 (?????)  Ausgefallen, zu wenig Beteiligung
+	* Call März 2023-03-01 16:00  https://pad.okfn.de/p/Open_Science_AG_Public_Call_092
+	* Call Februar 2023-02-01 11:00  https://pad.okfn.de/p/Open_Science_AG_Public_Call_091
+	* Call Januar 2023-01-04 16:00  https://pad.okfn.de/p/Open_Science_AG_Public_Call_090
+	* Call Dezember 2022-12-07 11:00  https://pad.okfn.de/p/Open_Science_AG_Public_Call_089
+	* Call November 2022-11-02 16:00  https://pad.okfn.de/p/Open_Science_AG_Public_Call_088
+	* Call Oktober 2022-10-05 11:00  https://pad.okfn.de/p/Open_Science_AG_Public_Call_087
+	* Call September 2022-09-07 16:00  https://pad.okfn.de/p/Open_Science_AG_Public_Call_086
+	* Call August 2022-08-03 fällt aus
+	* Call Juli 2022-07-06 16:00  https://pad.okfn.de/p/Open_Science_AG_Public_Call_085
+	* Call Juni 2022-06-01 11:00  https://pad.okfn.de/p/Open_Science_AG_Public_Call_084
+	* Call Mai 2022-05-04 16:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_083
+	* Call April 2022-04-06 11:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_082
+	* Call März 2022-03-02 16:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_081
 	* Call Februar 2022-02-02 - 11:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_080
 	* Call Januar 2022-01-01 - 11:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_079
 	* Call Dezember 2021-12-01 - 11:00 https://pad.okfn.de/p/Open_Science_AG_Public_Call_078
@@ -105,6 +124,14 @@ Misc/Resourcen
 	* Mission Statement der AG: https://zenodo.org/record/12326 / https://github.com/OKScienceDE/Mission_Statement
 	* Mailingliste: https://lists.okfn.org/mailman/listinfo/open-science-de
 	* Entwickler einer eigenen Website https://pad.okfn.org/p/website-open-science-ag
+
+
+
+
+
+
+
+
 
 
 

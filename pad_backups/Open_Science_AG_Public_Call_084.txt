@@ -1,0 +1,72 @@
+Call der Deutschsprachigen Open Science AG, de-RSE und des GRN Nr.84
+
+	* Datum: 2022-06-01 von 11:00 bis 12:00 (Alternierend 11:00 / 16:00)
+	* BBB-Raum: https://meet.gwdg.de/b/ste-hku-nvu
+		* Backup-Kanal bei technischen Problemen ist das Chat in diesem Pad!!!
+	* Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsprachigen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsame Projekt zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG - https://mlists.okfn.de/cgi-bin/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( https://doi.org/10.5281/zenodo.12326 / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+	* Hintergrund: Forschungsergebnisse sollten für alle im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagern sich immer weiter ins Netz - und auch in diesen frühen Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um, gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+	* Wer darf mitmachen? Alle, die Interesse an Open Science haben! Du brauchst kein tiefes Hintergrundwissen und kannst gerne Fragen stellen. Gerade Menschen ohne fundierten Hintergrund in Open Science, die sich in die Community einklinken möchten, sind herzlich willkommen.
+	* Zurück zum Masterpad: https://pad.okfn.de/p/openscience-ag-master-pad
+
+
+
+TeilnehmerInnen:
+	1. Stephan Janosch (MPI-CBG)
+	2. Anton Pirogov (Forschungszentrum Jülich)
+	3. Kamil Braschke (Bergische Universität Wuppertal)
+	4. Frank Löffler (Uni Jena)
+	5. Florian Goth (Uni Würzburg)
+	6. Guido Scherp (ZBW Kiel)
+	7. Simon Christ (Leibniz Univesität Hannover)
+	8. Leyla Jael Castro (ZB MED)
+	9. Susann Auer (R4E, TU Dresden, GRN)
+	10. Christian Busse (DKFZ)
+	11. Tamara Heck (DIPF)
+	12. Louisa Kulke (Friedrich-Alexander-University Erlangen-Nürnberg)
+
+Agenda und Protokoll
+
+Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deine Namen hinzu, so dass wir wissen, wer verantwortlich ist.
+
+	* Organisatorisches (Moderator)
+		* Dauer des Gespräches
+		* Bitte Protokoll mitschreiben - einfach die Agenda ergänzen
+	* Vorstellungsrunde
+	* Themenblock AG Open Science
+		* Open Science Retreat 14 / 15 June -> siehe Mail über den Verteiler:) (Guido)
+			* Topic: Impact of Global Crises on the Open Science Movement
+			* https://openscienceretreat.zbw.eu/ 
+			* Deadline for application: June 3
+		* Open Science festival
+			* https://www.uni-hannover.de/de/universitaet/profil/ziele-strategien/open-science/festival/
+	* Themenblock de-RSE - Research Software Engineering
+		* Science needs more research software engineers (Stephan) 
+			* https://www.nature.com/articles/d41586-022-01516-2
+		* https://www.bmbf.de/SharedDocs/Downloads/de/2022/abschlussbericht-evaluation-wisszeitvg.html (Gedanken?, Florian)
+			* https://blogs.helmholtz.de/hejus/2022/05/n2-kommentar-zur-evaluation-des-wisszeitvg/#c106108
+			* https://blogs.helmholtz.de/hejus/2022/05/n2-kommentar-zur-evaluation-des-wisszeitvg-2020/
+			* https://www.bmbf.de/bmbf/shareddocs/veranstaltungen/2022/220627-konferenz-wisszeitvg.html
+				* Live stream will be available!
+			* side note: Wo die deutsche Polizei bei der Verfolgung von Straftaten im Internet versagt | ZDF Magazin Royale - https://youtu.be/Xdm8SG8_v0I
+			* TVL - 13 for RSEs?
+				* IT bonus?
+				* Formal Education requirements vs. Gehaltsstufen
+				* https://danielskatzblog.wordpress.com/2021/09/27/senior-rse-paths/
+		* Event on Software Management Plans organized by the eScience Center Netherlands 9 of June from 13 to 16 CEST: https://www.eventbrite.co.uk/e/software-that-makes-you-proud-using-smps-tickets-341888165707  (Leyla Jael)
+		* 
+		* 
+	* Themenblock GRN - German Reproducibility Network
+		* Virtual brainstorming on "Making reproducibility and open science education and training the norm" (in Germany) (Susann Auer) that lasted for three days 1-3 March 2022
+			* 96 participants from all over Germany, various institutions: university staff, open science officers, professors, a few librarians, research institution staff (Helmholtz, MPI)
+			* divided the group in specific topics/channels (inSlack) to collect info on what people are working on/have  experience in/see a need to work on in the future in repro/OS in Germany:
+				* training and education, learner experiences, bottom-up and top-down approaches, national education connections, resources and ideas
+				* take aways: lots of people already work on OS/repro without knowing each other, people reinvent the wheel new in their institutions, frustration with limitations bottom-up
+			* way forward: some working groups have formed to tackle specific topics, GRN had elections on 29 May with 5 new board members, hopefully in the near future GRN can serve as connection hub to link existing initiatives and people and be more inclusive to welcome individual members (rather than only initiatives)
+			* SJ: PR is not easy, needs time and ressources
+			* SJ: Slack looks different, when you reach the 10K message limit. You loose access to old message with free plan. Just a warning. Maybe join chat.gwdg.de ? I can ask if you like, if GRN folks could use it. It's a rocket.chat. FL: Matrix might be a good, free and more modern alternative. SA: yes, was tested by GRN members and they didn´t like it. We settled for slack for now, the future is open though (: 
+			* SA: Stephan, yes, we know about these limitations, its the most usable tool to use for the conversations within this network right now
+			* -> If you want to get involved as invidivual person in the GRN, please contact Verena Heise (https://vheise.com/)+1
+			* is carpentry instructor shortage? (Stephan) 
+		* https://carpentries.org/blog/2022/05/image-processing-beta-announcement/
+		* DEIN THEMA (DEIN NAME)
+	* nächster Termin: 2022-07-06 16:00

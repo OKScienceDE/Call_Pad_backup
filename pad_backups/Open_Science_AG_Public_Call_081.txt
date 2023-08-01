@@ -1,0 +1,80 @@
+Call der Deutschsprachigen Open Science AG, de-RSE und des GRN Nr. 81
+
+	* Datum: 2022-03-02 von 16:00 bis 17:00
+	* BBB-Raum: https://meet.gwdg.de/b/ste-hku-nvu
+		* Backup-Kanal bei technischen Problemen ist das Chat in diesem Pad!!!
+	* Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsprachigen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsame Projekt zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG - https://mlists.okfn.de/cgi-bin/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( https://doi.org/10.5281/zenodo.12326 / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+	* Hintergrund: Forschungsergebnisse sollten für alle im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagern sich immer weiter ins Netz - und auch in diesen frühen Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um, gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+	* Wer darf mitmachen? Alle, die Interesse an Open Science haben! Du brauchst kein tiefes Hintergrundwissen und kannst gerne Fragen stellen. Gerade Menschen ohne fundierten Hintergrund in Open Science, die sich in die Community einklinken möchten, sind herzlich willkommen.
+	* Zurück zum Masterpad: https://pad.okfn.de/p/openscience-ag-master-pad
+
+
+
+TeilnehmerInnen:
+	1. Konrad Förstner (ZB MED / TH Köln, @konradfoerstner)
+	2. Simon Christ (Leibniz Universität Hannover, @beastyblacksmith)
+	3. Stephan Janosch (MPI-CBG, de-RSE e.V.)
+	4. Christian Busse (DKFZ)
+	5. Daniel Mietchen (Leibniz-IGB & Fraunhofer-IBMT; @EvoMRI)
+	6. Axel Pahl (MPI für Molekulare Physiologie, Dortmund)
+
+Agenda und Protokoll
+
+Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deine Namen hinzu, so dass wir wissen, wer verantwortlich ist.
+
+	* Organisatorisches (Moderator)
+		* Dauer des Gespräches
+		* Bitte Protokoll mitschreiben - einfach die Agenda ergänzen
+	* Vorstellungsrunde
+	* Themenblock AG Open Science
+		* European Open Science Cloud (EOSC) Multi-Annual Roadmap 2023/24 (Christian)
+			* https://www.eosc.eu/multi-annual-roadmap-mar-consultation
+			* Procedural:
+				* Refines the objectives and desired outcomes of the Strategic Research & Innovation Agenda (SRIA)
+				* Will be taken into consideration by the EC for the upcoming Horizon Europe INFRA-EOSC calls
+				* EOSC Association welcomes feed-back until 2022-03-21
+			* Content:
+				* Open Science curricula, community engagement, upskilling, monitoring & KPIs for EOSC, AAI, data quality, PIDs, interaction with EU Data Spaces, harmonization of national legal norms, sustainability
+				* Data stewards and RSE are prominently mentioned, should be "provide[d with] meaningful career pathways that allow [them] to progress in academia".
+		* Proposal for EU Data Act (2022/0047) now published (Christian)
+			* https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022PC0068
+			* Final component of the EC's European Strategy for Data announced in early 2020 (COM/2020/66)
+			* Make data of "Smart" devices available to users, third-party service providers and public sector bodies
+			* Should not expect a broad impact on Open Science in general, there are interesting applications for environmental and health monitoring.
+	* Frage: Open Plattform for knowledge (Stephan Janosch)
+		* workshop result
+			* https://whiteboard.academiccloud.de/acceptProjectInvitation?token=97F0IdtZXI8%2F5UDQbKu1KrdHO2mEGLzIm%2FU32i6PG4zJf%2BidlDInpHK7%2FDTLEtDaEkvw0hs7jqPc1xxnGMimrJsQHv1V7nqDUhzzizzDOYTmsqH6i%2BfrjDW%2FmB5P6RCB
+				* ich komm da nicht rein
+			* wikidata -> visualisation
+				* was ist hier gemeint? 
+					* Darstellung der Fakten in zugänglicher Form, um sich selber in dem "Faktennetzwerk" zu verorten
+			* https://scholia.toolforge.org
+	* Open Science Barcamp - https://www.open-science-conference.eu/barcamp/
+	* Themenblock de-RSE - Research Software Engineering/Engineers
+		* OSEC 2022 - Session "The Software Pillar of Open Science" (Christian)
+			* Presentations and video recordings on: https://osec2022.eu/program/
+			* The talks by themselves did focused on well known aspects, e.g.,
+				* Software is important!
+				* Software is not data and therefore requires a different approach for its management
+				* We need training of users and recognition of RSEs
+				* And infrastructure would help, too ;-)
+			* Nevertheless having these talks in this context should be considered a positive sign that the EU has understood the high relevance of this issue.
+		* Software in Wikidata, genutzt fuer Digital Preservation
+			* https://wikidp.org/
+			* https://www.wikidata.org/wiki/Wikidata:WikiProject_Informatics/Software
+		* rSE22 - ist gelaufen (Stephan Janosch)
+			* https://www.SE-2022.de
+			* Recordings, Slides kommen
+		* MPG Workshop for research software engineering (Stephan Janosch)
+			* 12.-13. Mai
+			* https://workshops.evolbio.mpg.de/event/54/
+			* hybrid
+		* rSE23
+			* zusammen mit GI? letzte Feb-woche 2023
+			* RDA DE conf 13.-17. Februar 2023
+			* Paderborn, Heinz Nixdorf Forum
+	* Themenblock GRN - German Reproducibility Network
+		* DEIN THEMA (DEIN NAME)
+		* DEIN THEMA (DEIN NAME)
+	* nächster Termin: 2022-04-06 11:00
+

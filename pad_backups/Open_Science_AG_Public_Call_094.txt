@@ -1,0 +1,72 @@
+Call der Deutschsprachigen Open Science AG, de-RSE, des GRN und der DACH Carpentries Community Nr. 94
+
+	* Datum: 2023-06-07 von 11:00 bis 12:00 (Alternierend 11:00 / 16:00)
+	* BBB-Raum: https://meet.gwdg.de/b/ste-hku-nvu
+		* Backup-Kanal bei technischen Problemen ist das Chat in diesem Pad!!!
+	* Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsprachigen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsame Projekt zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG - https://mlists.okfn.de/cgi-bin/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( https://doi.org/10.5281/zenodo.12326 / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+	* Hintergrund: Forschungsergebnisse sollten für alle im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagern sich immer weiter ins Netz - und auch in diesen frühen Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um, gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+	* Wer darf mitmachen? Alle, die Interesse an Open Science haben! Du brauchst kein tiefes Hintergrundwissen und kannst gerne Fragen stellen. Gerade Menschen ohne fundierten Hintergrund in Open Science, die sich in die Community einklinken möchten, sind herzlich willkommen.
+	* Zurück zum Masterpad: https://pad.okfn.de/p/openscience-ag-master-pad
+
+
+
+TeilnehmerInnen:
+	1. Konrad Förstner (ZB MED/TH Köln)
+	2. Stephan Janosch
+	3. Christian Busse (DKFZ)
+	4. Frank Löffler (Uni Jena, de-RSE)
+	5. Robert Giessmann (IGDORE)
+	6. Claire Wyatt (JSC/FZJ)
+	7. Tobias Schlauch (DLR)
+	8. Sandra Zänkert (DSC | Uni Bremen)
+
+Agenda und Protokoll
+
+Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deine Namen hinzu, so dass wir wissen, wer verantwortlich ist.
+
+	* Organisatorisches (Moderator)
+		* Dauer des Gespräches
+		* Bitte Protokoll mitschreiben - einfach die Agenda ergänzen
+	* Vorstellungsrunde
+	* Themenblock AG Open Science
+		* Council calls for transparent, equitable, and open access to scholarly publications (Konrad)
+			* https://www.consilium.europa.eu/en/press/press-releases/2023/05/23/council-calls-for-transparent-equitable-and-open-access-to-scholarly-publications/
+			* https://www.dfg.de/en/research_funding/announcements_proposals/2023/info_wissenschaft_23_42/index.html
+		* CCCamp Ticket Sale has started yesterday, 2 more sales coming up (Sandra, nur fyi)
+			* Monday, 12.6., 15:00 h | Saturday, 24.6., 12:00 h
+			* https://events.ccc.de/2023/05/29/camp23-presale/
+		* https://www.bmbf.de/SharedDocs/Publikationen/de/bmbf/1/772960_Open_Access_in_Deutschland (Stephan)
+		* https://www.denbi.de/de-nbi-events/1522-fellowship-of-the-data-rdm-trainer-community-meeting (Robert)
+			* Robert will be there, mostly fyi
+			* Sandra also
+		* Competences of people - visibility
+			* Example: https://orcid.org/0000-0002-2401-6862
+			* ORCID API is limitied to members (to something else than your own data)
+			* Wikidata would be nice solution 
+			* https://scholia.toolforge.org/
+			* https://scholia.toolforge.org/author/Q18921408
+			* newsletter: 3 question to a person
+			* CRIS/FIS - would be a central repo for this kind of information
+		* Data Stewardship
+			* Empfehlungen für Data Stewardship an akademischen Forschungsinstitutionen
+				* DOI: 10.4126/FRL01-006441397
+	* Themenblock de-RSE - Research Software Engineering
+		* AR goggles as HID  (Stephan)
+			* https://www.heise.de/tests/Apple-Vision-Pro-im-Hands-on-Warum-ich-mich-sehr-wohl-Illusionen-hingeben-wuerde-9179768.html?wt_mc=rss.red.ho.ho.rdf.beitrag.beitrag
+			* https://holo4labs.com/
+			* Distopian short movie with AR contact lenses: https://www.youtube.com/watch?v=lK_cdkpazjI
+			* https://www.arrow.com/en/research-and-events/articles/how-vr-and-ar-are-driving-the-future-of-industrial-maintenance-safety-and-efficiency
+		* de-RSE 24 Organisation starting (DEIN NAME)
+			* first meeting next Monday 1pm
+		* unconference 
+	* Themenblock GRN - German Reproducibility Network
+		* DEIN THEMA (DEIN NAME)
+		* DEIN THEMA (DEIN NAME)
+	* Themenblock DACH Carpentry Community
+		* Max Carpentry (Stephan)
+		* DEIN THEMA (DEIN NAME)
+	* nächster Termin: 2023-07-06 16:00
+Willkommen im Pad der OKF!
+
+Bugs oder Hugs bitte an mailto:admin@okfn.de
+

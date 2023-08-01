@@ -1,0 +1,86 @@
+Call der Deutschsprachigen Open Science AG, de-RSE, des GRN und der DACH Carpentries Community Nr. 89
+
+	* Datum: 2022-12-07 von 11:00 bis 12:00 (Alternierend 11:00 / 16:00)
+	* BBB-Raum: https://meet.gwdg.de/b/ste-hku-nvu
+		* Backup-Kanal bei technischen Problemen ist das Chat in diesem Pad!!!
+	* Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsprachigen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsame Projekt zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG - https://mlists.okfn.de/cgi-bin/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( https://doi.org/10.5281/zenodo.12326 / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+	* Hintergrund: Forschungsergebnisse sollten für alle im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagern sich immer weiter ins Netz - und auch in diesen frühen Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um, gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+	* Wer darf mitmachen? Alle, die Interesse an Open Science haben! Du brauchst kein tiefes Hintergrundwissen und kannst gerne Fragen stellen. Gerade Menschen ohne fundierten Hintergrund in Open Science, die sich in die Community einklinken möchten, sind herzlich willkommen.
+	* Zurück zum Masterpad: https://pad.okfn.de/p/openscience-ag-master-pad
+
+
+
+TeilnehmerInnen:
+	1. Konrad Förstner (er/ihn/sein) - ZB MED/TH Köln, kuf@mastodon.social
+	2. Steffen Brinckmann (er/ihn/sein) - FZJ
+	3.  Simon Christ (er/ihn/sein) - Leibniz Uni Hannover, Computational Biology, christ@cell.uni-hannover.de
+	4. Sandra Zänkert - DSC Uni Bremen - Data steward 
+	5. Stephan Janosch (he/his ) MPI-CBG de-RSE
+	6. Frank Löffler - Universität Jena, de-RSE
+	7. Guido Scherp, ZBW, @GuidoScherp@openbiblio.social
+	8. Heidi Seibold (she/her), Selbstständige Trainerin und Beraterin for Open and Reproducible Data Science, @HeidiSeibold@fosstodon.org
+	9.  Erkan Gönül - Medizinische Bibliothek Charité
+10. Judith Wodke - Unimedizin Greifswald, Medizininformatik, Nachwuchsgruppe MeDaX
+11. Christian Busse - Deutsches Krebsforschungszentrum (DKFZ) Heidelberg
+12. Claire Wyatt, Community Manager Research Software Engineering, JSC/FZJ,
+13. Jörg F. Unger, Bundesanstalt für Materialforschung und -prüfung (BAM), Berlin
+14. Daniel Mietchen, Leibniz-IGB & Leibniz-FIZ & Wikidata/ Scholia
+
+
+Agenda und Protokoll
+
+Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deine Namen hinzu, so dass wir wissen, wer verantwortlich ist.
+
+	* Organisatorisches (Moderator)
+		* Dauer des Gespräches
+		* Bitte Protokoll mitschreiben - einfach die Agenda ergänzen
+	* Vorstellungsrunde
+	* Themenblock AG Open Science
+		* Open Science Retreat im April in Kochel (Heidi)
+			* Application Deadline 18.12.: https://www.getrevue.co/profile/open-science-retreat/issues/open-science-retreat-application-now-open-1415687
+			* Website: https://open.science-retreat.org/
+			* Partially unconference style, then open slot; also career and social activities
+			* April 3-7, 2023
+			* Social links: 
+				* https://fosstodon.org/@HeidiSeibold/109471795311553380, 
+				* https://twitter.com/HeidiBaya/status/1600428757302489088?s=20&t=5XYw35gc2F8aA8Lkt6DVVw, 
+				* https://www.linkedin.com/posts/dr-heidi-seibold_open-science-retreat-application-now-open-activity-7006193885039198208-l2HJ?utm_source=share&utm_medium=member_desktop
+		* Open Science Lab der TU Dresden | SLUB eröffnet
+			* https://www.slub-dresden.de/mitmachen/slub-open-science-lab
+			* Feierliche Eröffnung mit Workshop zum Thema "Unterstützungsstrukturen für Open Science im Vergleich" und einer Podiumsdiskussion mit Marina Münkler und Rafael Ball zum Thema "Chancen und Risiken einer offenen Wissenschaftskultur"
+			* es gibt mindestens 2 feste MitarbeiterInnen und enge Zusammenarbeit mit der TU Dresden und der SLUB
+			* das OSL ist ein ideeller Raum, der die Möglichkeit zum gemeinsamen Lernen schafft, bspw. im Unterschied zum OSL an der TIB Hannover
+		* Marble - Proprietary binary files (Steffen)
+			* Online Workshop 15. December 
+			* https://events.hifis.net/event/571/
+			* NFDI new section for industry engangement
+		* Leibniz Leitbild Open Science // Leibniz Open Science Policy (Guido)
+			* https://www.leibniz-gemeinschaft.de/fileadmin/user_upload/Bilder_und_Downloads/Forschung/Open_Science/Leitbild_Open_Science.pdf
+			* Englisch version will follow:)
+	* Themenblock de-RSE - Research Software Engineering
+		* Digital Summit / Digitalgipfel tomorrow and friday (Heidi)
+			* https://www.de.digital/DIGITAL/Redaktion/EN/Dossier/digital-summit.html
+			* Heidi will speak at the panel: Into the future with data – young perspectives on a sustainable data economy
+			* Software mentioned: https://youtu.be/KWL9azMeWF8?t=1353
+		* gathering of research software funders (Stephan Janosch)
+			* https://www.researchsoft.org/blog/2022-11/
+			* Multilateral Call on Research Software
+				* https://docs.google.com/forms/d/e/1FAIpQLSf9D36bNthRSOrhljWNfEyYz56u2rIM9RzhuMMx87UL4_V7Bg/viewform
+				* We would like to receive feedback from the international scientific community to understand the needs of scientists with regard to funding the development and enhancement of Research Software, as well the associated ecosystems (e.g., training, education, and policy). This will help us in crafting a joint multilateral funding initiative.
+				* Side note by Christian: There is a large upcoming call in Horizon Europe for "development of community-based approaches for ensuring and improving the quality of scientific software and code". https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2023-eosc-01-02
+		* While the deRSE23 is already closed and people are preparing for it, keep in mind:
+			* save the date: un-deRSE23: the 2023 RSE unconference: 2023-09-26 - 28 at "altes Dornburger Schloß" near Jena (https://www.thueringen.info/dornburger-schloesser.html; more information to come)
+		* Course for creating reports using pythontex and julia (https://comp-bio.idmpages.uni-h.de/teaching/julia-physics-report/) (Simon Christ, christ@cell.uni-hannover.de)
+		* ReSA Newsletter: https://www.researchsoft.org/news/2022-12/ (Stephan Janosch)
+		* https://de-rse23.sciencesconf.org/ (Stephan Janosch)
+			* registration opens in 5 days
+		* Onboarding of RSEs. How to? (Sandra)
+			* problem: many new RSEs hired, how to support them best?
+			* answers:
+				* connect them!
+				* provide information on available infrastructure
+				* establish a shared documentation 
+	* Themenblock GRN - German Reproducibility Network
+		* Find the Open Science Community on Mastodon, we curate a list here: https://germanrepro.github.io/Mastodon-OpenScience/ (Guido)
+		* DEIN THEMA (DEIN NAME)
+	* nächster Termin: DATUM

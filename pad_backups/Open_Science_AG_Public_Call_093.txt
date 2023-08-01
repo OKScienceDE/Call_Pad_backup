@@ -1,0 +1,90 @@
+Call der Deutschsprachigen Open Science AG, de-RSE, des GRN und der DACH Carpentries Community Nr. 93
+
+	* Datum: 2023-05-03 von 16:00 bis 17:00 (Alternierend 11:00 / 16:00)
+	* BBB-Raum: https://meet.gwdg.de/b/ste-hku-nvu
+		* Backup-Kanal bei technischen Problemen ist das Chat in diesem Pad!!!
+	* Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsprachigen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsame Projekt zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG - https://mlists.okfn.de/cgi-bin/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( https://doi.org/10.5281/zenodo.12326 / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+	* Hintergrund: Forschungsergebnisse sollten für alle im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagern sich immer weiter ins Netz - und auch in diesen frühen Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um, gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+	* Wer darf mitmachen? Alle, die Interesse an Open Science haben! Du brauchst kein tiefes Hintergrundwissen und kannst gerne Fragen stellen. Gerade Menschen ohne fundierten Hintergrund in Open Science, die sich in die Community einklinken möchten, sind herzlich willkommen.
+	* Zurück zum Masterpad: https://pad.okfn.de/p/openscience-ag-master-pad
+
+
+TeilnehmerInnen:
+	1. Christian Busse (DKFZ)
+	2. Florian Goth (Uni Würzburg)
+	3. Lambert Heller (TIB)
+	4. Sandra Zänkert (DSC | Uni Bremen)
+	5. Claire Wyatt (Julich Supercomputing Centre, FZJ)
+	6. Julian Lenz (Swansea University)
+	7. Stephan Janosch (MPI-CBG, de-RSE e.V.)
+	8. Peter Schmidt 
+	9. Tasso Mulzer (BHT, Guest via Lambert)
+
+Agenda und Protokoll
+
+Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deine Namen hinzu, so dass wir wissen, wer verantwortlich ist.
+
+	* Organisatorisches (Moderator)
+		* Dauer des Gespräches
+		* Bitte Protokoll mitschreiben - einfach die Agenda ergänzen
+	* Vorstellungsrunde
+	* Themenblock AG Open Science
+	* ç
+		* Konsultation zum Forschungsdatengesetz (Christian)
+			* BMBF bittet um Feedback zu einer Liste an Punkten, die von dem Gesetz adressiert werden könnten/sollten.
+			* Deadline war Di, 2023-04-11
+			* https://www.bmbf.de/bmbf/shareddocs/kurzmeldungen/de/2023/03/230306-forschungsdatengesetz.html
+			* Kommentierung von DFG, NFDI, deRSE:
+				* deRSE: https://github.com/DE-RSE/Rueckmeldung_Konsultation_Forschungsdatengesetz
+				* DFG: https://www.dfg.de/service/presse/pressemitteilungen/2023/pressemitteilung_nr_10/
+		* open science barometer (Stephan Janosch)
+			* https://barometredelascienceouverte.esr.gouv.fr/codes-et-logiciels/disciplines?id=disciplines.partage
+			* https://www.softwareheritage.org/
+		* Datenräume gestalten - https://www.volkswagenstiftung.de/de/veranstaltungen/datenraeume-deutschland-und-europa-gestalten-impulse-der
+			* kurze Zusammenfassung der Veranstaltung in Hannover
+			* RfII, NFDI, EOSC, (+GAIA-X)
+			* organised by RfII for designing dataspaces for researchers.
+			* NFDI focus. Not much comparison with others
+			* Bottlenecks of NFDI.
+			* Deciding which data should be fair or at the other extreme, disposable.
+			* What are stakeholders expected to do wrt to data infrastructures.
+			* salary levels for infrastructure personnel
+			* Another Summary: https://www.linkedin.com/pulse/nachbetrachtungen-zur-tagung-des-rates-f%C3%BCr-datenr%C3%A4ume-dietrich-nelle
+		* Scientists for Future - event in Hannover on May 13 https://klimaschutzkalender-hannover.de/Veranstaltung/scientists-for-future-erstes-bundesweites-vor-ort-treffen-12-5-14-5-2023/ (Lambert)
+			* TIB contributes a little bit, at least we want to bring attention to matters of open research infrastructure
+		* re:publica this June in Berlin again, including a public meetup of the Open Hardware Alliance: https://re-publica.com/de/session/open-hardware-allianz-meetup and a Workshop on Historical Data on Wikidata etc (Lambert)
+		* Getting into contact with other players from legislation, politics, journalists, economy,...
+		* https://opensourcepodcast.podigee.io/
+		* for listening pleasure from the last re:publica: https://radio.ccc-p.org/#nt-2022-06-13
+		* For your reading pleasure: https://background.tagesspiegel.de/digitalisierung/von-mastodon-fuer-eine-offenere-forschungsinfrastruktur-lernen
+			* Lambert wants feedback on it
+		* Data Stewardship in deutschen akademischen Forschungsinstitutionen – Untersuchung des Status Quo und Empfehlungen für Aus- und Profilbildung (Stephan Janosch)
+			* https://doi.org/10.4126/FRL01-006441397
+			* Präsentationsfolien zur Übersicht: https://zenodo.org/record/7327371
+		* ChaosCommunicationCamp 2023: https://events.ccc.de/2023/04/21/camp2023/ (Sandra)
+			* Save the Date: 15. bis 19. August 2023
+			* CfP noch ausstehend
+	* Themenblock de-RSE - Research Software Engineering
+		* https://adore.software/ wants feedback (Stephan Janosch)
+			* https://adore.software/2023/04/research-software-community-feedback/
+		* https://www.uni-marburg.de/en/hefdi/hefdi-data-event/hefdi-code-school-sustainable-research-software#workshop---may-12---scientific-software-development-is-not-a-jenga-game-
+		* https://rsecon23.society-rse.org (Julian)
+		* de Unconference 2023 - September in Jena - Call for Submissions still open - https://de-rse23.sciencesconf.org/
+		* de-RSE 24 has now a chair. Watch the mailing list (Stephan Janosch)
+		* Onboarding (SJ)
+			* Sysadmin - Account - people forget
+			* Onboarding with Secretary did not work out either
+			* Website is there - hardly read
+			* Poster on door
+			*  
+	* Themenblock GRN - German Reproducibility Network
+		* DEIN THEMA (DEIN NAME)
+		* DEIN THEMA (DEIN NAME)
+	* Themenblock DACH Carpentry Community
+		* DEIN THEMA (DEIN NAME)
+		* DEIN THEMA (DEIN NAME)
+	* nächster Termin: Mi., 2023-06-07 11:00
+
+
+
+

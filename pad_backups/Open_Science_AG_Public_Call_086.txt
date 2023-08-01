@@ -1,0 +1,85 @@
+Call der Deutschsprachigen Open Science AG, de-RSE und des GRN Nr. 86
+	* Datum: 2022-09-07 von 16:00 bis 17:00 (Alternierend 11:00 / 16:00)
+	* BBB-Raum: https://meet.gwdg.de/b/ste-hku-nvu
+		* Backup-Kanal bei technischen Problemen ist das Chat in diesem Pad!!!
+	* Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsprachigen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsame Projekte zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG - https://mlists.okfn.de/cgi-bin/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( https://doi.org/10.5281/zenodo.12326 / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+	* Hintergrund: Forschungsergebnisse sollten für alle im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagern sich immer weiter ins Netz - und auch in diesen frühen Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um, gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+	* Wer darf mitmachen? Alle, die Interesse an Open Science haben! Du brauchst kein tiefes Hintergrundwissen und kannst gerne Fragen stellen. Gerade Menschen ohne fundierten Hintergrund in Open Science, die sich in die Community einklinken möchten, sind herzlich willkommen.
+	* Zurück zum Masterpad: https://pad.okfn.de/p/openscience-ag-master-pad
+
+
+
+TeilnehmerInnen:
+	1. Konrad Förstner (ZB MED & TH Köln)
+	2. Henrik tom Wörden (IndiScale GmbH)
+	3. Stephan Janosch (MPI-CBG, de-RSE)
+	4. Philipp Zumstein (Universitätsbibliothek Mannheim, OA, OS)
+	5. Christine Mieck (Charité)
+	6. Erkan Gönül (Charité)
+	7. Sandra Zänkert (Uni Bremen | DSC)
+	8. Victor Venema (Bonn | Translate Science)
+	9. Holger Dinkel (MPI Tuebingen)
+	10. Bernadette Fritzsch (AWI)
+	11. Guido Scherp (ZBW)
+	12. Daniel Mietchen (Leibniz-IGB & Leibniz-FIZ, Wikimedia)
+	13. Alexander Struck (ExC Matters of Activity, FAIR4RS, de-RSE)
+	14. Yves Vincent Grossmann (MPDL)
+	15. Michael Franke (MPDL)
+	16. Simon Christ (Leibniz Universität Hannover)
+	17. Steffen Brinckmann (FZJ)
+
+Agenda und Protokoll
+
+Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deine Namen hinzu, so dass wir wissen, wer verantwortlich ist.
+
+	* Organisatorisches (Moderator)
+		* Dauer des Gespräches
+		* Bitte Protokoll mitschreiben - einfach die Agenda ergänzen
+	* Vorstellungsrunde
+	* Themenblock AG Open Science
+		* Recap Open Science Festival (Konrad)
+			* https://www.uni-hannover.de/de/universitaet/profil/ziele-strategien/open-science/festival/
+			* Aufzeichnung der Keynote und Plenumsdiskussionen: https://tib.eu/osf2022videos
+		* Definitionen und Hypothesen als separate Publikationstypen (Daniel)
+			* Bei Octopus kann man Hypothesen veröffentlichen. https://www.octopus.ac
+			* Könnte auch gut im Open Knowledge Graph eine Heimat finden (https://orkg.org)
+			* RIO: https://riojournal.com
+			* Vielleicht gibt es eine Ähnlichkeit mit https://www.wikipathways.org/index.php/WikiPathways
+			* Links dazu:
+				* https://doi.org/10.3897/neobiota.68.66685 (Proposal)
+				* https://github.com/InvasionBiologyHypotheses ()
+				* https://riojournal.com/article/68595/instance/7075986/ (article types)
+		* Veranstaltungshinweis: Mannheim Open Science Day am 10.10.2022 https://www.bib.uni-mannheim.de/ihre-ub/ausstellungen-und-veranstaltungen/open-science-day-2022/ (Philipp)
+			* Zum Verteilen im Fediverse: https://fediscience.org/@OpenScienceDeutschland/108957593001670767
+		* DEIN THEMA (DEIN NAME)
+	* Themenblock de-RSE - Research Software Engineering
+		* Feedback der Open Science Community zu CaosDB (https://caosdb.org) (Henrik tom Wörden; IndiScale GmbH https://indiscale.com)
+			* Try out the live demo: https://demo.indiscale.com
+			* Matrix Channel https://matrix.to/#/!unwwlTfOznjEnMMXxf:matrix.org
+			* https://gitlab.indiscale.com/caosdb/src/caosdb-docker/-/blob/main/README_SETUP.md
+		* 2. internationaler Tag der Forschungssoftware (Stephan J). 2. Donnerstag im Oktober
+			* https://github.com/DE-RSE/projekte/issues/11
+				* Wer hat denn den Tag definiert?
+					* ca. https://society-rse.org/international-rse-day-14th-october-2021/ ?
+				* http://researchsoftware.org
+				* vielleicht mal die Nutzung von Forschungssoftware kartieren?
+					* Skizzze: https://scholia.toolforge.org/use/Q3699942
+		* de-RSE Mitgliederversammlung (Stephan J)
+			* offene Beteiligung bei de-RSE-Vorstandssitzungen
+		* NFDI-Veranstaltungen (Stephan J.)
+			* Sektion CI - 19.9., 9-11 Uhr, einen kleinen Workshop zu einem geplanten "NFDI Software Marketplace"
+				* URL?
+			* Sektion CI, nächster Call AG RSE 14.09., 11 Uhr
+		* Upcoming: dataset release of software mined from PubMed Central (Daniel)
+			* currently, this is only a snapshot - who would be in a position to turn this into a service?
+				* https://pubmed.ncbi.nlm.nih.gov/35111920/ - nein, anderes Team
+				* vielleicht 
+					* OpenAlex? Infosheet zu OpenAlex: https://gfzpublic.gfz-potsdam.de/rest/items/item_5012153_3/component/file_5012154/content
+					* ZB MED?
+					* Gesellschaft fuer Informatik? 
+						* NFDI Konsortium - NFDI4CX ? Bewerber der Runde 3
+		* DEIN THEMA (DEIN NAME)
+	* Themenblock GRN - German Reproducibility Network
+		* 3-day crash course in Open Science / Reproducible Research: https://www.osc.uni-muenchen.de/news/crash_course_20220927/index.html (Guido)
+		* DEIN THEMA (DEIN NAME)
+	* nächster Termin: 5.10.2022 - 11 Uhr

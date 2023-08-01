@@ -19,7 +19,7 @@ backup_master_pad(){
 }
 
 backup_calls_notes_okfn_de(){
-    for MEETING_NUMBER in $(seq 70 80)
+    for MEETING_NUMBER in $(seq 81 95)
     do
 	NUMBER_STRING=$(printf "%03d" "${MEETING_NUMBER}")
 	curl https://pad.okfn.de/p/Open_Science_AG_Public_Call_"${NUMBER_STRING}"/export/txt \

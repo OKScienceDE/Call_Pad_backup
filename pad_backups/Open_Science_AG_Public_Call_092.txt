@@ -1,0 +1,66 @@
+Call der Deutschsprachigen Open Science AG, de-RSE, des GRN und der DACH Carpentries Community Nr. 92
+
+	* Datum: 2023-03-01 von 16:00 bis 17:00 (Alternierend 11:00 / 16:00)
+	* BBB-Raum: https://meet.gwdg.de/b/ste-hku-nvu
+		* Backup-Kanal bei technischen Problemen ist das Chat in diesem Pad!!!
+	* Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsprachigen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsame Projekt zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG - https://mlists.okfn.de/cgi-bin/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( https://doi.org/10.5281/zenodo.12326 / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+	* Hintergrund: Forschungsergebnisse sollten für alle im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagern sich immer weiter ins Netz - und auch in diesen frühen Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um, gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+	* Wer darf mitmachen? Alle, die Interesse an Open Science haben! Du brauchst kein tiefes Hintergrundwissen und kannst gerne Fragen stellen. Gerade Menschen ohne fundierten Hintergrund in Open Science, die sich in die Community einklinken möchten, sind herzlich willkommen.
+	* Zurück zum Masterpad: https://pad.okfn.de/p/openscience-ag-master-pad
+
+
+
+TeilnehmerInnen:
+	1. DEIN NAME
+	2. Florian Goth (Uni Würzburg)
+	3. Philipp Zumstein (UB Mannheim)
+	4. Sandra Zänkert (Uni Bremen | DSC)
+	5. Lambert Heller (TIB)
+	6. Christine Mieck (Charité)
+	7. Leyla Jael Castro (ZB MED)
+	8. Daniel Mietchen (Wikidata, NFDI/MaRDI)
+
+Agenda und Protokoll
+
+Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deine Namen hinzu, so dass wir wissen, wer verantwortlich ist.
+
+	* Organisatorisches (Moderator)
+		* Dauer des Gespräches
+		* Bitte Protokoll mitschreiben - einfach die Agenda ergänzen
+	* Lockerer Austausch über Wege / Übungen um Git kennenzulernen
+	* Vorstellungsrunde
+	* Florian: Software Carpentry in Würzburg: https://swcarpentry-wuerzburg.github.io/2023-03-22-wuerzburg/
+	* Themenblock AG Open Science
+		* Reforming Research Assessment: how to implement responsible procedures and move beyond impact factors and h-index?
+			* Registration:  https://en.xing-events.com/AUCGBGM.html 
+			* Maybe of interest for those working in this topic: https://coara.eu/
+		* 4Culture Plenary in Mainz: https://nfdi4culture.de/de/aktuelles/veranstaltungen/3-nfdi4culture-community-plenary.html - if you know colleagues working on/with data in the cultural heritage sector (museums, archives, libraries, tv/radio archive etc.) please pass them this link :) 
+		* https://zbmed.github.io/damalos/ Workshop on Metadata and Research (objects) Management for Linked Open Science - DaMaLOS 2023
+		* Open hardware reproducibility (Daniel)
+			* see also https://open-hardware-allianz.de/ 
+			* https://github.com/Daniel-Mietchen/ideas/issues/1742#issuecomment-1414482219
+			* Not about openness but about FAIRness https://www.rd-alliance.org/groups/fair-principles-research-hardware
+			* Daniel is looking for contacts in Germany
+			* Classify requirements for each Design
+			* Be able to map to available makerspaces
+			* map of open workshops in Germany: https://www.offene-werkstaetten.org/werkstatt-suche
+			* some open citizen science/hacker projects:
+				* https://www.openbikesensor.org/
+				* https://luftdaten.info
+				* https://github.com/Binary-Kitchen/SolderingTutorial
+		* DEIN THEMA (DEIN NAME)
+	* Themenblock de-RSE - Research Software Engineering
+		* https://un-derse23.sciencesconf.org/index 
+		* https://nfdi-jupyter.github.io/services/ (Florian) https://github.com/NFDI-Jupyter
+		* Daniel mentions the reproducible initiative of Mardi
+		* Wikimedia has a jupyter instance
+			* https://paws.wmflabs.org/ (does not work for me, maybe https://hub-paws.wmcloud.org/ or https://public-paws.wmcloud.org/ ?)
+	* Themenblock GRN - German Reproducibility Network
+		* DEIN THEMA (DEIN NAME)
+		* DEIN THEMA (DEIN NAME)
+	* Themenblock DACH Carpentry Community
+		* New Airports in AMY!
+		* DEIN THEMA (DEIN NAME)
+	* nächster Termin: 04.04.2023, 11:00
+		* Climate Justice as a topic for the Open Science / Open Data movement? - Daniel will repare something about this for the next meeting. Eg. it should be a default to  calculate the carbon footrpint of your scientific conduct.  Could be part of research data management plans. 
+			* but Open Science is a term which is often used differently or understand quite different, thus maybe keep the terms seperate could also be okay

@@ -1,0 +1,80 @@
+Call der Deutschsprachigen Open Science AG, de-RSE und des GRN Nr. 082
+
+	* Datum: 2022-04-06 von 11:00 bis 12:00 (Alternierend 11:00 / 16:00)
+	* BBB-Raum: https://meet.gwdg.de/b/ste-hku-nvu
+		* Backup-Kanal bei technischen Problemen ist das Chat in diesem Pad!!!
+	* Ziel: Der Public Call soll dazu dienen, sich innerhalb der deutschsprachigen Open-Science-Szene auszutauschen, zu vernetzen und gemeinsame Projekt zu starten. Wir möchten diesen möglichst einmal pro Monat durchführen. Bei Rückfragen oder Anmerkungen wird gebeten, sich an die Mailingliste der AG - https://mlists.okfn.de/cgi-bin/mailman/listinfo/open-science-de - zu wenden. Vorraussetzungen gibt es keine, aber es wird empfohlen, sich mit dem Mission Statement der deutschsprachigen Open Science AG ( https://doi.org/10.5281/zenodo.12326 / https://github.com/OKScienceDE/Mission_Statement ) auseinanderzusetzen
+	* Hintergrund: Forschungsergebnisse sollten für alle im Netz frei zugänglich sein. Doch auch Forschungsmethoden, der Forschungsprozess selbst, Rohdaten, die gemeinsame Bearbeitung der Daten etc. verlagern sich immer weiter ins Netz - und auch in diesen frühen Stadien, also noch lange vor dem fertigen Artikel oder Buch, hat Offenheit viele Vorteile. Dieser Gedanke steckt hinter dem Stichwort "Open Science". Mit "Open Science" beschäftigen sich viele, aus verschiedenen Blickwinkeln. Forscher probieren neue Tools aus, Firmen schaffen neue Angebote für diese Zielgruppe. WissenschaftsjournalistInnen berichten darüber, experimentieren aber auch mit ihren eigenen Formen und werden zunehmend ergänzt (verdrängt?) durch Wissenschaftsblogger. Etablierte Player wie Rechenzentren und wissenschaftliche Bibliotheken versuchen ihre Rolle ebenfalls den neuen Möglichkeiten anzupassen. Und so weiter. Hört man sich zum Thema "Open Science" heute um, gewinnt man schnell den Eindruck: Die Musik spielt im englischsprachigen Raum, in Deutschland, Österreich und der Schweiz ist das hingegen eher noch ein Nischenthema. Die vielen vereinzelten Projekte und AktivistInnen im deutschsprachigen Raum sollten sich einfacher und häufiger austauschen können, in einem informellen Rahmen. Wir wollen das mit einer monatlichen einstündigen offenen Videokonferenz versuchen! Zum Thema "Open Science" traf sich am 16.7.2014 im Rahmen des OKFestivals in Berlin eine deutschsprachige Arbeitsgruppe. Ziel der Arbeitsgruppe ist die Vernetzung von Aktiven im Bereich Öffnung von Wissenschaft und Forschung (Open Science) und die Erarbeitung rechtssicherer Rahmenbedingungen für das Veröffentlichen von Forschungsergebnissen. Zusätzlich soll die Arbeitsgruppe die Zusammenarbeit mit anderen internationalen Open-Science-Gruppen koordinieren und als Ansprechpartner für Forscher, Institute, Zivilgesellschaft, Wirtschaft und Politik zum Thema Offene Wissenschaft fungieren.
+	* Wer darf mitmachen? Alle, die Interesse an Open Science haben! Du brauchst kein tiefes Hintergrundwissen und kannst gerne Fragen stellen. Gerade Menschen ohne fundierten Hintergrund in Open Science, die sich in die Community einklinken möchten, sind herzlich willkommen.
+	* Zurück zum Masterpad: https://pad.okfn.de/p/openscience-ag-master-pad
+
+
+
+TeilnehmerInnen:
+	1. Konrad Förstner (ZB MED/TH Köln, @konradfoerstner, er/sein/ihn)
+	2. Stephan Janosch (MPI-CBG, de-RSE, @StephanJanosch)
+	3. Simon Christ (Leibniz Universität Hannover, @BeastyBlacksmith)
+	4. Sandra Zänkert (@z_sazae)
+	5. Felix Schönbrodt (LMU Open Science Center, GRN)
+	6. Martin Scheidt (TU Braunschweig, @_kaat0)
+	7. Lambert Heller (TIB)
+	8. Christian Busse (DKFZ)
+	9. Leyla Jael Castro (ZB MED)
+	10. Sonja Bayer (DIPF, Verbund Forschungsdaten Bildung)
+	11. Daniel Mietchen (Wikidata)
+
+Agenda und Protokoll
+
+Du bist herzlich eingeladen, hier Deine Themen einzutragen. Bitte schreibe hinter dem Thema deine Namen hinzu, so dass wir wissen, wer verantwortlich ist.
+
+	* Organisatorisches (Moderator)
+		* Dauer des Gespräches
+		* Bitte Protokoll mitschreiben - einfach die Agenda ergänzen
+	* Vorstellungsrunde
+	* Themenblock AG Open Science
+		* DFG "VIGO" Programm ("Verantwortung für Informationsinfrastrukturen gemeinsam organisieren")
+			* https://www.dfg.de/foerderung/programme/infrastruktur/lis/lis_foerderangebote/vigo/
+			* Maybe useful for creating Community Manager positions
+		* Konkretisierung der Anforderungen zum Umgang mit Forschungsdaten in Förderanträgen (Konrad)
+			* https://www.dfg.de/foerderung/info_wissenschaft/info_wissenschaft_22_25/index.html
+		* NFDI Infra Talk vom Montag (Stephan Janosch)
+			* NFDI InfraTalk: (Bio)schemas (4 April 2022)
+			* https://youtu.be/PnwlKWBTqNg
+			* https://bioschemas.org/
+			* https://bio.tools/
+			* https://codemeta.github.io
+			* Leyla is on the steering committee - ask her if you have question
+		* The Turing Way https://the-turing-way.netlify.app/welcome.html (Simon Christ)
+		* We try the Dutch format "Open Science Festival" for the first time in Germany, this August: https://opensciencefestival.de/ - registration starts next week, would like to invite you to join, and also to tell me what you thing about the agenda
+		* Call for proposals: https://biohackathon-europe.org/projects.html (Leyla Jael)
+	* Themenblock de-RSE - Research Software Engineering (Stephan Janosch)
+		* #FORS22 - Future Opportunities for Software in Research
+			* MPG RSE Workshop (SJ)
+			* schedule is final
+			* hybrid event, for free, May 12-13 in Plön (SH)
+			* https://workshops.evolbio.mpg.de/event/54/
+		* RS in der Evaulation von Forschungsleistung? (Felix)
+			* the INRIA Evaluation Committee Criteria for Software Self-Assessment: https://www.inria.fr/sites/default/files/2019-10/Criteria_software_self_assessment.pdf
+			* Alliez et al. (2020). Attributing and Referencing (Research) Software: Best Practices and Outlook From Inria. Computing in Science & Engineering, 22(1), 39–52. https://doi.org/10.1109/MCSE.2019.2949413
+			* Gomez-Diaz T and Recio T. On the evaluation of research software: the CDUR procedure [version 2; peer review: 2 approved]. F1000Research 2019, 8:1353 (https://doi.org/10.12688/f1000research.19994.2)
+			* Examples in practice?
+			* RIO would welcome such discussion papers - https://riojournal.com/
+			* https://www.ebi.ac.uk/biomodels/
+		* de-RSE (SJ)
+			* mehr Community-Engagement ermöglichen
+			* Mitgliederversammlung wird vorbereitet
+		* RSE23-Konferenz (SJ)
+			* February 2023 - Heinz Nixdorf Forum in Paderborn
+			* call for organisers follows today via liste@rse-de.org
+			* 
+		* 
+	* Themenblock GRN - German Reproducibility Network
+		* 3 Position papers - links? how to get involved?
+			* Ich bin Hannah
+			* open data - input for work in Koalitionsvertrag
+			* scholar-led research infrastructure
+			* https://doi.org/10.5281/zenodo.4454639
+		* Forschung und Lehre
+			* https://www.forschung-und-lehre.de/heftarchiv/ausgabe-4/22
+			* Wissenschaft ist kein Lobbyismus – Über den schmalen Grat politischer Einflussnahme
+	* nächster Termin: 2022-05-04 16:00
